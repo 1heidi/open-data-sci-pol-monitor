@@ -1,0 +1,142 @@
+OPEN DATA / SCIENCE POLICY MONITOR REPORT
+Generated on December 14, 2025
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. Academic publishing faces a critical moment requiring redesign to avoid impeding societal progress. [1] [2] [3] [3] [4]
+
+2. Efforts in 2025 align conferences with sustainable UN goals for science editors. [5] [6] [7] [8] [9] [10]
+
+3. SEO remains key for content discoverability amid evolving search landscapes. [4] [11] [12] [8] [13] [14]
+
+4. Libraries explore models for research services cost recovery indicating a shift in the community. [15] [7] [1] [6] [16] [14]
+
+5. Bridging research data management and data science is highlighted as a challenge for integration. [6] [17] [9] [8] [18] [7]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: Google’s Last Last Year in Search [11]
+SOURCE: The Scholarly Kitchen
+
+The text discusses whether the year in search at Google will be the last one featured.
+------------------------------------------------------------
+TITLE: Guest Post: Academic Publishing Is Not Fit for the Future – If We Don’t Act Now, The Vital Role Research Plays in Society Is at Risk [1]
+SOURCE: The Scholarly Kitchen
+
+Academic publishing is facing a critical moment where redesign is needed to avoid hindering progress and risking the vital role that research plays in society. Failure to act now could have consequences affecting research, education, and public trust in academia.
+------------------------------------------------------------
+TITLE: Guest Post — Sustainable Practices and UN SDG Alignment at the 2025 EASE Conference in Oslo [5]
+SOURCE: The Scholarly Kitchen
+
+In 2025, efforts were made to organize a sustainable conference for the European Association for Science Editors, aligning with UN Sustainable Development Goals.
+------------------------------------------------------------
+TITLE: SEO Still Matters: Building Blocks for the Future of Content Discoverability [4]
+SOURCE: The Scholarly Kitchen
+
+SEO (search engine optimization) remains a critical factor for publishers and marketers amidst evolving search and user behavior landscapes. The text emphasizes the importance of SEO in ensuring content discoverability for the future.
+------------------------------------------------------------
+TITLE: Guest Post — Funding Research Services: How Libraries are Exploring Cost Recovery Models [15]
+SOURCE: The Scholarly Kitchen
+
+Libraries are exploring cost recovery models for funding research services, as shown in a recent survey, indicating a transition in the library community.
+------------------------------------------------------------
+TITLE: Bridging Two Worlds: Reflections from the IDW2025 Panel on Research Data and Data Science [6]
+SOURCE: CODATA Blog
+
+Speakers at IDW2025 highlighted the challenge of bridging the gap between research data management and data science, which operate in separate spheres with their own events and priorities, despite sharing data as a core currency.
+------------------------------------------------------------
+TITLE: MP-IDSA Vacancies for the Position of Research Fellow, Associate Fellow, Research Analyst: https://www.idsa.in/about/job [16]
+SOURCE: JCU Sci Policy
+
+The Manohar Parrikar Institute For Defence Studies and Analyses (MP-IDSA) is advertising vacancies for the positions of Research Fellow, Associate Fellow, and Research Analyst, with more details available at https://www.idsa.in/about/job.
+------------------------------------------------------------
+TITLE: ResComm 2025: Research Communication Conclave: Bringing Research into Action | 17-19 December, Sonipat, India [7]
+SOURCE: JCU Sci Policy
+
+The Research Communication Conclave in 2025 aims to bring together researchers and communication professionals to explore innovative strategies for making research more accessible and influential, bridging the gap between scholars and society. The event includes workshops, speakers, exhibitions, and networking opportunities for scientists, academics, communicators, and students to enhance research communication practices.
+------------------------------------------------------------
+TITLE: News [12]
+SOURCE: SERPAPI Google Search
+
+proclamations, executive orders, and press releases.
+------------------------------------------------------------
+TITLE: Office of Data Science and Sharing (ODSS) | NICHD [8]
+SOURCE: SERPAPI Google Search
+
+ODSS serves as a reliable source of information for NICHD staff and researchers regarding all NIH data and specimen sharing policies.
+------------------------------------------------------------
+TITLE: NIH Policy on Enhancing Security Measures for Human ... [13]
+SOURCE: SERPAPI Google Search
+
+The NIH has established a policy for enhancing security measures related to the sharing or distribution of U.S. person's biospecimens in research. This policy aims to address the potential risks associated with the collection and dissemination of such data.
+------------------------------------------------------------
+TITLE: Data Deidentification for Data Sharing in Educational and ... [14]
+SOURCE: SERPAPI Google Search
+
+The text discusses the significance of data sharing in educational and psychological research, highlighting the historical background of this practice. It emphasizes the importance of open data policies in promoting transparency and collaboration within the scientific community.
+------------------------------------------------------------
+TITLE: Open Access Publishing: Why open access (OA)? [2]
+SOURCE: SERPAPI Google Search
+
+The text discusses a community resource that allows individuals to track and understand US federal funder requirements for sharing research articles and data related to open access and open science policy in the United States.
+------------------------------------------------------------
+TITLE: NIH's proposed caps on open-access publishing fees roil ... [3]
+SOURCE: SERPAPI Google Search
+
+Universities typically cover the cost of journal subscriptions, while Article Processing Charges (APCs) are intended to offset subscription revenue when research is published as open access in scientific journals in the U.S.
+------------------------------------------------------------
+TITLE: Research Data Management Platform: Secure Your 2025 [9]
+SOURCE: SERPAPI Google Search
+
+Researchers can secure their work by selecting a research data management platform that is compliant with regulations, focuses on FAIR data principles, and supports AI-driven advancements in their field. The right platform can help researchers manage, share, and analyze their data more effectively.
+------------------------------------------------------------
+TITLE: Ten simple rules for effective research data management [17]
+SOURCE: SERPAPI Google Search
+
+Data retention requirements for open data or open science policies can vary widely, potentially lasting between 10 to over 25 years depending on factors such as country, funder, data type, or subject domain.
+------------------------------------------------------------
+TITLE: The Human Infrastructure of Open Science [10]
+SOURCE: SERPAPI Google Search
+
+as prioritizing speed and impact factors over accuracy can lead to toxic incentives, while competent mentors focus on instilling solid ethical principles.
+------------------------------------------------------------
+TITLE: NIH Indirect Costs Policy for Research Grants [18]
+SOURCE: SERPAPI Google Search
+
+In FY2024, 28% of the $33 billion awarded by NIH went toward indirect costs, totaling $9.3 billion.
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. Guest Post: Academic Publishing Is Not Fit for the Future – If We Don’t Act Now, The Vital Role Research Plays in Society Is at Risk — https://scholarlykitchen.sspnet.org/2025/12/11/guest-post-academic-publishing-is-not-fit-for-the-future-if-we-dont-act-now-the-vital-role-research-plays-in-society-is-at-risk/
+2. Open Access Publishing: Why open access (OA)? — https://research.lib.buffalo.edu/open-access/why-oa
+3. NIH's proposed caps on open-access publishing fees roil ... — https://www.science.org/content/article/nih-s-proposed-caps-open-access-publishing-fees-roil-scientific-community
+4. SEO Still Matters: Building Blocks for the Future of Content Discoverability — https://scholarlykitchen.sspnet.org/2025/12/09/seo-still-matters-building-blocks-for-the-future-of-content-discoverability/
+5. Guest Post — Sustainable Practices and UN SDG Alignment at the 2025 EASE Conference in Oslo — https://scholarlykitchen.sspnet.org/2025/12/10/guest-post-sustainable-practices-and-un-sdg-alignment-at-the-2025-ease-conference-in-oslo/
+6. Bridging Two Worlds: Reflections from the IDW2025 Panel on Research Data and Data Science — https://codata.org/blog/2025/12/12/bridging-two-worlds-reflections-from-the-idw2025-panel-on-research-data-and-data-science/
+7. ResComm 2025: Research Communication Conclave: Bringing Research into Action | 17-19 December, Sonipat, India — http://cssp-jnu.blogspot.com/2025/12/rescomm-2025-research-communication.html
+8. Office of Data Science and Sharing (ODSS) | NICHD — https://www.nichd.nih.gov/about/org/od/odss
+9. Research Data Management Platform: Secure Your 2025 — https://lifebit.ai/blog/research-data-management-platform-guide/
+10. The Human Infrastructure of Open Science — https://upstream.force11.org/the-human-infrastructure-of-open-science-why-mentorship-matters-more-than-ever/
+11. Google’s Last Last Year in Search — https://scholarlykitchen.sspnet.org/2025/12/12/googles-last-last-year-in-search/
+12. News — https://www.whitehouse.gov/news/
+13. NIH Policy on Enhancing Security Measures for Human ... — https://www.federalregister.gov/documents/2025/12/12/2025-22618/nih-policy-on-enhancing-security-measures-for-human-biospecimens
+14. Data Deidentification for Data Sharing in Educational and ... — https://pmc.ncbi.nlm.nih.gov/articles/PMC12700633/
+15. Guest Post — Funding Research Services: How Libraries are Exploring Cost Recovery Models — https://scholarlykitchen.sspnet.org/2025/12/08/guest-post-funding-research-services-how-libraries-are-exploring-cost-recovery-models/
+16. MP-IDSA Vacancies for the Position of Research Fellow, Associate Fellow, Research Analyst: https://www.idsa.in/about/job — http://cssp-jnu.blogspot.com/2025/12/mp-idsa-vacancies-for-position-of.html
+17. Ten simple rules for effective research data management — https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1013779&type=printable
+18. NIH Indirect Costs Policy for Research Grants — https://www.congress.gov/crs-product/IN12516
+
+============================================================
+RUNTIME: 53.7 s
+ESTIMATED TOKENS: 2178
+ESTIMATED COST (USD): $0.028
+============================================================
