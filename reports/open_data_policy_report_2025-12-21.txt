@@ -1,0 +1,154 @@
+OPEN DATA / SCIENCE POLICY MONITOR REPORT
+Generated on December 21, 2025
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. Research integrity collaboration aims to safeguard the scholarly record amidst rising concerns about questionable submissions. [1] [2] [3] [4] [5] [6]
+
+2. Embracing AI's central role in platform strategy innovation beyond the hype is crucial for publishers to thrive in a changing landscape. [7] [8] [1] [9] [10] [11]
+
+3. The importance of establishing clear guidelines for safeguarding human participant research data is a key focus for the NIH. [12] [5] [13] [14] [15] [16]
+
+4. Open Data plays a critical role in both research and rebuilding efforts during times of uncertainty and tight resources, enhancing scientific endeavors. [15] [5] [10] [14] [3] [17]
+
+5. Transparency and accountability expectations are emphasized in the U.S. open data policy, requiring AI implementation standards to be positive and departmental practices to be transparent and accountable. [18] [17] [19] [20] [10] [13]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: Guest Post — How AI is Transforming Platform Strategy: Beyond the Hype [7]
+SOURCE: The Scholarly Kitchen
+
+validation, and parallel processing in order to increase productivity. The focus is on moving beyond the hype of AI and embracing its transformative impact on platform strategy.
+------------------------------------------------------------
+TITLE: Guest Post — Three Ways to Innovate and Reimagine Publisher Value in an AI World [8]
+SOURCE: The Scholarly Kitchen
+
+The article discusses how AI presents new challenges and opportunities for innovation, emphasizing that successful publishers will need to challenge the current norms to thrive in this evolving landscape.
+------------------------------------------------------------
+TITLE: Why We Must Work Together to Harden the Scholarly Supply Chain [1]
+SOURCE: The Scholarly Kitchen
+
+Research integrity is a growing concern as publishers are experiencing a rise in questionable submissions, prompting a call for collaboration among publishers, funders, institutions, and researchers to safeguard the scholarly record.
+------------------------------------------------------------
+TITLE: In the Messy Middle: Observations from the Front Line at the UKSG Forum [9]
+SOURCE: The Scholarly Kitchen
+
+The UKSG Forum condenses a multi-day conference into one day and emphasizes changing priorities, the challenges of keeping up with developments, and the importance of trusted relationships in the open data or open science policy field.
+------------------------------------------------------------
+TITLE: Disaster Risk Reduction and Open Data Newsletter: November and December 2025 Edition [10]
+SOURCE: CODATA Blog
+
+The Glaciers to Farms Regional Program in Central and West Asia aims to advance climate resilience and sustainable development, addressing the rapid retreat of glacier systems in the Pamir and Tien Shan ranges which could lead to significant loss of glacier volume by 2100, disrupting water cycles and livelihoods.
+------------------------------------------------------------
+TITLE: Call for Abstracts | STS Graz Conference 2026 [4]
+SOURCE: JCU Sci Policy
+
+The STS Graz Conference 2026 is accepting abstract submissions for the session on "Green Hydrogen Energy Transitions in the Global South," focusing on sustainability, industrial development, and equitable energy futures in the region. The conference encourages contributions from scholars, policymakers, and practitioners engaging with governance frameworks, resource dependencies, equity concerns, and global to local implications of green hydrogen transitions in the Global South.
+------------------------------------------------------------
+TITLE: NIH Controlled-Access Data Policy and Proposed ... [13]
+SOURCE: SERPAPI Google Search
+
+The NIH's Genomic Data Sharing (GDS) Policy, established in 2014, encourages the widespread and responsible sharing of genomic research data from NIH-funded projects.
+------------------------------------------------------------
+TITLE: NIH Issues Request for Information on Draft Proposal ... [12]
+SOURCE: SERPAPI Google Search
+
+The NIH is seeking feedback on a proposal to create unified and clear guidelines for safeguarding data from human participant research.
+------------------------------------------------------------
+TITLE: Rollback of Federal Investment in Research and Data ... [5]
+SOURCE: SERPAPI Google Search
+
+providing cost-benefit analyses to address high rates of nonpayment and expensive debt collection in the U.S. Open data or open science policy was utilized to support this initiative.
+------------------------------------------------------------
+TITLE: Federal GIS Data Saved and Archived [11]
+SOURCE: SERPAPI Google Search
+
+HIFLD Open was a central portal for GIS data from various federal agencies in the U.S. and a significant amount of its content is still accessible.
+------------------------------------------------------------
+TITLE: Open Access at the EUI: Introduction [6]
+SOURCE: SERPAPI Google Search
+
+Open Access (OA) policy aims to provide research literature and outputs online for free, without cost or permission barriers.
+------------------------------------------------------------
+TITLE: The Financial Accountability in Research (FAIR) Model: [17]
+SOURCE: SERPAPI Google Search
+
+The term facilities and administrative (F&A) costs was introduced in the May 1996 revision of "Cost Principles for Higher Education Institutions."
+------------------------------------------------------------
+TITLE: Why Lab Data Ontologies Are the Key to FAIR Data [14]
+SOURCE: SERPAPI Google Search
+
+The article discusses the importance of ontologies in making scientific data FAIR (findable, accessible, interoperable, and reusable) through FAIR data principles. It highlights the role of ontologies in ensuring fully automated data processes.
+------------------------------------------------------------
+TITLE: Now more than ever, Open Data infrastructure is essential [15]
+SOURCE: SERPAPI Google Search
+
+Open Data is crucial for research and rebuilding during times of uncertainty and tight resources. It provides a practical and powerful way to strengthen infrastructure and support scientific endeavors.
+------------------------------------------------------------
+TITLE: Deepening our collaboration with the U.S. Department of ... [2]
+SOURCE: SERPAPI Google Search
+
+OpenAI and the U.S. Department of Energy have agreed to collaborate in order to advance scientific research using artificial intelligence.
+------------------------------------------------------------
+TITLE: Assessing data management and sharing plans: The “state ... [16]
+SOURCE: SERPAPI Google Search
+
+which aims to promote public access to data and support open science policies. The memo emphasizes the importance of making data more accessible to the public.
+------------------------------------------------------------
+TITLE: Short. Cautionary. Concerning. Our fight continues! [18]
+SOURCE: SERPAPI Google Search
+
+The new U.S. open data policy requires agencies to establish standards for the implementation of AI in a positive manner, while also emphasizing the need for transparency and accountability within departments.
+------------------------------------------------------------
+TITLE: Research Groups Oppose Capping NIH Funding of ... [3]
+SOURCE: SERPAPI Google Search
+
+U.S. open data and open science policy faces opposition from research groups due to concerns about capping NIH funding, potentially leading to increased costs for researchers publishing in journals. The average APC costs for journals where NIH-funded researchers publish are approaching $4,000, costing investigators nearly $28,000 annually.
+------------------------------------------------------------
+TITLE: Comments to OSTP Regarding Accelerating the American ... [19]
+SOURCE: SERPAPI Google Search
+
+The Financial Accountability in Research (FAIR) Model improves open data and science policy by mandating clear classification of costs for research institutions. This enhances transparency and accountability in research funding allocation.
+------------------------------------------------------------
+TITLE: American Council on Education [20]
+SOURCE: SERPAPI Google Search
+
+The Joint Associations Group on Indirect Costs is advocating for policymakers to adopt the FAIR model, which promotes transparency and accountability in sustaining the full costs of U.S. open data or open science policy.
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. Why We Must Work Together to Harden the Scholarly Supply Chain — https://scholarlykitchen.sspnet.org/2025/12/17/why-we-must-work-together-to-harden-the-scholarly-supply-chain/
+2. Deepening our collaboration with the U.S. Department of ... — https://openai.com/index/us-department-of-energy-collaboration/
+3. Research Groups Oppose Capping NIH Funding of ... — https://www.insidehighered.com/news/government/science-research-policy/2025/12/16/research-groups-oppose-capping-nih-funding
+4. Call for Abstracts | STS Graz Conference 2026 — http://cssp-jnu.blogspot.com/2025/12/call-for-abstracts-sts-graz-conference.html
+5. Rollback of Federal Investment in Research and Data ... — https://www.brennancenter.org/our-work/research-reports/rollback-federal-investment-research-and-data-collection-jeopardizes
+6. Open Access at the EUI: Introduction — https://eui.libguides.com/OpenAccess
+7. Guest Post — How AI is Transforming Platform Strategy: Beyond the Hype — https://scholarlykitchen.sspnet.org/2025/12/19/guest-post-how-ai-is-transforming-platform-strategy-beyond-the-hype/
+8. Guest Post — Three Ways to Innovate and Reimagine Publisher Value in an AI World — https://scholarlykitchen.sspnet.org/2025/12/18/guest-post-three-ways-to-innovate-and-reimagine-publisher-value-in-an-ai-world/
+9. In the Messy Middle: Observations from the Front Line at the UKSG Forum — https://scholarlykitchen.sspnet.org/2025/12/15/in-the-messy-middle-observations-from-the-front-line-at-the-uksg-forum/
+10. Disaster Risk Reduction and Open Data Newsletter: November and December 2025 Edition — https://codata.org/blog/2025/12/15/disaster-risk-reduction-and-open-data-newsletter-november-and-december-2025-edition/
+11. Federal GIS Data Saved and Archived — https://www.datarescueproject.org/hifld-data-saved/
+12. NIH Issues Request for Information on Draft Proposal ... — https://grants.nih.gov/news-events/nih-extramural-nexus-news/2025/12/nih-issues-request-for-information-on-draft-proposal-harmonizing-research-participant-data-policies
+13. NIH Controlled-Access Data Policy and Proposed ... — https://www.federalregister.gov/documents/2025/12/18/2025-23246/nih-controlled-access-data-policy-and-proposed-revisions-to-nih-genomic-data-sharing-policy
+14. Why Lab Data Ontologies Are the Key to FAIR Data — https://www.labmanager.com/the-unifying-language-of-science-why-lab-data-ontologies-are-the-key-to-fair-data-34729
+15. Now more than ever, Open Data infrastructure is essential — https://blog.datadryad.org/2025/12/17/now-more-than-ever-open-data-infrastructure-is-essential/
+16. Assessing data management and sharing plans: The “state ... — https://iassistquarterly.com/index.php/iassist/article/view/1168
+17. The Financial Accountability in Research (FAIR) Model: — https://www.acadrad.org/wp-content/uploads/2025/12/The-FAIR-Model_NCURAMagOctNov2563.pdf
+18. Short. Cautionary. Concerning. Our fight continues! — https://www.facebook.com/groups/809608238480840/posts/877926974982299/
+19. Comments to OSTP Regarding Accelerating the American ... — https://itif.org/publications/2025/12/18/comments-to-ostp-regarding-accelerating-the-american-scientific-enterprise/
+20. American Council on Education — https://www.acenet.edu/About/temp/Pages/default.aspx
+
+============================================================
+RUNTIME: 55.94 s
+ESTIMATED TOKENS: 2325
+ESTIMATED COST (USD): $0.0309
+============================================================
