@@ -1,0 +1,130 @@
+OPEN DATA / SCIENCE POLICY MONITOR REPORT
+Generated on December 28, 2025
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. Scholarly Kitchen is on a break with a holiday playlist recommendation. [1] [2] [3] [4]
+
+2. Collaborative strategies are discussed to defend research and academic freedom. [3] [2] [5] [6] [7] [8]
+
+3. A new book explores technology's economic perspectives and policy implications. [9] [10] [5] [8] [11] [2]
+
+4. U.S. open data policy emphasizes maximizing data sharing for research. [5] [8] [6] [12] [13] [14]
+
+5. The NIH is initiating a policy development process for returning research results to participants. [15] [5] [8] [16] [16] [9]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: Hibernating Until Next Year [1]
+SOURCE: The Scholarly Kitchen
+
+The post mentions that the Scholarly Kitchen will be on a holiday break until 2026, with a recommendation for a holiday playlist.
+------------------------------------------------------------
+TITLE: Ask The Chefs: What Would You Ask of Academic Publishing Santa [2]
+SOURCE: The Scholarly Kitchen
+
+The text discusses asking academic publishing Santa for open data or open science policy in the United States.
+------------------------------------------------------------
+TITLE: Guest Post — DEI Under Threat: Collaborative Strategies to #DefendResearch [3]
+SOURCE: The Scholarly Kitchen
+
+The post discusses collaborative strategies to defend research and ensure academic freedom, as reflected on a recent panel discussion called "Collaborative strategies to #DefendResearch."
+------------------------------------------------------------
+TITLE: New Book "Demystifying the Economics of Technology: Perspectives on Development with Reflections from India" by Amit Shovon Ray [9]
+SOURCE: JCU Sci Policy
+
+The book "Demystifying the Economics of Technology" by Amit Shovon Ray explores technology's economic perspectives, including patent economics, diffusion patterns, and development in developing countries, culminating in insights on policy implications and India's global technological trajectory. The author, a Professor of Economics at Jawaharlal Nehru University, specializes in global economic issues like technology, IPR, trade, and health, with a background in prestigious institutions and international consultancy experience.
+------------------------------------------------------------
+TITLE: Healthcare Research - Office of Science Policy [5]
+SOURCE: SERPAPI Google Search
+
+The policy on U.S. open data and open science emphasizes the importance of maximizing sharing in data repositories to ensure that data can be accessed for research purposes. This includes eliminating investments in data that cannot be made accessible.
+------------------------------------------------------------
+TITLE: Public Inspection: Health Data, Technology, and ... [10]
+SOURCE: SERPAPI Google Search
+
+The text does not directly discuss U.S. open data or open science policy.
+------------------------------------------------------------
+TITLE: NIH Announces Next Steps on Engaging the Public as ... [15]
+SOURCE: SERPAPI Google Search
+
+NIH has decided to initiate a policy development process for returning research results to clinical research participants based on recommendations.
+------------------------------------------------------------
+TITLE: Open Access & APCs - Research Guides [6]
+SOURCE: SERPAPI Google Search
+
+but there are costs associated with conducting research and sharing results, leading to the need for funding in the Open Access movement.
+------------------------------------------------------------
+TITLE: Benefits of open access - Library Research Support [7]
+SOURCE: SERPAPI Google Search
+
+The guide aims to offer advice and assistance on open access research, specifically focusing on Durham Research Online (DRO) and open access publishing.
+------------------------------------------------------------
+TITLE: Digital Science's Dimensions data underpins Select ... [12]
+SOURCE: SERPAPI Google Search
+
+The U.S. is facing increasing concerns about foreign influence and exploitation of open research systems, as emphasized in a committee report on U.S.-funded research policy.
+------------------------------------------------------------
+TITLE: Institutional Policy Pathways for Supporting Research ... [8]
+SOURCE: SERPAPI Google Search
+
+The text discusses various aspects of institutional policy pathways for supporting research software, including open data, open access, open science, copyrights, software licensing, and intellectual property. It highlights the importance of these policies in promoting collaboration, transparency, and innovation in research.
+------------------------------------------------------------
+TITLE: Open scientific data [13]
+SOURCE: SERPAPI Google Search
+
+The 2022 OSTP Nelson Memo in the US removed embargoes, mandating instant public access to publications and data from federal research.
+------------------------------------------------------------
+TITLE: Assessing data management and sharing plans: The “state ... [14]
+SOURCE: SERPAPI Google Search
+
+The 2013 OSTP Memo mandated that federal agencies with research budgets over $100 million must develop plans for managing and sharing research data.
+------------------------------------------------------------
+TITLE: Federal Research and Development (R&D) Funding: FY2026 [16]
+SOURCE: SERPAPI Google Search
+
+In FY2025, the average cost for a research project grant in the U.S. was $969,000, which was higher compared to $598,000 in FY2024 due to multiyear grant awards.
+------------------------------------------------------------
+TITLE: COST | European Cooperation in Science and Technology [11]
+SOURCE: SERPAPI Google Search
+
+COST funds research networks called COST Actions that bring together researchers and innovators in Europe and beyond to collaborate on science and technology projects.
+------------------------------------------------------------
+TITLE: Scholarly Publishing & Research Impact: Open Access ... [4]
+SOURCE: SERPAPI Google Search
+
+Many publishers offer green open access options for authors to make their research available. Authors can refer to their copyright transfer agreements (CTA) for details on this opportunity.
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. Hibernating Until Next Year — https://scholarlykitchen.sspnet.org/2025/12/24/hibernating-until-next-year/
+2. Ask The Chefs: What Would You Ask of Academic Publishing Santa — https://scholarlykitchen.sspnet.org/2025/12/23/ask-the-chefs-what-would-you-ask-of-academic-publishing-santa/
+3. Guest Post — DEI Under Threat: Collaborative Strategies to #DefendResearch — https://scholarlykitchen.sspnet.org/2025/12/22/guest-post-dei-under-threat-collaborative-strategies-to-defendresearch/
+4. Scholarly Publishing & Research Impact: Open Access ... — https://libguides.uthsc.edu/oa
+5. Healthcare Research - Office of Science Policy — https://osp.od.nih.gov/policies/healthcare-research/
+6. Open Access & APCs - Research Guides — https://libguides.unm.edu/openaccess/OAfees
+7. Benefits of open access - Library Research Support — https://libguides.durham.ac.uk/open_research/benefitsofoa
+8. Institutional Policy Pathways for Supporting Research ... — https://www.researchgate.net/publication/398829424_Institutional_Policy_Pathways_for_Supporting_Research_Software_Global_Trends_and_Local_Practices
+9. New Book "Demystifying the Economics of Technology: Perspectives on Development with Reflections from India" by Amit Shovon Ray — http://cssp-jnu.blogspot.com/2025/12/new-book-demystifying-economics-of.html
+10. Public Inspection: Health Data, Technology, and ... — https://www.federalregister.gov/public-inspection/2025-23890/health-data-technology-and-interoperability-patient-engagement-information-sharing-and-public-health
+11. COST | European Cooperation in Science and Technology — https://www.cost.eu/
+12. Digital Science's Dimensions data underpins Select ... — https://www.digital-science.com/blog/2025/12/dimensions-data-underpins-select-committee-report-into-us-funded-research/
+13. Open scientific data — https://grokipedia.com/page/Open_scientific_data
+14. Assessing data management and sharing plans: The “state ... — https://www.researchgate.net/publication/398879277_Assessing_data_management_and_sharing_plans_The_state_of_play_at_Duke_and_opportunities_for_cross-campus_collaborations
+15. NIH Announces Next Steps on Engaging the Public as ... — https://osp.od.nih.gov/nih-announces-next-steps-on-engaging-the-public-as-partners-in-clinical-research/
+16. Federal Research and Development (R&D) Funding: FY2026 — https://www.congress.gov/crs-product/R48694
+
+============================================================
+RUNTIME: 51.0 s
+ESTIMATED TOKENS: 2014
+ESTIMATED COST (USD): $0.0261
+============================================================
