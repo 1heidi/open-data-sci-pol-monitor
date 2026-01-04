@@ -1,0 +1,112 @@
+OPEN DATA / SCIENCE POLICY MONITOR REPORT
+Generated on January 04, 2026
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. The U.S. Department of Labor allows approved researchers access to confidential data for beneficial projects, requiring detailed project explanations. [1] [2] [3] [4] [3] [5]
+
+2. Treasury's open data policy will apply to all evaluation activities, including those by bureaus and Departmental Offices. [4] [2] [6] [7] [1] [8]
+
+3. Compliance with financial regulations is a focus of the U.S. open data policy to adapt data pipelines efficiently. [6] [4] [7] [8] [9] [10]
+
+4. State and local fiscal recovery funds recipients must adhere to Treasury's compliance and reporting guidelines. [11] [2] [4] [6] [5] [12]
+
+5. Open science initiatives are supported by the U.S. open data policy, offering access to census data and glossaries to aid researchers. [9] [4] [6] [7] [10] [13]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: Office of the Chief Data Officer | U.S. Department of the ... [3]
+SOURCE: SERPAPI Google Search
+
+sharing, education, and management of data to provide valuable insights for the public good.
+------------------------------------------------------------
+TITLE: STRUDL - How to Apply [1]
+SOURCE: SERPAPI Google Search
+
+The Department of Labor (DOL) allows approved researchers access to confidential data for projects that benefit DOL and its customers. Applicants need to provide a detailed explanation of the proposed project.
+------------------------------------------------------------
+TITLE: Towards responsible surveillance in preventive health data-AI ... [8]
+SOURCE: SERPAPI Google Search
+
+and linking of existing datasets internationally are contributing to the momentum of surveillance and are being further fueled by the increasing integration of open data and open science policies in the U.S.
+------------------------------------------------------------
+TITLE: Treasury Open Data | U.S. Department of the ... [4]
+SOURCE: SERPAPI Google Search
+
+The open data policy will be implemented for all evaluation activities conducted by the Treasury Department, including those carried out by its bureaus and Departmental Offices.
+------------------------------------------------------------
+TITLE: Public Data | U.S. Department of the Treasury [2]
+SOURCE: SERPAPI Google Search
+
+The SLFRF Data Dashboard allows easy access to data submitted to Treasury by state, local, and territorial governments, providing a user-friendly resource for review.
+------------------------------------------------------------
+TITLE: Maps and Mapping Resources from Government Agencies [9]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data policy includes access to census data and related materials, as well as glossaries and descriptions of various data types to support open science initiatives.
+------------------------------------------------------------
+TITLE: Princeton researchers weigh cost of impending federal ... [5]
+SOURCE: SERPAPI Google Search
+
+released by the Biden administration in 2022, requires that all research funded by the federal government must be accessible to the public without delay.
+------------------------------------------------------------
+TITLE: AI Data Governance Standards: Compliance and Efficiency [6]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data or open science policy aims to ensure compliance with financial regulations by automatically mapping data pipelines to adapt to the latest regulations, such as Basel III or SEBI norms.
+------------------------------------------------------------
+TITLE: Reporting and Compliance | U.S. Department of the Treasury [11]
+SOURCE: SERPAPI Google Search
+
+Recipients of state and local fiscal recovery funds must adhere to Treasury's Compliance and Reporting Guidance, meeting the defined compliance and reporting responsibilities outlined in the Final guidance.
+------------------------------------------------------------
+TITLE: Flexible Metadata Structuring for Research Data ... [7]
+SOURCE: SERPAPI Google Search
+
+Metadata schemas for U.S. open data or open science policy can be generated through different methods such as backend seed files, JSON uploads, or FAIR-DS RDF imports, and are accessible programmatically via the SEEK platform.
+------------------------------------------------------------
+TITLE: Secretary Rollins Announces New Priorities for Research ... [13]
+SOURCE: SERPAPI Google Search
+
+The U.S. is prioritizing research and development to open new markets by using science and data to address trade barriers related to sanitation and plant health.
+------------------------------------------------------------
+TITLE: I create infrastructure for open science and cultural memory. [10]
+SOURCE: SERPAPI Google Search
+
+The text mentions that an individual served as an expert for the Netherlands in the "Open Science Infrastructure" 2025 funding program, providing them with a deep insight into open science policy.
+------------------------------------------------------------
+TITLE: Very interesting history of @NIH indirect cost controversy ... [12]
+SOURCE: SERPAPI Google Search
+
+Research funds are being disproportionately allocated to buildings and administrators, with institutions like Harvard charging higher indirect costs compared to foundations like Gates and Rockefeller.
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. STRUDL - How to Apply — https://www.dol.gov/node/175083?lang=ko
+2. Public Data | U.S. Department of the Treasury — https://home.treasury.gov/policy-issues/coronavirus/assistance-for-state-local-and-tribal-governments/state-and-local-fiscal-recovery-funds/public-data
+3. Office of the Chief Data Officer | U.S. Department of the ... — https://home.treasury.gov/about/offices/management/office-of-the-chief-data-officer
+4. Treasury Open Data | U.S. Department of the ... — https://home.treasury.gov/data/treasury-open-data
+5. Princeton researchers weigh cost of impending federal ... — https://www.dailyprincetonian.com/article/2025/12/princeton-news-research-public-access-federal-funding-nelson-memo-unaffected
+6. AI Data Governance Standards: Compliance and Efficiency — https://www.acceldata.io/blog/ai-data-governance-standards-compliance-and-efficiency
+7. Flexible Metadata Structuring for Research Data ... — https://fairdomhub.org/publications/713
+8. Towards responsible surveillance in preventive health data-AI ... — https://pmc.ncbi.nlm.nih.gov/articles/PMC12747365/
+9. Maps and Mapping Resources from Government Agencies — https://research.lib.buffalo.edu/government-resources-maps/united-states
+10. I create infrastructure for open science and cultural memory. — https://www.biblionik.org/en/
+11. Reporting and Compliance | U.S. Department of the Treasury — https://home.treasury.gov/policy-issues/coronavirus/assistance-for-state-local-and-tribal-governments/state-and-local-fiscal-recovery-funds/reporting-and-compliance
+12. Very interesting history of @NIH indirect cost controversy ... — https://x.com/DrJMarine/status/2006328440404770962
+13. Secretary Rollins Announces New Priorities for Research ... — https://www.facebook.com/groups/216904628327310/posts/33685837197673956/
+
+============================================================
+RUNTIME: 47.8 s
+ESTIMATED TOKENS: 1846
+ESTIMATED COST (USD): $0.0256
+============================================================
