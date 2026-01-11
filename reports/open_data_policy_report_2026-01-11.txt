@@ -1,0 +1,160 @@
+OPEN DATA / SCIENCE POLICY MONITOR REPORT
+Generated on January 11, 2026
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. Scholarly publishing is undergoing a digital revolution with a focus on AI for content discovery. [1] [2] [3] [4] [5] [6]
+
+2. The scholarly community in 2025 faced difficulties, indicating challenges in the scholarly work sector. [6] [2] [1] [7] [8] [9]
+
+3. Open access publishing platforms like Érudit provide insights into effective utilization of AI for research content discovery. [5] [10] [11] [4] [12] [13]
+
+4. Recent news highlights the importance of privacy and data security compliance in U.S. open data policy discussions. [14] [15] [16] [8] [17] [18]
+
+5. A focus on ethical leadership, research policy advancements, and international collaborations is evident in recent science policy developments. [19] [14] [7] [8] [20] [21]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: AI in Scholarly Publishing — SSP Pulse Check Report [2]
+SOURCE: The Scholarly Kitchen
+
+The SSP's new Pulse Check initiative focuses on exploring AI in scholarly publishing to understand how the community is handling this significant transformation.
+------------------------------------------------------------
+TITLE: Hot Takes on the First Quarter of 21st Century Scholarly Publishing [1]
+SOURCE: The Scholarly Kitchen
+
+there has been a digital revolution in scholarly publishing, as highlighted by Todd Carpenter's reflection.
+------------------------------------------------------------
+TITLE: Kitchen Essentials: An Interview with Tanja Niemann of Érudit / Une Entrevue avec Tanja Niemann d’Érudit [5]
+SOURCE: The Scholarly Kitchen
+
+who is the Executive Director of Érudit, a Quebec-based non-profit open access publishing platform. Tanja Niemann's insights into open access publishing are highlighted in the interview.
+------------------------------------------------------------
+TITLE: Keywords Are Not Dead — But Discovery Is No Longer Just Search [3]
+SOURCE: The Scholarly Kitchen
+
+The success in content discovery will depend on the ability to effectively utilize AI search while enabling researchers to seamlessly transition between precise and synthesized information.
+------------------------------------------------------------
+TITLE: The Year in Review: 2025 in The Scholarly Kitchen [6]
+SOURCE: The Scholarly Kitchen
+
+In 2025, the scholarly community faced challenges, indicating a difficult year for many individuals involved in scholarly work.
+------------------------------------------------------------
+TITLE: December 2025: Publications in the Data Science Journal [7]
+SOURCE: CODATA Blog
+
+Recent publications in the Data Science Journal highlight research on mapping research data at the University of Bologna, benchmarking tabular data synthesis tools, metrics, and datasets, and other related topics.
+------------------------------------------------------------
+TITLE: FDP on Systematic Review, Meta-analysis, Bibliometrics, and Responsible AI in Scientific Research | 16-22 February; Kolkata, India [13]
+SOURCE: JCU Sci Policy
+
+and Responsible AI in Scientific Research aims to enhance the methodological competencies of early-career researchers using open-source analytical environments. Participants will receive hands-on training in data management, analysis, and visualization, incorporating R- and Python-based workflows and other open platforms to promote openness, reproducibility, and robust research practices.
+------------------------------------------------------------
+TITLE: New Issue Online | Journal of Data Science, Informetrics, and Citation Studies, 2025, 4(3) [8]
+SOURCE: JCU Sci Policy
+
+and Citation Studies is a Diamond Open Access journal that publishes peer-reviewed articles online, covering various subfields of scientometrics and analyzing research ecosystems using science-technology-innovation indicators. It publishes three issues per year and welcomes submissions in areas such as patent studies and web-based research.
+------------------------------------------------------------
+TITLE: Latest issue of Science Diplomacy (Oct-Dec 2025) [9]
+SOURCE: JCU Sci Policy
+
+The latest issue of Science Diplomacy (Vol. 9(2), Oct-Dec 2025) provides fresh insights into the dynamic field, offering valuable information about U.S. open data or open science policy.
+------------------------------------------------------------
+TITLE: Call for Applications: India Science and Research Fellowship (ISRF) [19]
+SOURCE: JCU Sci Policy
+
+The India Science and Research Fellowship (ISRF) aims to provide scientists and researchers from neighboring countries with the opportunity to work in various research areas in India, including science, technology, engineering, and medical sciences. Up to 80 fellowships, 10 per country, are awarded annually under this scheme, with the deadline for proposal submission for the 2025-26 cycle set for March 31, 2026.
+------------------------------------------------------------
+TITLE: New Issue Online | Journal of Scientometric Research, 2025, 14(3) [12]
+SOURCE: JCU Sci Policy
+
+The text discusses various research articles and a book review related to scientometric and bibliometric analyses, including topics like cocoa, social enterprise, energy footprint, and higher education research. It also touches on the open access policy of the Journal of Scientometric Research.
+------------------------------------------------------------
+TITLE: Privacy Laws, Policies and Guidance [18]
+SOURCE: SERPAPI Google Search
+
+The OMB Memorandum M-11-02 from November 3, 2010, mandates agencies to create and execute strategies for sharing data while safeguarding privacy.
+------------------------------------------------------------
+TITLE: News & Announcements Archives - Office of Science Policy [14]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data and open science policy covers various areas such as artificial intelligence, clinical research, scientific data sharing, biosafety and biosecurity policy, public access, and bioethics in research.
+------------------------------------------------------------
+TITLE: Open data in the United States [16]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data policy was established in 2007 with the Sebastopol principles, which outlined eight standards for government data transparency. This framework was further developed by subsequent presidential executive orders.
+------------------------------------------------------------
+TITLE: OPM's federal workforce data site just got a major overhaul [17]
+SOURCE: SERPAPI Google Search
+
+The new U.S. open data policy for workforce data aims to provide more user-friendly information, including workforce changes and recruitment data, with faster updates promised.
+------------------------------------------------------------
+TITLE: Scientific publisher agreements expand open-access ... [10]
+SOURCE: SERPAPI Google Search
+
+Starting in 2026, the University Libraries at Penn State will sign new open-access publishing agreements with two major scientific publishers. This initiative aims to expand open access to research conducted at the university.
+------------------------------------------------------------
+TITLE: The publishing rules for NIH-supported research have ... [11]
+SOURCE: SERPAPI Google Search
+
+The NIH has implemented new policies to support open access publishing for research supported by them, leading to questions from researchers on how to adapt to these changes.
+------------------------------------------------------------
+TITLE: LibGuides: Open Access Publishing : What is Open Access? [4]
+SOURCE: SERPAPI Google Search
+
+Open access (OA) refers to freely available, digital, online information. This type of scholarly literature is accessible at no cost and usually has fewer restrictions.
+------------------------------------------------------------
+TITLE: What exactly is data security compliance? [15]
+SOURCE: SERPAPI Google Search
+
+Data compliance encompasses the entirety of the data lifecycle, including activities like ingestion, storage, management, and stewardship.
+------------------------------------------------------------
+TITLE: Science Policy This Week: January 5, 2026 [20]
+SOURCE: SERPAPI Google Search
+
+The U.S. Department of Energy's Office of Energy Efficiency and Renewable Energy budget is set to increase to $3.1 billion, with $1.15 billion repurposed from the infrastructure act.
+------------------------------------------------------------
+TITLE: NIH cap on indirect research costs struck down on appeal [21]
+SOURCE: SERPAPI Google Search
+
+The U.S. agency implemented a 15% limit on overhead reimbursement in February, but judges have deemed this action to be illegal.
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. Hot Takes on the First Quarter of 21st Century Scholarly Publishing — https://scholarlykitchen.sspnet.org/2026/01/08/hot-takes-on-first-quarter-century-scholarly-publishing/
+2. AI in Scholarly Publishing — SSP Pulse Check Report — https://scholarlykitchen.sspnet.org/2026/01/09/ai-in-scholarly-publishing-ssp-pulse-check-report/
+3. Keywords Are Not Dead — But Discovery Is No Longer Just Search — https://scholarlykitchen.sspnet.org/2026/01/06/keywords-are-not-dead-but-discovery-is-no-longer-just-search/
+4. LibGuides: Open Access Publishing : What is Open Access? — https://guides.library.cornell.edu/openaccess
+5. Kitchen Essentials: An Interview with Tanja Niemann of Érudit / Une Entrevue avec Tanja Niemann d’Érudit — https://scholarlykitchen.sspnet.org/2026/01/07/kitchen-essentials-an-interview-with-tanja-niemann-of-erudit-une-entrevue-avec-tanja-niemann-derudit/
+6. The Year in Review: 2025 in The Scholarly Kitchen — https://scholarlykitchen.sspnet.org/2026/01/05/the-year-in-review-2025-in-the-scholarly-kitchen/
+7. December 2025: Publications in the Data Science Journal — https://codata.org/blog/2026/01/06/december-2025-publications-in-the-data-science-journal/
+8. New Issue Online | Journal of Data Science, Informetrics, and Citation Studies, 2025, 4(3) — http://cssp-jnu.blogspot.com/2026/01/new-issue-online-journal-of-data.html
+9. Latest issue of Science Diplomacy (Oct-Dec 2025) — http://cssp-jnu.blogspot.com/2026/01/latest-issue-of-science-diplomacy-oct.html
+10. Scientific publisher agreements expand open-access ... — https://www.psu.edu/news/university-libraries/story/scientific-publisher-agreements-expand-open-access-research
+11. The publishing rules for NIH-supported research have ... — https://www.rockefeller.edu/news/38883-the-publishing-rules-for-nih-supported-research-have-changed-heres-what-to-know
+12. New Issue Online | Journal of Scientometric Research, 2025, 14(3) — http://cssp-jnu.blogspot.com/2026/01/new-issue-online-journal-of.html
+13. FDP on Systematic Review, Meta-analysis, Bibliometrics, and Responsible AI in Scientific Research | 16-22 February; Kolkata, India — http://cssp-jnu.blogspot.com/2026/01/fdp-on-systematic-review-meta-analysis.html
+14. News & Announcements Archives - Office of Science Policy — https://osp.od.nih.gov/category/announcements/
+15. What exactly is data security compliance? — https://www.wiz.io/academy/compliance/data-security-compliance
+16. Open data in the United States — https://grokipedia.com/page/open_data_in_the_united_states
+17. OPM's federal workforce data site just got a major overhaul — https://fedscoop.com/opm-federal-workforce-data-overhaul-fedscope/
+18. Privacy Laws, Policies and Guidance — https://www.commerce.gov/opog/privacy/privacy-laws-policies-and-guidance
+19. Call for Applications: India Science and Research Fellowship (ISRF) — http://cssp-jnu.blogspot.com/2026/01/call-for-applications-india-science-and.html
+20. Science Policy This Week: January 5, 2026 — https://www.aip.org/fyi/the-week-of-jan-5-2026
+21. NIH cap on indirect research costs struck down on appeal — https://www.highereddive.com/news/nih-indirect-cost-cap-appeal-struck-down/808925/
+
+============================================================
+RUNTIME: 58.77 s
+ESTIMATED TOKENS: 2384
+ESTIMATED COST (USD): $0.0307
+============================================================
