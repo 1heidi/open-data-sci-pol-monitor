@@ -1,0 +1,118 @@
+OPEN DATA / SCIENCE POLICY MONITOR REPORT
+Generated on January 18, 2026
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. The Scholarly Kitchen aims to shape its future based on feedback from the 2025 Readership Survey. [1] [2] [3] [4] [5] [6]
+
+2. Open scholarship presents opportunities for significant value creation but raises concerns about existing incentive structures. [4] [2] [7] [8] [9] [10]
+
+3. Insights on technical requirements for open access policies were shared at a UKRI webinar. [2] [9] [8] [10] [5] [7]
+
+4. Implementing AI in scholarly communications faces challenges in bridging policy guidelines and practical application. [5] [10] [2] [11] [12] [13]
+
+5. Localization in international marketing is emphasized for effective communication and cultural fluency. [6] [14] [11]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: 2025 Readership Survey [1]
+SOURCE: The Scholarly Kitchen
+
+The 2025 Readership Survey conducted by The Scholarly Kitchen will influence the future direction of their blog based on community feedback.
+------------------------------------------------------------
+TITLE: Guest Post — Open Scholarship is Poised to Create More Value than Ever, but Are We Ready? [4]
+SOURCE: The Scholarly Kitchen
+
+Advances in technology have created new opportunities in open scholarship, leading to questions about whether existing incentive structures are sufficient to support this growth. Open scholarship is seen as having potential to generate significant value, but concerns remain about readiness to fully embrace it.
+------------------------------------------------------------
+TITLE: Open Access Policies – The Devil’s in the Details [2]
+SOURCE: The Scholarly Kitchen
+
+Feedback was gathered regarding the technical requirements of MoreBrains and UKRI's OA policy, with insights shared by three speakers at a UKRI webinar on the topic.
+------------------------------------------------------------
+TITLE: Guest Post — AI Use: From Policies to Reality [5]
+SOURCE: The Scholarly Kitchen
+
+The text discusses a panel discussion on the implementation of AI in scholarly communications, focusing on the gap between policies and actual practice in this area. The panel shares insights on the challenges and opportunities in transitioning from policy guidelines to practical application of AI.
+------------------------------------------------------------
+TITLE: Guest Post — What is The ‘Right’ Way to Make Tea? Why International Marketing Needs a Local Touch [6]
+SOURCE: The Scholarly Kitchen
+
+The text argues in favor of marketing strategies that emphasize localization to enhance communication with partners globally, highlighting the importance of cultural fluency and authenticity in international marketing efforts.
+------------------------------------------------------------
+TITLE: UNWDF Webinar on Commit to Data on the Road to Riyadh | 20 January at 15:30 IST [14]
+SOURCE: JCU Sci Policy
+
+The UNWDF webinar will discuss the Commit to Data initiative aimed at strengthening data systems and data use, with speakers from various international organizations, including the United Nations Statistics Division and the General Statistics Authority of Saudi Arabia. The webinar will provide updates on the initiative, share existing and new commitments, and invite participation through a call for session proposals deadline of 26 January.
+------------------------------------------------------------
+TITLE: CfPs: STI for Social Good: Adapting Policy, Society and Industries for Sustainable Development | 22–24 July, Malaysia [11]
+SOURCE: JCU Sci Policy
+
+Technology and Society 2026 aims to facilitate dialogue between academics, policymakers, and thought leaders on how science, technology, and innovation can promote social good in addressing climate change and inequality. The conference seeks empirical studies, conceptual papers, and policy briefs exploring science communication, public engagement, and STI policy for sustainable development.
+------------------------------------------------------------
+TITLE: Call for Abstracts: Global Public Deliberation in Science and Technology: Knowledge Pluralism and the Policy Interface | 22–24 July, Malaysia [12]
+SOURCE: JCU Sci Policy
+
+Technology and Society 2026 will feature a dedicated conference stream on 'Global Public Deliberation in Science and Technology', based on the O.D.E.SS.I. framework, inviting abstract submissions from a diverse range of participants to critique and expand practices in this area.
+------------------------------------------------------------
+TITLE: ARPA-H Website Privacy Statement [13]
+SOURCE: SERPAPI Google Search
+
+individuals should verify they are on a government website before sharing sensitive information. Additionally, all use of web measurement and customization technologies must align with policy guidelines.
+------------------------------------------------------------
+TITLE: Open data portal [7]
+SOURCE: SERPAPI Google Search
+
+An open data portal is a centralized online platform that gathers and shares datasets through open licenses to allow public access.
+------------------------------------------------------------
+TITLE: Open Access Publishing Agreements - Research Guides [8]
+SOURCE: SERPAPI Google Search
+
+UChicago corresponding authors can publish an unlimited number of Open Access research and review articles for free in all Brill's journals. This agreement covers manuscripts accepted for publication from January 1, 2021.
+------------------------------------------------------------
+TITLE: Open Access: Green OA - Library Guides - Penn State [9]
+SOURCE: SERPAPI Google Search
+
+covering topics like green and gold open access, funder open access policies, and the implementation of open access at Penn State.
+------------------------------------------------------------
+TITLE: Support for Open Access Scholarly Publishing [10]
+SOURCE: SERPAPI Google Search
+
+Gold Open Access ensures that all articles in a publication are freely accessible to the public upon publication, without any access barriers. This policy promotes greater dissemination and access to scholarly research.
+------------------------------------------------------------
+TITLE: NSF in 2025: Keeping U.S. scientific research and ... [3]
+SOURCE: SERPAPI Google Search
+
+The U.S. National Science Foundation (NSF) invested over $65 million in 2025 through NSF EPSCoR to enhance research infrastructure and train the future workforce in science and technology. This investment aimed to support scientific research and innovation in the country.
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. 2025 Readership Survey — https://scholarlykitchen.sspnet.org/2026/01/16/2025-readership-survey/
+2. Open Access Policies – The Devil’s in the Details — https://scholarlykitchen.sspnet.org/2026/01/14/open-access-policies-the-devils-in-the-details/
+3. NSF in 2025: Keeping U.S. scientific research and ... — https://www.nsf.gov/science-matters/nsf-2025-keeping-us-scientific-research-innovation-cutting
+4. Guest Post — Open Scholarship is Poised to Create More Value than Ever, but Are We Ready? — https://scholarlykitchen.sspnet.org/2026/01/15/guest-post-open-scholarship-is-poised-to-create-more-value-than-ever-but-are-we-ready/
+5. Guest Post — AI Use: From Policies to Reality — https://scholarlykitchen.sspnet.org/2026/01/13/guest-post-ai-use-from-policies-to-reality/
+6. Guest Post — What is The ‘Right’ Way to Make Tea? Why International Marketing Needs a Local Touch — https://scholarlykitchen.sspnet.org/2026/01/12/guest-post-what-is-the-right-way-to-make-tea-why-international-marketing-needs-a-local-touch/
+7. Open data portal — https://grokipedia.com/page/open_data_portal
+8. Open Access Publishing Agreements - Research Guides — https://guides.lib.uchicago.edu/openaccess/agreements
+9. Open Access: Green OA - Library Guides - Penn State — https://guides.libraries.psu.edu/open-access/green
+10. Support for Open Access Scholarly Publishing — https://libguides.rowan.edu/Scholarly_Publishing_Support
+11. CfPs: STI for Social Good: Adapting Policy, Society and Industries for Sustainable Development | 22–24 July, Malaysia — http://cssp-jnu.blogspot.com/2026/01/cfps-sti-for-social-good-adapting.html
+12. Call for Abstracts: Global Public Deliberation in Science and Technology: Knowledge Pluralism and the Policy Interface | 22–24 July, Malaysia — http://cssp-jnu.blogspot.com/2026/01/call-for-abstracts-global-public.html
+13. ARPA-H Website Privacy Statement — https://arpa-h.gov/privacy-policy
+14. UNWDF Webinar on Commit to Data on the Road to Riyadh | 20 January at 15:30 IST — http://cssp-jnu.blogspot.com/2026/01/unwdf-webinar-on-commit-to-data-on-road.html
+
+============================================================
+RUNTIME: 58.74 s
+ESTIMATED TOKENS: 2410
+ESTIMATED COST (USD): $0.0307
+============================================================
