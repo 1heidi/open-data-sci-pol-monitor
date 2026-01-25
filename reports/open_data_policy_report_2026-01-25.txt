@@ -1,0 +1,166 @@
+OPEN DATA / SCIENCE POLICY MONITOR REPORT
+Generated on January 25, 2026
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. AI is not expected to offer the financial benefits to the publishing industry that were anticipated. [1] [2] [3] [4] [5] [6]
+
+2. Emerald Publishing's CEO discussed diversity, equity, and inclusion in scholarly communications, focusing on areas for improvement. [2] [4] [1] [7] [3] [8]
+
+3. STS Graz Conference 2026 is seeking abstracts on "Green Hydrogen Energy Transitions in the Global South" with a deadline of January 27, 2026. [7] [9] [10] [11] [12] [13]
+
+4. NSF-funded researchers must share data supporting their publications with the agency at the time of publication. [14] [15] [16] [17] [18] [19]
+
+5. The U.S. government has various offices dedicated to policy-making, including the Office of Science and Technology Policy. [20] [11] [14] [21] [5] [22]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: Guest Post — The Ghost in the Machine: Why Generative AI is a Crisis of Authorship, Not Just a Tool [4]
+SOURCE: The Scholarly Kitchen
+
+The text discusses the ethical implications of researchers submitting articles that were significantly drafted by a language model (LLM) without clear disclosure, questioning if it constitutes a form of ghost authorship in contemporary academic publishing. The article highlights concerns about generative AI creating a crisis of authorship rather than just being a tool for authors.
+------------------------------------------------------------
+TITLE: Guest Post — AI Isn’t Going to Pay for Content ... At Least Not How You’re Hoping It Will [1]
+SOURCE: The Scholarly Kitchen
+
+The text discusses how AI will not provide the expected financial benefits for the publishing industry as hoped.
+------------------------------------------------------------
+TITLE: Creating a Culture of Diversity and Inclusion Revisited: An Interview with Vicky Williams of Emerald Publishing [2]
+SOURCE: The Scholarly Kitchen
+
+Emerald Publishing's CEO, Vicky Williams, was interviewed to discuss the progress and areas for improvement regarding diversity, equity, inclusion, and accessibility in scholarly communications at both Emerald Publishing and beyond. The interview is a follow-up to a 2018 discussion on the same topic.
+------------------------------------------------------------
+TITLE: Re: Call for Abstracts | STS Graz Conference 2026 [7]
+SOURCE: JCU Sci Policy
+
+The STS Graz Conference 2026 is calling for abstract submissions focusing on "Green Hydrogen Energy Transitions in the Global South," looking at governance, policy, resource dependencies, equity, and just transition pathways with a submission deadline of January 27, 2026. The conference will be held in a hybrid format, allowing for both onsite and online presentations, with abstracts required to be 400-600 words and include up to five keywords and authors' contact details.
+------------------------------------------------------------
+TITLE: Call for Abstracts: 6th IPPN Conference | Bengaluru, 1-4 June 2026 [9]
+SOURCE: JCU Sci Policy
+
+The 6th India Public Policy Network Conference, hosted by the National Law School of India University in June 2026, has issued a call for abstracts with a deadline of January 31, 2026. One of the panels at the conference focuses on governance challenges in the digital age, particularly on topics of accountability, data governance, and responsible innovation.
+------------------------------------------------------------
+TITLE: The White House [13]
+SOURCE: SERPAPI Google Search
+
+President Trump and Vice President Vance are focused on reducing costs and strengthening border security. They are also working to promote American energy production.
+------------------------------------------------------------
+TITLE: Presidential Actions [20]
+SOURCE: SERPAPI Google Search
+
+The U.S. government has various offices dedicated to policy-making, including the Office of Science and Technology Policy, Council of Economic Advisors, Office of the National Cyber Director, and Office of National Drug Control Policy.
+------------------------------------------------------------
+TITLE: National Day of Patriotic Devotion, 2026 [11]
+SOURCE: SERPAPI Google Search
+
+The text does not provide any information about U.S. open data or open science policy.
+------------------------------------------------------------
+TITLE: Implementation of Policy Changes to Proposal and Award ... [14]
+SOURCE: SERPAPI Google Search
+
+Recipients of NSF funding must share all data that supports their publications funded by the agency at the time of publication.
+------------------------------------------------------------
+TITLE: Data sharing practices and experiences among Alzheimer's ... [16]
+SOURCE: SERPAPI Google Search
+
+Data sharing is crucial for advancing research in Alzheimer's Disease and Related Dementias (ADRD), with investigators actively participating by either initiating or responding to data sharing requests.
+------------------------------------------------------------
+TITLE: Engage | NASA Earthdata [15]
+SOURCE: SERPAPI Google Search
+
+The SMD Scientific Information Policy (SPD-41a) mandates that SMD-funded researchers must manage and openly share their scientific data in a consistent manner.
+------------------------------------------------------------
+TITLE: A call for open data to accelerate scientific progress ... [17]
+SOURCE: SERPAPI Google Search
+
+Leaders in science and biotech at Frontiers Science House are advocating for open data to accelerate scientific progress, urging corporations, funders, and research.
+------------------------------------------------------------
+TITLE: Is Open Data on Life Support, Do You Care? [18]
+SOURCE: SERPAPI Google Search
+
+In 2025, as efficiency drives and federal workforce reductions took place, open data initiatives in the U.S. faced internal scrutiny.
+------------------------------------------------------------
+TITLE: Data Rescue Project [19]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data policy focuses on preserving public data.
+------------------------------------------------------------
+TITLE: Open Access Publishing: Why open access (OA)? [3]
+SOURCE: SERPAPI Google Search
+
+A community resource exists for tracking US federal funder requirements for sharing research articles in the United States. This resource assists in understanding both current and future open data or open science policies.
+------------------------------------------------------------
+TITLE: Meeting the Burden of Data Compliance [21]
+SOURCE: SERPAPI Google Search
+
+including the Privacy Act of 1974 and sector-specific laws like HIPAA. These laws create a patchwork of regulations that impact data compliance for government agencies and businesses.
+------------------------------------------------------------
+TITLE: FAIR Data for Disaster Risk Research - codata [5]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data or open science policy emphasizes the importance of adhering to FAIR principles for disaster data to improve its discoverability, accessibility, integration, and application. The policy also highlights the benefits of promoting open and interdisciplinary collaboration in research.
+------------------------------------------------------------
+TITLE: Openaire's commitment to open scholarly infrastructure [8]
+SOURCE: SERPAPI Google Search
+
+Trust in open scholarly infrastructure is established through clear governance, transparent decision-making, and long-term accountability.
+------------------------------------------------------------
+TITLE: Expanding a global research infrastructure for the solid Earth [12]
+SOURCE: SERPAPI Google Search
+
+The U.S. is expanding its global research infrastructure for the solid earth, aiming to generate new scientific impact by aligning with international standards.
+------------------------------------------------------------
+TITLE: The Office of the Principal Scientific Adviser, OPSA to ... [22]
+SOURCE: SERPAPI Google Search
+
+The Office of the Principal Scientific Adviser has released a White Paper on Strengthening AI Governance through Techno-Legal measures.
+------------------------------------------------------------
+TITLE: U.S. Universities Count the Cost After One Year of Trump [6]
+SOURCE: SERPAPI Google Search
+
+US universities are facing financial challenges due to a decline in federal research funding, state appropriations, and tuition revenue. This represents a significant impact on the traditional sources of higher education finance in the country.
+------------------------------------------------------------
+TITLE: Federal Policy Updates – Jan. 21, 2026 [10]
+SOURCE: SERPAPI Google Search
+
+Federal policy updates on January 21, 2026 focused on changing the F&A rate in higher education to the Financial...
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. Guest Post — AI Isn’t Going to Pay for Content ... At Least Not How You’re Hoping It Will — https://scholarlykitchen.sspnet.org/2026/01/21/guest-post-ai-isnt-going-to-pay-for-content-at-least-not-how-youre-hoping-it-will/
+2. Creating a Culture of Diversity and Inclusion Revisited: An Interview with Vicky Williams of Emerald Publishing — https://scholarlykitchen.sspnet.org/2026/01/20/creating-a-culture-of-diversity-and-inclusion-revisited-an-interview-with-vicky-williams-of-emerald-publishing/
+3. Open Access Publishing: Why open access (OA)? — https://research.lib.buffalo.edu/open-access/why-oa
+4. Guest Post — The Ghost in the Machine: Why Generative AI is a Crisis of Authorship, Not Just a Tool — https://scholarlykitchen.sspnet.org/2026/01/22/guest-post-the-ghost-in-the-machine-why-generative-ai-is-a-crisis-of-authorship-not-just-a-tool/
+5. FAIR Data for Disaster Risk Research - codata — https://codata.org/initiatives/task-groups/fair-data-for-disaster-risk-research/
+6. U.S. Universities Count the Cost After One Year of Trump — https://www.insidehighered.com/news/government/politics-elections/2026/01/23/us-universities-count-cost-after-one-year-trump
+7. Re: Call for Abstracts | STS Graz Conference 2026 — http://cssp-jnu.blogspot.com/2026/01/re-call-for-abstracts-sts-graz.html
+8. Openaire's commitment to open scholarly infrastructure — https://www.facebook.com/groups/openaire/posts/25644016181907517/
+9. Call for Abstracts: 6th IPPN Conference | Bengaluru, 1-4 June 2026 — http://cssp-jnu.blogspot.com/2026/01/call-for-abstracts-6th-ippn-conference.html
+10. Federal Policy Updates – Jan. 21, 2026 — https://www.washington.edu/provost/2026/01/21/federal-policy-updates-jan-21-2026/
+11. National Day of Patriotic Devotion, 2026 — https://www.whitehouse.gov/presidential-actions/2026/01/national-day-of-patriotic-devotion-2026/
+12. Expanding a global research infrastructure for the solid Earth — https://www.earthscope.org/news/expanding-a-global-research-infrastructure-for-the-solid-earth/
+13. The White House — https://www.whitehouse.gov/
+14. Implementation of Policy Changes to Proposal and Award ... — https://www.nsf.gov/policies/document/pappg24-1-supplement-2
+15. Engage | NASA Earthdata — https://www.earthdata.nasa.gov/engage
+16. Data sharing practices and experiences among Alzheimer's ... — https://pubmed.ncbi.nlm.nih.gov/41572511/
+17. A call for open data to accelerate scientific progress ... — https://www.facebook.com/Frontiersin/posts/a-call-for-open-data-to-accelerate-scientific-progress-at-frontiers-science-hous/1288151986673636/
+18. Is Open Data on Life Support, Do You Care? — https://www.linkedin.com/pulse/open-data-life-support-do-you-care-mark-murphy-alilc
+19. Data Rescue Project — https://www.datarescueproject.org/
+20. Presidential Actions — https://www.whitehouse.gov/presidential-actions/
+21. Meeting the Burden of Data Compliance — https://www.govloop.com/meeting-the-burden-of-data-compliance/
+22. The Office of the Principal Scientific Adviser, OPSA to ... — https://www.facebook.com/airnewsalerts/posts/the-office-of-the-principal-scientific-adviser-opsa-to-the-government-has-releas/1264162185907480/
+
+============================================================
+RUNTIME: 57.22 s
+ESTIMATED TOKENS: 2167
+ESTIMATED COST (USD): $0.0287
+============================================================
