@@ -1,0 +1,142 @@
+OPEN DATA / SCIENCE POLICY MONITOR REPORT
+Generated on February 01, 2026
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. Preliminary evidence suggests a link between open science practices and research integrity. [1] [2] [3] [4] [5] [6]
+
+2. Authors' lack of disclosure about AI use raises transparency concerns in open data and open science policies. [7] [4] [1] [8] [5] [8]
+
+3. Awareness of FAIR data principles is increasing, despite dwindling support for open data mandates among researchers. [8] [8] [2] [9] [4] [10]
+
+4. The FAIR principles adoption in U.S. open data policy has significantly increased, but data sharing recognition remains insufficient. [2] [8] [8] [11] [12] [1]
+
+5. The reauthorized National Quantum Initiative should integrate AI, accelerated computing, and quantum processors for maximum impact. [13] [14] [15] [16] [17] [18]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: Preliminary Evidence Linking Open Science to Research Integrity [1]
+SOURCE: The Scholarly Kitchen
+
+Preliminary evidence suggests that open behaviors such as data and code sharing are less common in articles associated with unethical research practices.
+------------------------------------------------------------
+TITLE: Why Authors Aren’t Disclosing AI Use and What Publishers Should (Not) Do About It [7]
+SOURCE: The Scholarly Kitchen
+
+A small number of authors are disclosing their use of AI in their work, raising concerns about transparency. The reasons behind this lack of disclosure need to be addressed to ensure accountability and reliability in open data and open science policies.
+------------------------------------------------------------
+TITLE: Disaster Risk Reduction and Open Data Newsletter: January 2026 Edition [10]
+SOURCE: CODATA Blog
+
+Digital technologies are revolutionizing the way we perceive and control the global economy by creating a "digital nervous system" through satellites, sensors, and AI to measure various aspects of the economy, as highlighted by Kenneth Cukier in Finance & Development.
+------------------------------------------------------------
+TITLE: CfPs: International Conference on "Youth Narratives and Cultural Practices Across the Globe in the 20th and 21st Century" | 28–30 October, JNU New Delhi [17]
+SOURCE: JCU Sci Policy
+
+Italian & Latin American Studies at Jawaharlal Nehru University is organizing an International Conference on Youth Narratives and Cultural Practices Across the Globe in the 20th and 21st Century from October 28–30, 2026, in New Delhi. The conference aims to examine youth narratives and cultural practices globally, situating them within the framework of the United Nations Sustainable Development Goals, highlighting the impact of youth movements on social consciousness and human rights discourse.
+------------------------------------------------------------
+TITLE: Live News [18]
+SOURCE: SERPAPI Google Search
+
+The U.S. government has various offices such as the Office of Science and Technology Policy, Council of Economic Advisors, Office of the National Cyber Director, and Office of National Drug Control Policy.
+------------------------------------------------------------
+TITLE: Strengthening Replication and Reproducibility of ... [6]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data and open science policy focuses on sharing and standardizing data to advance biomedical research discovery and ensure that NIH research findings are accessible to the public in a timely manner.
+------------------------------------------------------------
+TITLE: Common Data Elements (CDEs) Program - HEAL Initiative - NIH [15]
+SOURCE: SERPAPI Google Search
+
+The NIH HEAL Initiative's Common Data Elements (CDE) Program aligns with the organization's Public Access and Data Sharing Policy, mandating researchers to create data management plans.
+------------------------------------------------------------
+TITLE: GSA ends U.S. participation in 'open government' initiative [14]
+SOURCE: SERPAPI Google Search
+
+The U.S. General Services Administration has decided to end U.S. participation in the Open Government Partnership (OGP), which was focused on promoting transparency, fighting corruption, and enhancing governance through national commitments.
+------------------------------------------------------------
+TITLE: Open Access Policies and Mandates Around the World [4]
+SOURCE: SERPAPI Google Search
+
+In 2021, Plan S requires all peer-reviewed scholarly publications from research funded by public and private grants to be openly accessible immediately.
+------------------------------------------------------------
+TITLE: Open data mandates losing support among researchers [8]
+SOURCE: SERPAPI Google Search
+
+A global survey found that fewer researchers support national mandates for open research data compared to 10 years ago. However, awareness of FAIR data principles is increasing, showing a potential shift in attitudes towards open data policies.
+------------------------------------------------------------
+TITLE: Open Access Policy FAQs - Publish [11]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data or open science policy grants individuals the legal ability to share their work openly, with support from institutions like Caltech.
+------------------------------------------------------------
+TITLE: NIH Data Management & Sharing Plan - Research Guides [12]
+SOURCE: SERPAPI Google Search
+
+The NIH Policy for Data Management requires compliance with the DMS Plan, with reviews conducted at regular reporting intervals. More information on this policy can be found by accessing relevant resources.
+------------------------------------------------------------
+TITLE: Data Management & Retention Best Practices - Subject ... [5]
+SOURCE: SERPAPI Google Search
+
+U.S. open data or open science policies typically mandate data retention periods ranging from three to six years, with specific requirements such as the ISO 27001 compliance framework and NERC guidelines.
+------------------------------------------------------------
+TITLE: Longest running study into open research practices shows ... [2]
+SOURCE: SERPAPI Google Search
+
+The FAIR principles adoption in U.S. open data or open science policy has significantly increased from 15.2% in 2018 to 40.6%. Despite this improvement, data sharing recognition is still lacking, as 69.2% of researchers report insufficient recognition.
+------------------------------------------------------------
+TITLE: Accelerating Science: A Blueprint for a Renewed National ... [13]
+SOURCE: SERPAPI Google Search
+
+The reauthorized National Quantum Initiative (NQI) should include support for integrating AI, accelerated computing, and quantum processors to maximize their potential.
+------------------------------------------------------------
+TITLE: State of Open Data | For Researchers [9]
+SOURCE: SERPAPI Google Search
+
+and community initiatives that have advanced open data in the U.S. It also highlights remaining gaps in these areas.
+------------------------------------------------------------
+TITLE: Science Unleashed: - Embracing Open Practices - Amazon S3 [3]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data or open science policy must be fully implemented by December 31, 2025, as outlined in the Nelson Memo.
+------------------------------------------------------------
+TITLE: to high-impact journal. This poses ... [16]
+SOURCE: SERPAPI Google Search
+
+to high-impact journals can cost up to $5,000, which creates a significant barrier for researchers in low- and middle-income countries.
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. Preliminary Evidence Linking Open Science to Research Integrity — https://scholarlykitchen.sspnet.org/2026/01/28/preliminary-evidence-linking-open-science-to-research-integrity/
+2. Longest running study into open research practices shows ... — https://www.eurekalert.org/news-releases/1114030
+3. Science Unleashed: - Embracing Open Practices - Amazon S3 — https://s3-eu-west-1.amazonaws.com/pfigshare-u-files/49929330/OpenScienceUnleashedF24.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIYCQYOYV5JSSROOA/20260131/eu-west-1/s3/aws4_request&X-Amz-Date=20260131T232151Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=02950960816a7d56151b10b285e92d21ffd65ce7526d9dff2b20e95faddc220d
+4. Open Access Policies and Mandates Around the World — https://mdpiblog.wordpress.sciforum.net/2026/01/27/open-access-policies/
+5. Data Management & Retention Best Practices - Subject ... — https://libguides.lib.miamioh.edu/databestpractices/retentionstandards
+6. Strengthening Replication and Reproducibility of ... — https://www.nih.gov/replicationandreproducibility
+7. Why Authors Aren’t Disclosing AI Use and What Publishers Should (Not) Do About It — https://scholarlykitchen.sspnet.org/2026/01/27/why-authors-arent-disclosing-ai-use-and-what-publishers-should-not-do-about-it/
+8. Open data mandates losing support among researchers — https://www.timeshighereducation.com/news/open-data-mandates-losing-support-among-researchers
+9. State of Open Data | For Researchers — https://www.springernature.com/gp/researchers/campaigns/state-of-open-data
+10. Disaster Risk Reduction and Open Data Newsletter: January 2026 Edition — https://codata.org/blog/2026/01/29/disaster-risk-reduction-and-open-data-newsletter-january-2026-edition/
+11. Open Access Policy FAQs - Publish — https://library.caltech.edu/publish/open-access/faq
+12. NIH Data Management & Sharing Plan - Research Guides — https://guides.lib.umich.edu/datamanagement/nihpolicy
+13. Accelerating Science: A Blueprint for a Renewed National ... — https://blogs.nvidia.com/blog/national-quantum-initiative/
+14. GSA ends U.S. participation in 'open government' initiative — https://federalnewsnetwork.com/open-datatransparency/2026/01/gsa-ends-u-s-participation-in-open-government-initiative/
+15. Common Data Elements (CDEs) Program - HEAL Initiative - NIH — https://heal.nih.gov/data/common-data-elements
+16. to high-impact journal. This poses ... — https://www.facebook.com/davelugahs/posts/it-can-cost-as-high-as-5000-to-publish-research-work-in-a-moderate-to-high-impac/25500535566295333/
+17. CfPs: International Conference on "Youth Narratives and Cultural Practices Across the Globe in the 20th and 21st Century" | 28–30 October, JNU New Delhi — http://cssp-jnu.blogspot.com/2026/01/cfps-international-conference-on-youth.html
+18. Live News — https://www.whitehouse.gov/live/
+
+============================================================
+RUNTIME: 59.2 s
+ESTIMATED TOKENS: 2355
+ESTIMATED COST (USD): $0.0304
+============================================================
