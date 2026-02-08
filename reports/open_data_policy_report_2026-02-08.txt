@@ -1,0 +1,136 @@
+OPEN DATA / SCIENCE POLICY MONITOR REPORT
+Generated on February 08, 2026
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. Scholarly publishers must prioritize science communication to stay competitive in the future of scholarly publishing. [1] [2] [3] [4] [5] [6]
+
+2. Strategic responses are needed to address threats like zero-click search and AI summaries to ensure research integrity and trust. [7] [8] [9] [10] [11] [12]
+
+3. Lack of transparency in AI use requires appropriate actions from publishers to improve disclosure. [3] [1] [12] [13] [14] [15]
+
+4. Political challenges impact scholarly societies and academic institutions, influencing partnerships and external relationships. [6] [1] [2] [7] [3] [5]
+
+5. Open data and open science policies are crucial for safeguarding national security and welfare, requiring trust and transparency for data sharing. [14] [13] [12] [16] [17] [15]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: Guest Post — Why Science Communication Must be the Next Competitive Edge for Scholarly Publishers [1]
+SOURCE: The Scholarly Kitchen
+
+The future of scholarly publishing hinges on excelling in science communication, aligning with the strategic marketing approaches of global consumer brands.
+------------------------------------------------------------
+TITLE: Back to the (Article of the) Future: An interview with Sami Benchekroun and Rod Cookson [2]
+SOURCE: The Scholarly Kitchen
+
+Sami Benchekroun and Rod Cookson advocate for a shift in scholarly publishing to move beyond article-based models. They discuss the need for this change in the context of scholarly communication.
+------------------------------------------------------------
+TITLE: Responding to the Threat of Zero-Click Search and AI Summaries: How Do We Tame The Crocodile? [7]
+SOURCE: The Scholarly Kitchen
+
+research integrity, and trust by increasing the gap between visibility and usage, requiring a strategic response.
+------------------------------------------------------------
+TITLE: Part 2 — Why Authors Aren’t Disclosing AI Use and What Publishers Should (Not) do About It [3]
+SOURCE: The Scholarly Kitchen
+
+leading to a lack of transparency in AI use. The focus is on determining appropriate actions for publishers to take in response.
+------------------------------------------------------------
+TITLE: Politics and Scholarly Societies: 1200 Partnerships with External Organizations Terminated at the University of Kentucky [6]
+SOURCE: The Scholarly Kitchen
+
+Robert Harington discusses the political challenges faced by scholarly societies and academic institutions in the current political environment, highlighting the termination of partnerships with external organizations at the University of Kentucky.
+------------------------------------------------------------
+TITLE: January 2026: Publications in the Data Science Journal [13]
+SOURCE: CODATA Blog
+
+The text discusses recent publications related to open data and open science policy, including topics such as portable metadata authoring and integrating machine learning standards in disseminating research. These publications explore ways to improve data sharing, metadata authoring, and standardization in the field of data science.
+------------------------------------------------------------
+TITLE: FDP on Systematic Review, Meta-analysis, Bibliometrics, and Responsible AI in Scientific Research | 16-22 February; Kolkata, India [8]
+SOURCE: JCU Sci Policy
+
+The program aims to enhance participants' methodological skills in systematic review, meta-analysis, and bibliometrics, focusing on open-source analytical environments and responsible AI. It offers hands-on training in data management, analysis, and visualization using platforms like R, Python, VOSviewer, and ASReview to promote openness and reproducibility in research practices.
+------------------------------------------------------------
+TITLE: Presidential Actions [12]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data or open science policy aims to safeguard the national security and welfare of the country and its citizens from criminal actors and other public safety threats.
+------------------------------------------------------------
+TITLE: President Trump Showcases Historic Successes, Future ... [4]
+SOURCE: SERPAPI Google Search
+
+President Trump highlighted the importance of open data and open science policies in the United States during an exclusive interview with NBC News anchor Tom Llamas in the Oval Office.
+------------------------------------------------------------
+TITLE: Acceptability of Sharing Internet Browsing History for Cancer ... [14]
+SOURCE: SERPAPI Google Search
+
+Trust and transparency are essential for participants to share data in U.S. open data or open science policy. Researchers need to earn trust through clear communication with participants.
+------------------------------------------------------------
+TITLE: Governmental Open Data - Data Science - Subject Guides [16]
+SOURCE: SERPAPI Google Search
+
+also known as the "Open Data Law", mandates federal agencies to release their information online in standardized, machine-readable formats.
+------------------------------------------------------------
+TITLE: LibGuides: Open Access Publishing : What is Open Access? [5]
+SOURCE: SERPAPI Google Search
+
+The text explains that open access (OA) refers to freely available digital information, particularly scholarly literature that is free of charge and carries less restrictive licensing than traditional publishing.
+------------------------------------------------------------
+TITLE: Supporting the University Research Enterprise via Open ... [9]
+SOURCE: SERPAPI Google Search
+
+The case study discusses how one library's support for open access publishing aligns with the research mission of a Carnegie Research 2 institution in the U.S.
+------------------------------------------------------------
+TITLE: NIH Data Management & Sharing Plan - Research Guides [10]
+SOURCE: SERPAPI Google Search
+
+including updates, may be reviewed during regular reporting intervals.
+------------------------------------------------------------
+TITLE: Value over Volume: The Next Ten Years of Open Data [17]
+SOURCE: SERPAPI Google Search
+
+Researchers were surveyed about their familiarity with the FAIR data principles of Findable, Accessible, Interoperable, and Reusable in the context of open data or open science policy. This indicates a growing emphasis on these principles in guiding practices related to research data sharing.
+------------------------------------------------------------
+TITLE: The 2025 State of Open Data report: Can technology push ... [15]
+SOURCE: SERPAPI Google Search
+
+there has been a focus on understanding changing researcher needs and ways institutions can improve support for FAIR practices and data sharing workflows in the U.S. landscape of open data and open science policy.
+------------------------------------------------------------
+TITLE: Funding Unpredictability Around Stem-Cell Research Inflicts ... [11]
+SOURCE: SERPAPI Google Search
+
+Professor William Sahlman argues that funding unpredictability in human embryonic stem-cell research has a significant negative impact on overall scientific progress.
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. Guest Post — Why Science Communication Must be the Next Competitive Edge for Scholarly Publishers — https://scholarlykitchen.sspnet.org/2026/02/06/guest-post-why-science-communication-must-be-the-next-competitive-edge-for-scholarly-publishers/
+2. Back to the (Article of the) Future: An interview with Sami Benchekroun and Rod Cookson — https://scholarlykitchen.sspnet.org/2026/02/05/back-to-the-article-of-the-future-an-interview-with-sami-benchekroun-and-rod-cookson/
+3. Part 2 — Why Authors Aren’t Disclosing AI Use and What Publishers Should (Not) do About It — https://scholarlykitchen.sspnet.org/2026/02/03/why-authors-arent-disclosing-ai-use-and-what-publishers-should-not-do-about-it-part-2/
+4. President Trump Showcases Historic Successes, Future ... — https://www.whitehouse.gov/articles/2026/02/president-trump-showcases-historic-successes-future-vision-exclusive-nbc-interview/
+5. LibGuides: Open Access Publishing : What is Open Access? — https://guides.library.cornell.edu/openaccess
+6. Politics and Scholarly Societies: 1200 Partnerships with External Organizations Terminated at the University of Kentucky — https://scholarlykitchen.sspnet.org/2026/02/02/robert-harington-attempts-to-shine-a-light-on-some-of-the-political-problems-scholarly-societies-and-academic-institutions-face-in-the-current-political-climate/
+7. Responding to the Threat of Zero-Click Search and AI Summaries: How Do We Tame The Crocodile? — https://scholarlykitchen.sspnet.org/2026/02/04/responding-to-the-threat-of-zero-click-search-and-ai-summaries-how-do-we-tame-the-crocodile/
+8. FDP on Systematic Review, Meta-analysis, Bibliometrics, and Responsible AI in Scientific Research | 16-22 February; Kolkata, India — http://cssp-jnu.blogspot.com/2026/02/fdp-on-systematic-review-meta-analysis.html
+9. Supporting the University Research Enterprise via Open ... — https://www.mdpi.com/2304-6775/14/1/10
+10. NIH Data Management & Sharing Plan - Research Guides — https://guides.lib.umich.edu/datamanagement/nihpolicy
+11. Funding Unpredictability Around Stem-Cell Research Inflicts ... — https://www.library.hbs.edu/working-knowledge/funding-unpredictability-around-stem-cell-research-inflicts-heavy-cost-on-scientific-progress
+12. Presidential Actions — https://www.whitehouse.gov/presidential-actions/
+13. January 2026: Publications in the Data Science Journal — https://codata.org/blog/2026/02/02/january-2026-publications-in-the-data-science-journal/
+14. Acceptability of Sharing Internet Browsing History for Cancer ... — https://pmc.ncbi.nlm.nih.gov/articles/PMC12863654/
+15. The 2025 State of Open Data report: Can technology push ... — https://www.springernature.com/gp/librarians/the-link/open-science-blogpost/state-of-open-data-2025-ten-years-insights/27841610
+16. Governmental Open Data - Data Science - Subject Guides — https://subjectguides.library.american.edu/c.php?g=1329947&p=9988298
+17. Value over Volume: The Next Ten Years of Open Data — https://www.digital-science.com/blog/2026/02/value-over-volume-the-next-ten-years-of-open-data/
+
+============================================================
+RUNTIME: 63.58 s
+ESTIMATED TOKENS: 2158
+ESTIMATED COST (USD): $0.0286
+============================================================
