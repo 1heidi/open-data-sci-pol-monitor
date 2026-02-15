@@ -1,0 +1,130 @@
+OPEN DATA / SCIENCE POLICY MONITOR REPORT
+Generated on February 15, 2026
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. Rehumanizing AI in academia is vital for addressing mental health and AI anxiety concerns. [1] [2] [3] [4] [5]
+
+2. Third-party AI usage presents gaps in traditional usage reporting that need attention. [6] [7] [1]
+
+3. Changes in editorial board members led to the creation of competing neuroscience journals. [8] [9] [10]
+
+4. Blog suggests adding "understandable" to FAIR data principles to prevent knowledge loss. [11] [12] [12] [13] [14] [15]
+
+5. Balancing caregiving and academic careers is challenging, raising questions about academia's support system. [2] [1] [16]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: Guest Post: The Human Heart of Science — Navigating AI Anxiety in the Academic World [1]
+SOURCE: The Scholarly Kitchen
+
+The text discusses the need to "rehumanize" our understanding of AI advancements and their implications for mental health and communities, emphasizing the human element in navigating AI anxiety in the academic sphere.
+------------------------------------------------------------
+TITLE: Guest Post — There’s an Elephant in the Room, but Not in Your Usage Reports [6]
+SOURCE: The Scholarly Kitchen
+
+The text discusses a gap in traditional usage reporting related to third-party AI usage. It highlights the need for steps to be taken to recover missing usage data in this context.
+------------------------------------------------------------
+TITLE: So... IS the Essence of a Journal Portable? Checking in on _NeuroImage_ and _Imaging Neuroscience_ [8]
+SOURCE: The Scholarly Kitchen
+
+Since the editorial board of one neuroscience journal departed to create another, both _NeuroImage_ and _Imaging Neuroscience_ have continued to exist as separate competing entities.
+------------------------------------------------------------
+TITLE: Guest Post — Putting the “U” in FAIR [11]
+SOURCE: The Scholarly Kitchen
+
+The blog post suggests including "understandable" in the FAIR data principles to prevent the loss of human knowledge in the pursuit of automation.
+------------------------------------------------------------
+TITLE: Designed for Someone Else’s Life: Balancing Academic Careers with Caregiving Responsibilities [2]
+SOURCE: The Scholarly Kitchen
+
+The text discusses the challenges caregivers and parents face when balancing academic careers with caregiving responsibilities, questioning whether academia adequately supports them.
+------------------------------------------------------------
+TITLE: New Book "India’s High-Tech Leap, Industrial Policy and Future of Innovation" by S. Mani, 2026 [16]
+SOURCE: JCU Sci Policy
+
+The book "India's High-Tech Leap, Industrial Policy and Future of Innovation" by Sunil Mani explores how government support can drive innovation and competitiveness in emerging economies like India. It discusses India's successes in high-tech industries and proposes actionable policy recommendations to strengthen the country's technological future.
+------------------------------------------------------------
+TITLE: Data Management and Sharing [14]
+SOURCE: SERPAPI Google Search
+
+Open data or open science policy in the U.S. promotes the sharing of research data through public repositories or as supplementary information in publications to speed up the discovery of new information.
+------------------------------------------------------------
+TITLE: 2026-02650.pdf [3]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data or open science policy requires that all federally funded health research prioritizes transparency and open-source data to benefit the American public.
+------------------------------------------------------------
+TITLE: TEFCA - ASTP - Assistant Secretary for Technology Policy [4]
+SOURCE: SERPAPI Google Search
+
+TEFCA improves national health information exchange by facilitating secure data sharing between providers, payers, and public health sectors.
+------------------------------------------------------------
+TITLE: Joint Statement from the Data Foundation and Results for ... [15]
+SOURCE: SERPAPI Google Search
+
+and Evaluation (OPRE) at the Administration for Children and Families (ACF) aims to align with the broader open data and open science policy goals of the U.S. government, emphasizing the importance of rigorous research and evidence-based practices in decision-making.
+------------------------------------------------------------
+TITLE: HealthData.gov [5]
+SOURCE: SERPAPI Google Search
+
+Healthdata.gov is the official website for Health and Human Services (HHS) Open Data, providing access to health and human services data, tools, and resources for researchers and developers to use in their projects.
+------------------------------------------------------------
+TITLE: Data Security Compliance: All You Need to Know in 2026 [7]
+SOURCE: SERPAPI Google Search
+
+All federal agencies and contractors or service providers that manage or process federal information or operate federal systems are required to comply with FISMA regulations.
+------------------------------------------------------------
+TITLE: Research Data Request & Access Policy Changes Update [9]
+SOURCE: SERPAPI Google Search
+
+In February 2024, CMS announced plans to alter the process for researchers to access Medicare and Medicaid data in order to enhance the efficiency and transparency of data sharing for research purposes.
+------------------------------------------------------------
+TITLE: Andrea Medina-Smith on Making Research Data More FAIR [12]
+SOURCE: SERPAPI Google Search
+
+The University of Michigan's ICPSR has launched DataLumos, a new repository focused on storing federal data. This initiative aims to enhance transparency and accessibility of research data for the public.
+------------------------------------------------------------
+TITLE: a comparative analysis of research data availability in four ... [10]
+SOURCE: SERPAPI Google Search
+
+A preregistered study examined the availability of research data in articles from four educational research journals over a five-year period.
+------------------------------------------------------------
+TITLE: Congress, Courts Stymie Trump's Effort to Cap Research ... [13]
+SOURCE: SERPAPI Google Search
+
+institutions have a reimbursement rate of 27 to 28 percent for conducting federally funded research, with some colleges negotiating rates higher than 50 percent.
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. Guest Post: The Human Heart of Science — Navigating AI Anxiety in the Academic World — https://scholarlykitchen.sspnet.org/2026/02/13/guest-post-the-human-heart-of-science-navigating-ai-anxiety-in-the-academic-world/
+2. Designed for Someone Else’s Life: Balancing Academic Careers with Caregiving Responsibilities — https://scholarlykitchen.sspnet.org/2026/02/09/designed-for-someone-elses-life-balancing-academic-careers-with-caregiving-responsibilities/
+3. 2026-02650.pdf — https://public-inspection.federalregister.gov/2026-02650.pdf
+4. TEFCA - ASTP - Assistant Secretary for Technology Policy — https://healthit.gov/policy/tefca/
+5. HealthData.gov — https://healthdata.gov/
+6. Guest Post — There’s an Elephant in the Room, but Not in Your Usage Reports — https://scholarlykitchen.sspnet.org/2026/02/12/guest-post-theres-an-elephant-in-the-room-but-not-in-your-usage-reports/
+7. Data Security Compliance: All You Need to Know in 2026 — https://www.snowflake.com/en/fundamentals/data-security-compliance/
+8. So... IS the Essence of a Journal Portable? Checking in on _NeuroImage_ and _Imaging Neuroscience_ — https://scholarlykitchen.sspnet.org/2026/02/11/so-is-the-essence-of-a-journal-portable-checking-in-on-_neuroimage_-and-_imaging-neuroscience_/
+9. Research Data Request & Access Policy Changes Update — https://resdac.org/cms-news/research-data-request-access-policy-changes-update
+10. a comparative analysis of research data availability in four ... — https://link.springer.com/article/10.1007/s11618-026-01371-1
+11. Guest Post — Putting the “U” in FAIR — https://scholarlykitchen.sspnet.org/2026/02/10/guest-post-putting-the-u-in-fair/
+12. Andrea Medina-Smith on Making Research Data More FAIR — https://www.socialsciencespace.com/2026/02/andrea-medina-smith-on-making-research-data-more-fair/
+13. Congress, Courts Stymie Trump's Effort to Cap Research ... — https://www.insidehighered.com/news/government/science-research-policy/2026/02/09/congress-courts-stymie-trumps-effort-cap
+14. Data Management and Sharing — https://tools.niehs.nih.gov/srp/data/index.cfm
+15. Joint Statement from the Data Foundation and Results for ... — https://datafoundation.org/news/press-releases-and-statements/807/807-Joint-Statement-from-the-Data-Foundation-and-Results-for-America-on-the-Restructuring-of-OPRE-at-ACF
+16. New Book "India’s High-Tech Leap, Industrial Policy and Future of Innovation" by S. Mani, 2026 — http://cssp-jnu.blogspot.com/2026/02/new-book-indias-high-tech-leap.html
+
+============================================================
+RUNTIME: 62.39 s
+ESTIMATED TOKENS: 2374
+ESTIMATED COST (USD): $0.03
+============================================================
