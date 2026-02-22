@@ -1,0 +1,160 @@
+OPEN DATA / SCIENCE POLICY MONITOR REPORT
+Generated on February 22, 2026
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. Attention is shifting towards professionalizing peer review management and enhancing research integrity through innovative quality control systems. [1] [2] [3] [4] [5] [6]
+
+2. The transition from individual heroic efforts to institutional infrastructure is emphasized for advancing community-led publishing in the context of diamond open access. [7] [8] [9] [10] [11] [4]
+
+3. AI technology is evolving from being a feature to becoming integral infrastructure, focusing on the development of better systems rather than just tools. [5] [7] [4] [12] [13] [14]
+
+4. Effective regulatory and non-regulatory policies are highlighted as essential components to build public trust in AI technology, with open data and open science policies playing key roles. [15] [16] [10] [17] [18] [8]
+
+5. The U.S. administration is actively promoting American AI exports, emphasizing sovereignty and global competitiveness, as showcased at the India AI Impact Summit. [19] [20] [15] [4] [21] [14]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: Guest Post — The Evolution of the Editorial Office: From Kitchen Tables to Global Infrastructure [4]
+SOURCE: The Scholarly Kitchen
+
+The text discusses the professionalization of peer review management and the collaborative efforts to advance its future developments.
+------------------------------------------------------------
+TITLE: Guest Post — Re-imagining Scholarly Integrity: The “Continuum of Consensus” Quality Control System [1]
+SOURCE: The Scholarly Kitchen
+
+The "Continuum of Consensus" is proposed as a system to enhance research integrity, peer review, and public trust in scholarly research. This system aims to address issues and improve the quality control process in the academic publishing industry.
+------------------------------------------------------------
+TITLE: Guest Post — Diamond Open Access Needs Institutions, Not Heroes [7]
+SOURCE: The Scholarly Kitchen
+
+The post discusses the importance of supporting community-led publishing as institutional infrastructure rather than relying on individual heroic efforts in the context of diamond open access.
+------------------------------------------------------------
+TITLE: From “AI helps me write” to “AI runs the workflow”: Eight Tech-trend Reports through a Publishing-and-learning Lens [5]
+SOURCE: The Scholarly Kitchen
+
+Eight technology industry trend reports indicate that AI is transitioning from being just a feature to becoming infrastructure, with the focus shifting from "a better tool" to "a better system."
+------------------------------------------------------------
+TITLE: JNU LEC Workshop 'From Idea to Impact: Academic Writing and Research Communication in the AI Era | 25 February [21]
+SOURCE: JCU Sci Policy
+
+The LEC Workshop titled 'From Idea to Impact' on academic writing and research communication will take place on Wednesday, 25 February 2026 at JNU's Committee Room no. 128, SIS - II. Current JNU students can register for the workshop and must join the designated WhatsApp group for updates.
+------------------------------------------------------------
+TITLE: 2027-2028 Fulbright-Nehru Doctoral & Postdoctoral Research Fellowships [14]
+SOURCE: JCU Sci Policy
+
+The Fulbright-Nehru Doctoral Research Fellowships aim to develop capacity to address global challenges and promote innovation in India and the USA. Indian scholars pursuing a PhD can apply for these six to nine-month fellowships focused on futuristic, technology-based proposals.
+------------------------------------------------------------
+TITLE: CfPs: 18th International Asian Urbanization Conference 2026 | SCU Ladakh, India; 5-8 August [20]
+SOURCE: JCU Sci Policy
+
+The 18th International Asian Urbanization Conference in 2026 will focus on the theme of "Resilient Futures: Urbanization, Climate Change, and Sustainable Development Policy in a Changing World," exploring ways for urban areas to become resilient to climate change while promoting sustainable development. The conference aims to bring together interdisciplinary perspectives, global case studies, theoretical frameworks, and practical solutions to provide actionable insights for researchers, policymakers, and students.
+------------------------------------------------------------
+TITLE: Remarks by Director Michael Kratsios at the India AI Impact ... [15]
+SOURCE: SERPAPI Google Search
+
+Effective regulatory and non-regulatory policies are crucial for building public trust in AI technology and ensuring that it serves the public interest. Open data and open science policies are important components of efforts to promote transparency and accountability in the use of AI technologies.
+------------------------------------------------------------
+TITLE: U.S. Promotes AI Adoption, Sovereignty, and Exports at ... [19]
+SOURCE: SERPAPI Google Search
+
+The Trump Administration has introduced a strategy to promote American AI exports, with a focus on sovereignty and fostering global competitiveness. This initiative was highlighted at the India AI Impact Summit.
+------------------------------------------------------------
+TITLE: S. 800, Precision Brain Health Research Act of 2025 [6]
+SOURCE: SERPAPI Google Search
+
+The Congressional Budget Office (CBO) expects that the work needed to conduct research and set up systems for data sharing in the U.S. would be finished between 2026 and 2034.
+------------------------------------------------------------
+TITLE: Open Data, Services, and Software Policies [16]
+SOURCE: SERPAPI Google Search
+
+The NASA Earth Science Data Systems (ESDS) Program advocates for complete sharing of data, metadata, documentation, models, images, research results, and source code.
+------------------------------------------------------------
+TITLE: Federal Government Information After the 2025 Transition [10]
+SOURCE: SERPAPI Google Search
+
+The initiative aims to save and protect data from government agencies that may be removing public information. It advocates for and assists in maintaining high-quality data for open data or open science policy efforts.
+------------------------------------------------------------
+TITLE: USDA Announces Request for Information on Data Products [17]
+SOURCE: SERPAPI Google Search
+
+The USDA has announced a Request for Information (RFI) related to data products, which will be open for public comment for 45 days. The feedback received will be analyzed and discussed at the 2026 Spring Data Users Meeting on April 22.
+------------------------------------------------------------
+TITLE: Open Access Types - Open Access Publishing [8]
+SOURCE: SERPAPI Google Search
+
+The NIH Public Access mandates and the JHU Open Access Policy require that scholarly work be made open access through Gold, Hybrid, and Diamond Open Access types.
+------------------------------------------------------------
+TITLE: What is Open Access and Why Does it Matter? - Open Access [11]
+SOURCE: SERPAPI Google Search
+
+Open Access (OA) policy applies to published scholarly material, allowing free online access to all users. This policy aligns with the norms of scholarly communication.
+------------------------------------------------------------
+TITLE: LibGuides: Open Access Publishing : What is Open Access? [9]
+SOURCE: SERPAPI Google Search
+
+Open access (OA) policy allows for free and unrestricted access to digital scholarly literature online. This policy enables the public to access information without cost or restrictions.
+------------------------------------------------------------
+TITLE: Working with Sensitive Data - Research Data Management [2]
+SOURCE: SERPAPI Google Search
+
+The IRB is responsible for safeguarding human research participants in medical and non-medical research projects, requiring researchers to contact them for guidance on these matters.
+------------------------------------------------------------
+TITLE: Introduction - Research Data Management Overview [3]
+SOURCE: SERPAPI Google Search
+
+The guide offers best practices and tools for managing research data, aiming to support researchers in handling and contextualizing their data effectively.
+------------------------------------------------------------
+TITLE: Measuring What Matters: Why Academic Pathways Need ... [12]
+SOURCE: SERPAPI Google Search
+
+Academic pathway programs in higher education are essential for increasing access to degrees, research careers, and faculty positions for students. These programs are crucial for addressing equity and diversity in academia by providing shared evidence of success rather than relying solely on good intentions.
+------------------------------------------------------------
+TITLE: DHS Designates Elections as “Critical Infrastructure ... [13]
+SOURCE: SERPAPI Google Search
+
+Olsen has started requesting information from intelligence agencies about the 2020 election and has mentioned a desire to remove certain government personnel.
+------------------------------------------------------------
+TITLE: Research – Office of the Provost [18]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data or open science policy promotes research in the interest of the American public, with a focus on supporting the Financial Accountability in Research (FAIR) initiative.
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. Guest Post — Re-imagining Scholarly Integrity: The “Continuum of Consensus” Quality Control System — https://scholarlykitchen.sspnet.org/2026/02/19/guest-post-re-imagining-scholarly-integrity-the-continuum-of-consensus-quality-control-system/
+2. Working with Sensitive Data - Research Data Management — https://guides.lib.uci.edu/datamanagement/sensitive
+3. Introduction - Research Data Management Overview — https://guides.lib.purdue.edu/researchdata
+4. Guest Post — The Evolution of the Editorial Office: From Kitchen Tables to Global Infrastructure — https://scholarlykitchen.sspnet.org/2026/02/20/guest-post-the-evolution-of-the-editorial-office-from-kitchen-tables-to-global-infrastructure/
+5. From “AI helps me write” to “AI runs the workflow”: Eight Tech-trend Reports through a Publishing-and-learning Lens — https://scholarlykitchen.sspnet.org/2026/02/17/from-ai-helps-me-write-to-ai-runs-the-workflow-eight-tech-trend-reports-through-a-publishing-and-learning-lens/
+6. S. 800, Precision Brain Health Research Act of 2025 — https://www.cbo.gov/publication/62104
+7. Guest Post — Diamond Open Access Needs Institutions, Not Heroes — https://scholarlykitchen.sspnet.org/2026/02/18/guest-post-diamond-open-access-needs-institutions-not-heroes/
+8. Open Access Types - Open Access Publishing — https://browse.welch.jhmi.edu/writing_publishing/oa_types
+9. LibGuides: Open Access Publishing : What is Open Access? — https://guides.library.cornell.edu/openaccess
+10. Federal Government Information After the 2025 Transition — https://ucsd.libguides.com/FederalGovInfoPostTransition/external
+11. What is Open Access and Why Does it Matter? - Open Access — https://libguides.brown.edu/oa
+12. Measuring What Matters: Why Academic Pathways Need ... — https://www.socialsciencespace.com/2026/02/measuring-what-matters-why-academic-pathways-need-shared-evidence-not-just-good-intentions/
+13. DHS Designates Elections as “Critical Infrastructure ... — https://www.facebook.com/groups/785048805739693/posts/1931946614383234/
+14. 2027-2028 Fulbright-Nehru Doctoral & Postdoctoral Research Fellowships — http://cssp-jnu.blogspot.com/2026/02/2027-2028-fulbright-nehru-doctoral.html
+15. Remarks by Director Michael Kratsios at the India AI Impact ... — https://www.whitehouse.gov/articles/2026/02/remarks-by-director-michael-kratsios-at-the-india-ai-impact-summit/
+16. Open Data, Services, and Software Policies — https://www.earthdata.nasa.gov/engage/open-data-services-software-policies
+17. USDA Announces Request for Information on Data Products — https://www.usda.gov/about-usda/news/press-releases/2026/02/20/usda-announces-request-information-data-products
+18. Research – Office of the Provost — https://www.washington.edu/provost/federal-policy-updates/research/
+19. U.S. Promotes AI Adoption, Sovereignty, and Exports at ... — https://www.whitehouse.gov/articles/2026/02/u-s-promotes-ai-adoption-sovereignty-and-exports-at-india-ai-impact-summit/
+20. CfPs: 18th International Asian Urbanization Conference 2026 | SCU Ladakh, India; 5-8 August — http://cssp-jnu.blogspot.com/2026/02/cfps-18th-international-asian.html
+21. JNU LEC Workshop 'From Idea to Impact: Academic Writing and Research Communication in the AI Era | 25 February — http://cssp-jnu.blogspot.com/2026/02/jnu-lec-workshop-from-idea-to-impact.html
+
+============================================================
+RUNTIME: 54.15 s
+ESTIMATED TOKENS: 2333
+ESTIMATED COST (USD): $0.0314
+============================================================
