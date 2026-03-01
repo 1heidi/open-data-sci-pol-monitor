@@ -1,0 +1,154 @@
+OPEN DATA / SCIENCE POLICY MONITOR REPORT
+Generated on March 01, 2026
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. The need for Diamond Open Access to transition into a comprehensive, fair, data-driven academic environment is highlighted to support early-career researchers. [1] [2] [3] [4] [5] [6]
+
+2. Major Chinese funders aim to limit payment for Article Processing Charges (APCs) for open access publishing to address high costs. [7] [7] [8] [1] [4] [3]
+
+3. Guest post emphasizes the importance of shaping a sustainable future in academic publishing to decrease environmental impact. [9] [10] [1] [11] [12] [13]
+
+4. National Institutes of Health (NIH) encourages data management aligning with FAIR data principles for findable, accessible, interoperable, and reusable data. [14] [6] [1] [15] [16] [17]
+
+5. PIDfest 2026 in Leiden, The Netherlands, aims to connect and share knowledge within the open data and open science community. [18] [2] [1] [3] [19] [20]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: Guest Post — Shaping a Sustainable Future for Academic Publishing: Our Journey so Far [9]
+SOURCE: The Scholarly Kitchen
+
+The post discusses how publishers can decrease their carbon footprint and play a crucial role in environmental sustainability in academic publishing. It emphasizes the importance of shaping a sustainable future in the field.
+------------------------------------------------------------
+TITLE: Keeping Knowledge Connected – at PIDfest 2026! [18]
+SOURCE: The Scholarly Kitchen
+
+PIDfest 2026 will be held in Leiden, The Netherlands from October 27-29, and aims to connect and share knowledge within the open data and open science community.
+------------------------------------------------------------
+TITLE: Standing Up by Stepping Down [11]
+SOURCE: The Scholarly Kitchen
+
+The text discusses the importance of DEIA advocacy and promotes the idea of taking a pause as a form of resistance and self-preservation in today's post.
+------------------------------------------------------------
+TITLE: Guest Post — AI Readiness and the New Value Equation in Scholarly Publishing [10]
+SOURCE: The Scholarly Kitchen
+
+Semantic enrichment of scholarly content enables publishers to influence the development of AI technology and make scholarly publishing indispensable to AI.
+------------------------------------------------------------
+TITLE: Mental Health Awareness Monday — Sing the Songs That Bring You Joy [12]
+SOURCE: The Scholarly Kitchen
+
+The text discusses personal reflections on mental health awareness, emphasizing the significance of boundaries and adopting routines for achieving balance. It is a guest post that encourages embracing joyous songs as part of mental health awareness practices.
+------------------------------------------------------------
+TITLE: Beyond Articles: Rethinking Diamond Open Access for a Data-Driven Research Future [1]
+SOURCE: CODATA Blog
+
+The text discusses the need for Diamond Open Access (OA) to transition into a comprehensive, fair, and data-driven academic environment that incorporates early-career researchers. It highlights the necessity for alignment among policy, funding, research evaluation, and infrastructure to create a truly equitable and data-rich ecosystem accessible to early-career researchers.
+------------------------------------------------------------
+TITLE: Disaster Risk Reduction and Open Data Newsletter: February 2026 Edition [2]
+SOURCE: CODATA Blog
+
+The Asian Development Bank is advocating for a shift towards proactive, climate-resilient infrastructure in Asia and the Pacific due to over US $170 billion in annual disaster losses. The focus is on moving from post-disaster rebuilding to building infrastructure that can withstand modern risks.
+------------------------------------------------------------
+TITLE: UNESCO report: Major blind spot in ocean carbon research could undermine global climate predictions [13]
+SOURCE: JCU Sci Policy
+
+A recent UNESCO report highlights a major gap in understanding how the ocean stores carbon, which could impact climate predictions and mitigation strategies. The report emphasizes the need for global cooperation to enhance ocean carbon monitoring and update climate models.
+------------------------------------------------------------
+TITLE: NOT-OD-26-046: Updated Elements of an NIH Data ... [14]
+SOURCE: SERPAPI Google Search
+
+The National Institutes of Health (NIH) encourages data management and sharing practices that align with the FAIR data principles, which include making data findable, accessible, interoperable, and reusable.
+------------------------------------------------------------
+TITLE: Data Management and Sharing (DMS) Plan format page [15]
+SOURCE: SERPAPI Google Search
+
+NIH requires the use of established repositories for storing and sharing scientific data when possible. The data type that is expected to be stored in these repositories is not explicitly mentioned.
+------------------------------------------------------------
+TITLE: Data Management Sharing Policy (DMSP) Webinar ... [16]
+SOURCE: SERPAPI Google Search
+
+The on-demand Moodle class includes 5 recorded webinars discussing data management basics and the new NIH requirements for data management in the U.S.
+------------------------------------------------------------
+TITLE: VETS-4212 Data Published on New DOL Open Data Portal [3]
+SOURCE: SERPAPI Google Search
+
+The Department of Labor is now in alignment with federal data mandates such as the OPEN Government Data Act of 2019 and the Federal Data Strategy by publishing VETS-4212 data on a new open data portal.
+------------------------------------------------------------
+TITLE: Open Access - Research Guides at James Madison University [4]
+SOURCE: SERPAPI Google Search
+
+Open access (OA) policy promotes digital information that is freely available online without cost or copyright restrictions.
+------------------------------------------------------------
+TITLE: Major Chinese funder to stop paying fees for 30 pricey ... [7]
+SOURCE: SERPAPI Google Search
+
+The draft policy proposed by CAS would prohibit scientists from using academy funds to pay article-processing charges (APCs) for open access publishing.
+------------------------------------------------------------
+TITLE: Federal Workforce Data: Improvements Needed to ... [19]
+SOURCE: SERPAPI Google Search
+
+Open data and open science policies in the U.S. aim to provide the public with information about political appointees and senior federal officials to enhance accountability and transparency in key policy decisions.
+------------------------------------------------------------
+TITLE: How Federal Agencies Turn Data Readiness Into Real ... [5]
+SOURCE: SERPAPI Google Search
+
+metadata, and data pipelines to enable the effective use of artificial intelligence and create reliable, shareable data for various missions.
+------------------------------------------------------------
+TITLE: Pillar 4: Using Data to Drive Priority-Setting, Decision ... [20]
+SOURCE: SERPAPI Google Search
+
+Open data and open science policy in the U.S. plays a crucial role in providing the evidence base for strategic planning, performance management metrics, and transparency mechanisms to encourage accountability.
+------------------------------------------------------------
+TITLE: FAIR m-BIDS: Advancing brain data utilization through ... [6]
+SOURCE: SERPAPI Google Search
+
+Datascience and AI studies have shown that multimodality is important for obtaining accurate and reliable results. Effective management of multimodal data is essential for achieving success in these fields.
+------------------------------------------------------------
+TITLE: Data management processes in research organizations in ... [17]
+SOURCE: SERPAPI Google Search
+
+The text discusses a pilot project involving five universities working towards achieving the target state of research data governance by 2030. This project provides guidance on data management processes in organizations for the year 2025.
+------------------------------------------------------------
+TITLE: Chinese Academy of Sciences proposes capping pay ... [8]
+SOURCE: SERPAPI Google Search
+
+The average global Article Processing Charge (APC) is $1236. The NIH is considering options such as barring payment for APCs or setting limits of $2000 to $3000.
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. Beyond Articles: Rethinking Diamond Open Access for a Data-Driven Research Future — https://codata.org/blog/2026/02/24/beyond-articles-rethinking-diamond-open-access-for-a-data-driven-research-future/
+2. Disaster Risk Reduction and Open Data Newsletter: February 2026 Edition — https://codata.org/blog/2026/02/24/disaster-risk-reduction-and-open-data-newsletter-february-2026-edition/
+3. VETS-4212 Data Published on New DOL Open Data Portal — https://www.seyfarth.com/news-insights/vets-4212-data-published-on-new-dol-open-data-portal.html
+4. Open Access - Research Guides at James Madison University — https://guides.lib.jmu.edu/openaccess
+5. How Federal Agencies Turn Data Readiness Into Real ... — https://fedtechmagazine.com/article/2026/02/how-federal-agencies-turn-data-readiness-real-world-ai-results
+6. FAIR m-BIDS: Advancing brain data utilization through ... — https://www.nature.com/articles/s41597-026-06790-7
+7. Major Chinese funder to stop paying fees for 30 pricey ... — https://www.science.org/content/article/major-china-funder-plans-curtail-spending-pricey-open-access-fees
+8. Chinese Academy of Sciences proposes capping pay ... — https://www.chemistryworld.com/news/chinese-academy-of-sciences-proposes-capping-pay-to-publish-fees-for-high-profile-journals/4023025.article
+9. Guest Post — Shaping a Sustainable Future for Academic Publishing: Our Journey so Far — https://scholarlykitchen.sspnet.org/2026/02/27/guest-post-shaping-a-sustainable-future-for-academic-publishing-our-journey-so-far/
+10. Guest Post — AI Readiness and the New Value Equation in Scholarly Publishing — https://scholarlykitchen.sspnet.org/2026/02/24/guest-post-ai-readiness-and-the-new-value-equation-in-scholarly-publishing/
+11. Standing Up by Stepping Down — https://scholarlykitchen.sspnet.org/2026/02/25/standing-up-by-stepping-down/
+12. Mental Health Awareness Monday — Sing the Songs That Bring You Joy — https://scholarlykitchen.sspnet.org/2026/02/23/mental-health-awareness-monday-sing-the-songs-that-bring-you-joy/
+13. UNESCO report: Major blind spot in ocean carbon research could undermine global climate predictions — http://cssp-jnu.blogspot.com/2026/02/unesco-report-major-blind-spot-in-ocean.html
+14. NOT-OD-26-046: Updated Elements of an NIH Data ... — https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-046.html
+15. Data Management and Sharing (DMS) Plan format page — https://grants.nih.gov/sites/default/files/dms-blank-format-page-2026.pdf
+16. Data Management Sharing Policy (DMSP) Webinar ... — https://www.nnlm.gov/training/class/data-management-sharing-policy-dmsp-recordings-demand
+17. Data management processes in research organizations in ... — https://www.fairdata.fi/en/data-management-processes-in-organizations-in-2025/
+18. Keeping Knowledge Connected – at PIDfest 2026! — https://scholarlykitchen.sspnet.org/2026/02/26/keeping-knowledge-connected-at-pidfest-2026/
+19. Federal Workforce Data: Improvements Needed to ... — https://www.gao.gov/products/gao-26-108164
+20. Pillar 4: Using Data to Drive Priority-Setting, Decision ... — https://www.businessofgovernment.org/blog/pillar-4-using-data-drive-priority-setting-decision-making-and-performance
+
+============================================================
+RUNTIME: 59.73 s
+ESTIMATED TOKENS: 2434
+ESTIMATED COST (USD): $0.0318
+============================================================
