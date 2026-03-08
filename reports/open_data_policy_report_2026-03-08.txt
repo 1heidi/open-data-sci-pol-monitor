@@ -1,0 +1,118 @@
+OPEN DATA / SCIENCE POLICY MONITOR REPORT
+Generated on March 08, 2026
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. Knowledge is tied to power dynamics, disadvantaging countries in the Global South. [1] [2] [3] [4]
+
+2. AI-driven search tools raise concerns about serendipity and "night science." [5] [6] [7] [8] [2] [9]
+
+3. Academic librarians should focus on the emotional effects of AI rather than technical training. [10] [11] [12] [13] [4]
+
+4. Key stakeholders in scholarly publishing are increasingly questioning the value provided by publishers. [14] [9] [1] [5] [10]
+
+5. U.S. open data and open science policy faces challenges and uncertainties, but the industry remains cautious and under stress. [9] [8] [11] [6] [13] [7]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: Guest Post — Who Owns Our Knowledge? An African University Press Perspective [1]
+SOURCE: The Scholarly Kitchen
+
+The text explores the concept that knowledge is closely tied to power dynamics and suggests that the current global knowledge economy disadvantages countries in the Global South.
+------------------------------------------------------------
+TITLE: Guest Post — Cultivating Serendipity and Protecting Night Science [5]
+SOURCE: The Scholarly Kitchen
+
+AI-driven search tools are making information-seeking more efficient, but concerns arise about the impact on serendipity, frustration, and "night science."
+------------------------------------------------------------
+TITLE: Guest Post — AI Fatigue and Vocational Awe in Academic Libraries [10]
+SOURCE: The Scholarly Kitchen
+
+Academic librarians should focus on reflecting on the emotional and mental effects of implementing AI innovations rather than receiving further training on using AI technology.
+------------------------------------------------------------
+TITLE: Guest Post — The Value Challenge in Scholarly Publishing [14]
+SOURCE: The Scholarly Kitchen
+
+with key stakeholders increasingly questioning, dismissing, or overlooking the value provided by publishers in scholarly publishing.
+------------------------------------------------------------
+TITLE: Economic Outlook for Scholarly Communications in 2026 — SSP Pulse Check Report [9]
+SOURCE: The Scholarly Kitchen
+
+The U.S. open data or open science policy faces challenges and uncertainties according to the SSP's Pulse Check survey, showing an industry that is cautious and under stress but not collapsing.
+------------------------------------------------------------
+TITLE: Sustaining Research Data Capacity: Reflections from a CODATA Journey (2017–2025) [12]
+SOURCE: CODATA Blog
+
+Felix Emeka Anyiam reflects on his eight-year participation in CODATA activities, highlighting the importance of sustained collaborations and connections in fostering networked training.
+------------------------------------------------------------
+TITLE: February 2026: Publications in the Data Science Journal [6]
+SOURCE: CODATA Blog
+
+which assesses FAIR Implementation Profiles and Enabling Resources. Additionally, there is a mention of the development of a Technology Convergence Assessment Framework for Poly crisis.
+------------------------------------------------------------
+TITLE: ISID-ICSSR Two-week Capacity Building Programme on Industrial Transformation: Prospects and Challenges | 4–16 May, New Delhi [11]
+SOURCE: JCU Sci Policy
+
+The Institute for Studies in Industrial Development (ISID) in New Delhi is organizing a two-week Capacity Building Programme with ICSSR support, focusing on "Industrial Transformation: Prospects and Challenges" from May 4-16, 2026. The program aims to enhance research capabilities of social science faculties in industrial development and policy research through lectures and technical sessions on various topics including data analytics, GIS, and academic writing.
+------------------------------------------------------------
+TITLE: Press Invitation - World Water Development Report 2026: Online Press Briefing [3]
+SOURCE: JCU Sci Policy
+
+to be published on March 19, highlights persistent gender inequalities in access to water and leadership, emphasizing the impact on the global water crisis, including the lack of safely managed drinking water and basic sanitation for 2.1 billion people, with women bearing the brunt of poor sanitation and unpaid labor in the water sector.
+------------------------------------------------------------
+TITLE: CfPs: Public Policy Dialogues 2026 | ISB Hyderabad, 20–22 March [13]
+SOURCE: JCU Sci Policy
+
+The text invites participation in the Public Policy Dialogues 2026 with a focus on rethinking the architecture of India's food system to address fiscal burdens, environmental stress, and climate volatility through a systems-oriented policy agenda. The event aims to bring together policymakers, researchers, industry leaders, and civil society voices to discuss complex, adaptive, and interconnected food systems.
+------------------------------------------------------------
+TITLE: Call for Papers | ETD 2026 : ETDs in the Age of AI | 23-25 October | IIT Delhi, India [4]
+SOURCE: JCU Sci Policy
+
+The ETD 2026 conference will focus on "ETDs in the Age of AI" and welcomes original contributions from scholars, researchers, policymakers, and other professionals in the field of Electronic Theses and Dissertations. The event will take place from October 23-25, 2026, at IIT Delhi, India, and aims to advance the understanding of AI-enabled transformation within the global ETD ecosystem.
+------------------------------------------------------------
+TITLE: First Lady Melania Trump Addresses U.N. Security Council ... [7]
+SOURCE: SERPAPI Google Search
+
+The text does not provide information related to U.S. open data or open science policy.
+------------------------------------------------------------
+TITLE: NIH Data Management and Sharing Policy Toolkit [8]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data or open science policy requires NIH-funded research to have a Data Management and Sharing Plan detailing how scientific data will be managed and shared.
+------------------------------------------------------------
+TITLE: Data reuse in global health: perspectives from actors ... [2]
+SOURCE: SERPAPI Google Search
+
+but there is limited understanding of the actual utilization of shared data within open science and open data policies.
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. Guest Post — Who Owns Our Knowledge? An African University Press Perspective — https://scholarlykitchen.sspnet.org/2026/03/06/guest-post-who-owns-our-knowledge-an-african-university-press-perspective/
+2. Data reuse in global health: perspectives from actors ... — https://pubmed.ncbi.nlm.nih.gov/41781023/?utm_source=FeedFetcher&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1p9j2Ia0knT8gnHi8vBZbANYG8vUj1r3udUkWoR80yKT9cQ9-f&fc=20230823191336&ff=20260305021003&v=2.19.0.post6+133c1fe
+3. Press Invitation - World Water Development Report 2026: Online Press Briefing — http://cssp-jnu.blogspot.com/2026/03/press-invitation-world-water.html
+4. Call for Papers | ETD 2026 : ETDs in the Age of AI | 23-25 October | IIT Delhi, India — http://cssp-jnu.blogspot.com/2026/03/call-for-papers-etd-2026-etds-in-age-of.html
+5. Guest Post — Cultivating Serendipity and Protecting Night Science — https://scholarlykitchen.sspnet.org/2026/03/05/guest-post-cultivating-serendipity-and-protecting-night-science/
+6. February 2026: Publications in the Data Science Journal — https://codata.org/blog/2026/03/02/february-2026-publications-in-the-data-science-journal/
+7. First Lady Melania Trump Addresses U.N. Security Council ... — https://www.whitehouse.gov/briefings-statements/2026/03/first-lady-melania-trump-addresses-u-n-security-council-championing-peace-through-education/
+8. NIH Data Management and Sharing Policy Toolkit — https://www.nnlm.gov/resources/nnlm-toolkit-nih-data-management-and-sharing-policy
+9. Economic Outlook for Scholarly Communications in 2026 — SSP Pulse Check Report — https://scholarlykitchen.sspnet.org/2026/03/02/economic-outlook-for-scholarly-communications-in-2026-ssp-pulse-check-report/
+10. Guest Post — AI Fatigue and Vocational Awe in Academic Libraries — https://scholarlykitchen.sspnet.org/2026/03/04/guest-post-ai-fatigue-and-vocational-awe-in-academic-libraries/
+11. ISID-ICSSR Two-week Capacity Building Programme on Industrial Transformation: Prospects and Challenges | 4–16 May, New Delhi — http://cssp-jnu.blogspot.com/2026/03/isid-icssr-two-week-capacity-building.html
+12. Sustaining Research Data Capacity: Reflections from a CODATA Journey (2017–2025) — https://codata.org/blog/2026/03/03/sustaining-research-data-capacity-reflections-from-a-codata-journey-2017-2025/
+13. CfPs: Public Policy Dialogues 2026 | ISB Hyderabad, 20–22 March — http://cssp-jnu.blogspot.com/2026/03/cfps-public-policy-dialogues-2026-isb.html
+14. Guest Post — The Value Challenge in Scholarly Publishing — https://scholarlykitchen.sspnet.org/2026/03/03/guest-post-the-value-challenge-in-scholarly-publishing/
+
+============================================================
+RUNTIME: 29.63 s
+ESTIMATED TOKENS: 1311
+ESTIMATED COST (USD): $0.0195
+============================================================
