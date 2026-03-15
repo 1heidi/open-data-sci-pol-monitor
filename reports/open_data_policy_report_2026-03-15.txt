@@ -1,0 +1,130 @@
+OPEN DATA / SCIENCE POLICY MONITOR REPORT
+Generated on March 15, 2026
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. Scholarly publishers are facing challenges related to AI technology integration, competition, and licensing in their work. [1] [2] [3] [4] [5] [6]
+
+2. Society publishers are called on to recognize their influential role in shaping knowledge discovery systems in an AI-first world. [4] [2] [6] [3] [1]
+
+3. Generative AI poses ethical and policy concerns for academic publishing, according to a panel of publishers and editors. [2] [3] [1] [7] [4] [5]
+
+4. The Financial Accountability in Research (FAIR) Model aims to enhance transparency in U.S. open data and open science policy. [8] [9] [10] [7] [11] [6]
+
+5. The NIH and FDA have established data-sharing agreements, including announcing "Operation Stork Speed" for data collaboration. [12] [13] [9] [14] [15] [16]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: Guest Post — Gen Z and Academic Libraries: Reading, but Differently [3]
+SOURCE: The Scholarly Kitchen
+
+particularly focusing on Generation Z and their approach to reading in academic libraries. It raises questions about how much individuals read, how reading habits differ among generations, and what libraries and publishers can do to promote reading.
+------------------------------------------------------------
+TITLE: What Publishing Leaders Say About AI When They’re Not on Panels: A Pulse on All Things AI [1]
+SOURCE: The Scholarly Kitchen
+
+The post discusses the challenges scholarly publishers face regarding the use, integration, competition, and licensing of AI technology in their work.
+------------------------------------------------------------
+TITLE: Guest Post — Societies 2030: The Community Advantage in an AI-First World [4]
+SOURCE: The Scholarly Kitchen
+
+The blog post emphasizes the importance of society publishers in influencing the systems researchers rely on for knowledge discovery and evaluation in an AI-first world. The authors call for these publishers to recognize their unique role in shaping these systems.
+------------------------------------------------------------
+TITLE: Guest Post — The Perils of Using Generative AI to Perform Research Tasks: Editors’ and Publishers’ Viewpoints [2]
+SOURCE: The Scholarly Kitchen
+
+A panel of publishers and editors discussed the advantages and disadvantages of using Generative AI for research tasks, highlighting ethical and policy concerns related to its application in the academic publishing field.
+------------------------------------------------------------
+TITLE: Bridging the Glacier Finance Gap in the Decade of Cryospheric Sciences [15]
+SOURCE: CODATA Blog
+
+On March 3, 2026, the FAIR Data for Disaster Risk Research working group of CODATA held a webinar discussing the impact of glacier retreat on water security and disaster risk. Leading experts gathered to address the issue of glacier adaptation and financing in the context of accelerating glacier retreat.
+------------------------------------------------------------
+TITLE: Understanding contemporary digital preservation practice: the EOSC EDEN project reports survey findings [16]
+SOURCE: CODATA Blog
+
+The text highlights the importance of high-quality digital preservation in the face of threats to data resources and contested historical records. It emphasizes the complexity and underfunding of digital preservation as a critical profession.
+------------------------------------------------------------
+TITLE: RRC Academic Lectures cum Discussions | Gandhi Peace Foundation, ITO, New Delhi, 17 March at 3.00 pm [7]
+SOURCE: JCU Sci Policy
+
+The text provides information about an upcoming academic lecture and discussions on U.S. open data or open science policy at the Gandhi Peace Foundation in New Delhi on March 17, 2026 at 3 pm. Entry is free and registration is not required.
+------------------------------------------------------------
+TITLE: Just Released "The Hoover Annual Survey of India 2026", edited by Šumit Ganguly [5]
+SOURCE: JCU Sci Policy
+
+The Hoover Annual Survey of India 2026, edited by Šumit Ganguly, covers various aspects of India's current landscape, including political, economic, social, and environmental challenges. Additionally, the survey also includes a chapter on "Science, Technology, and Innovation Policies for Development: India's Contemporary Challenges" by Venni V. Krishna.
+------------------------------------------------------------
+TITLE: TRUMP EFFECT: A Running List of New U.S. Investment in ... [11]
+SOURCE: SERPAPI Google Search
+
+Johnson & Johnson will invest $55 billion over four years in manufacturing, research and development, and technology, with $2 billion specifically allocated for advancing open data and open science initiatives.
+------------------------------------------------------------
+TITLE: Live News [6]
+SOURCE: SERPAPI Google Search
+
+such as the Office of Science and Technology Policy, Council of Economic Advisors, Office of the National Cyber Director, and Office of National Drug Control Policy. Each of these offices plays a role in shaping and implementing policies related to open data and open science in the country.
+------------------------------------------------------------
+TITLE: Data Security Requirements for Accessing Confidential ... [9]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data or open science policy requires applicants to demonstrate a need for confidential data and explain why publicly available data cannot answer their research question.
+------------------------------------------------------------
+TITLE: MOU 225-26-002 [12]
+SOURCE: SERPAPI Google Search
+
+The NIH and FDA can share data as needed. The FDA and HHS announced "Operation Stork Speed" for data sharing.
+------------------------------------------------------------
+TITLE: the fair guiding principles for scientific data management ... [13]
+SOURCE: SERPAPI Google Search
+
+FAIR data enables more effective collaboration among researchers by facilitating sharing across different disciplines and institutions, ultimately enhancing data quality.
+------------------------------------------------------------
+TITLE: Washington State Attorney General [14]
+SOURCE: SERPAPI Google Search
+
+The U.S. Department of Education has requested extensive data on college and university admissions and student outcomes, including race and sex breakdowns, which has raised concerns about privacy and compliance with data protection laws.
+------------------------------------------------------------
+TITLE: Research Administration & Regulation [8]
+SOURCE: SERPAPI Google Search
+
+The Financial Accountability in Research (FAIR) Model is a new approach aimed at enhancing transparency in U.S. open data and open science policy.
+------------------------------------------------------------
+TITLE: McRay Sogah's post [10]
+SOURCE: SERPAPI Google Search
+
+A policy analyst has recently published a research paper titled "Measuring Financial Accountability in Nonprofit Organizations Using IRS Data" on SSRN, focusing on the use of open data in evaluating financial accountability in nonprofit organizations.
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. What Publishing Leaders Say About AI When They’re Not on Panels: A Pulse on All Things AI — https://scholarlykitchen.sspnet.org/2026/03/11/what-publishing-leaders-say-about-ai-when-theyre-not-on-panels/
+2. Guest Post — The Perils of Using Generative AI to Perform Research Tasks: Editors’ and Publishers’ Viewpoints — https://scholarlykitchen.sspnet.org/2026/03/09/guest-post-the-perils-of-using-generative-ai-to-perform-research-tasks-editors-and-publishers-viewpoints/
+3. Guest Post — Gen Z and Academic Libraries: Reading, but Differently — https://scholarlykitchen.sspnet.org/2026/03/12/guest-post-gen-z-and-academic-libraries-reading-but-differently/
+4. Guest Post — Societies 2030: The Community Advantage in an AI-First World — https://scholarlykitchen.sspnet.org/2026/03/10/guest-post-societies-2030-the-community-advantage-in-an-ai-first-world/
+5. Just Released "The Hoover Annual Survey of India 2026", edited by Šumit Ganguly — http://cssp-jnu.blogspot.com/2026/03/just-released-hoover-annual-survey-of.html
+6. Live News — https://www.whitehouse.gov/live/
+7. RRC Academic Lectures cum Discussions | Gandhi Peace Foundation, ITO, New Delhi, 17 March at 3.00 pm — http://cssp-jnu.blogspot.com/2026/03/rrc-academic-lectures-cum-discussions.html
+8. Research Administration & Regulation — https://www.aau.edu/key-issues/research-administration-regulation
+9. Data Security Requirements for Accessing Confidential ... — https://www.federalregister.gov/documents/2026/03/11/2026-04735/data-security-requirements-for-accessing-confidential-data-agency-information-collection-activities
+10. McRay Sogah's post — https://www.facebook.com/mcraysogah/posts/im-pleased-to-share-my-latest-research-now-available-on-ssrnmeasuring-financial-/1788848982609195/
+11. TRUMP EFFECT: A Running List of New U.S. Investment in ... — https://www.whitehouse.gov/articles/2026/03/trump-effect-a-running-list-of-new-u-s-investment-in-president-trumps-second-term/
+12. MOU 225-26-002 — https://www.fda.gov/about-fda/domestic-mous/mou-225-26-002
+13. the fair guiding principles for scientific data management ... — https://export.gettingtoglobal.org/browse/seEFsC/1AD056/the-fair-guiding__principles-for__scientific_data-management-and-stewardship.pdf
+14. Washington State Attorney General — https://www.facebook.com/WAStateAttorneyGeneral/posts/the-us-department-of-educations-sweeping-demand-for-data-on-admissions-and-outco/1363150275853609/
+15. Bridging the Glacier Finance Gap in the Decade of Cryospheric Sciences — https://codata.org/blog/2026/03/11/bridging-the-glacier-finance-gap-in-the-decade-of-cryospheric-sciences/
+16. Understanding contemporary digital preservation practice: the EOSC EDEN project reports survey findings — https://codata.org/blog/2026/03/10/digital-preservation-eosc-eden-project-reports-survey-findings/
+
+============================================================
+RUNTIME: 40.71 s
+ESTIMATED TOKENS: 1742
+ESTIMATED COST (USD): $0.0245
+============================================================
