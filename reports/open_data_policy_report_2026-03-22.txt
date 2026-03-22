@@ -1,0 +1,160 @@
+OPEN DATA / SCIENCE POLICY MONITOR REPORT
+Generated on March 22, 2026
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. The NIH is considering implementing APC funding caps, sparking discussion on open data and open science policies. [1] [2] [3] [4] [5] [6]
+
+2. The STM Association aims to promote responsible research content integration into GenAI systems. [7] [8] [9] [10] [11] [12]
+
+3. Concerns about declining peer review effectiveness raise the question of AI's potential role in improving the process. [13] [14] [1] [15] [16]
+
+4. Academic publishers are urged to combat academic censorship and protect academic freedom amidst global threats. [17] [18] [5] [19]
+
+5. Communities are increasingly being recognized for their role in shaping data and policies, highlighting the importance of citizen-generated data for informed decision-making. [15] [8] [20] [1] [18] [21]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: Guest Post — All the Seats at the Table: A Summary and Status Review of the NIH APC Caps Proposal [1]
+SOURCE: The Scholarly Kitchen
+
+The text discusses the NIH proposal for implementing APC funding caps, the public responses it received, and the anticipation for a final decision on the matter. It also outlines potential future developments regarding open data and open science policy.
+------------------------------------------------------------
+TITLE: STM Plants a Flag About Responsible Use of Research Content in GenAI [7]
+SOURCE: The Scholarly Kitchen
+
+The STM Association has released a paper aiming to stimulate dialogue on the dependable integration of scholarly research into GenAI systems.
+------------------------------------------------------------
+TITLE: Guest Post — Could AI Help Fix Peer Review, or Will it Only Make Things Worse? [13]
+SOURCE: The Scholarly Kitchen
+
+The text discusses the declining effectiveness of peer review in science and raises the question of whether AI could potentially improve the process.
+------------------------------------------------------------
+TITLE: Guest Post — Academic Freedom Under Pressure: What Academic Publishers Can Do [17]
+SOURCE: The Scholarly Kitchen
+
+The text addresses the importance of academic publishers taking action to combat academic censorship and protect freedom of speech in scholarly communications. It emphasizes the need to push back against global trends threatening academic freedom.
+------------------------------------------------------------
+TITLE: AI in Peer Review: Revisiting an 8-year-old Debate [14]
+SOURCE: The Scholarly Kitchen
+
+In 2018, Neil Blair Christensen and Angela Cochran participated in an Oxford debate on the use of AI in Peer Review. They revisit their main points and reflect on the current status and future trajectory of AI in peer review over another 8 years.
+------------------------------------------------------------
+TITLE: “Nothing about us without us”: reflections from the CODATA Task Group on Citizen-Generated Data for the SDGs [15]
+SOURCE: CODATA Blog
+
+A group of speakers at IDW2025 discussed the importance of involving communities in the data collection process, highlighting the need for citizen-generated data for informed policy-making. This reflects a shift towards recognizing the value of including communities in shaping data and policies that impact them.
+------------------------------------------------------------
+TITLE: Global water crisis aggravated by gender inequalities according to new UN Report [18]
+SOURCE: JCU Sci Policy
+
+The United Nations World Water Development Report highlights gender inequalities exacerbating the global water crisis, with women disproportionately affected despite being key collectors of water in unserved rural households, emphasizing the importance of women's participation in water management and governance for sustainable progress and development.
+------------------------------------------------------------
+TITLE: Fact Sheets [8]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data and open science policy promotes transparency and accessibility of government data and research findings to the public. This initiative aims to increase collaboration, innovation, and accountability in various sectors through the use of data-driven decision-making.
+------------------------------------------------------------
+TITLE: Democrats admit their DHS shutdown is “making people ... [21]
+SOURCE: SERPAPI Google Search
+
+Democrats have caused a shutdown of the Department of Homeland Security for more than a month, resulting in over 100,000 American families experiencing financial hardship due to missing paychecks.
+------------------------------------------------------------
+TITLE: Spotlighting ODSS Collaborations with NIH Institutes ... [2]
+SOURCE: SERPAPI Google Search
+
+The Office of Data Science Strategy (ODSS) compiles PDF documents containing information on funding trends, strategic goals, funding highlights, and collaboration outputs related to open data and open science policies in the U.S.
+------------------------------------------------------------
+TITLE: DX 00101.010 - Overview of the Data Exchange Program [3]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data or open science policy requires data exchange activities to be supported by data exchange agreements, which document the terms of the exchange.
+------------------------------------------------------------
+TITLE: OEDA Functional Statement [4]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data or open science policy includes an enterprise data governance framework to maintain consistency in policies and procedures related to data collection and management.
+------------------------------------------------------------
+TITLE: Stop removing open government data from public access! ... [5]
+SOURCE: SERPAPI Google Search
+
+The text advocates for stopping the removal of open government data and instead suggests that all public records disclosed under the Freedom of Information Act should be published.
+------------------------------------------------------------
+TITLE: Removal of federal data affects us in our hometowns [20]
+SOURCE: SERPAPI Google Search
+
+long term trends in maternal and infant mortality, and disaster preparedness has been removed. This removal of data can have significant impacts on various communities across the country.
+------------------------------------------------------------
+TITLE: THE FAIR GUIDING PRINCIPLES FOR SCIENTIFIC DATA ... [6]
+SOURCE: SERPAPI Google Search
+
+and high-quality metadata is crucial for enabling future researchers to correctly understand and utilize the data in U.S. open data or open science policy.
+------------------------------------------------------------
+TITLE: Opening research infrastructure for the nation. At the 1st ... [9]
+SOURCE: SERPAPI Google Search
+
+The 1st National SAMAVESHA '26 is a national convening dedicated to opening research infrastructure for the nation, hosted by I-STEM.
+------------------------------------------------------------
+TITLE: My statement on the Trump Administration's release of its ... [19]
+SOURCE: SERPAPI Google Search
+
+Defense Secretary Jim Mattis urged President Trump to develop a national strategy for artificial intelligence in a May memo.
+------------------------------------------------------------
+TITLE: How Much Does It Cost to Do Market Research? A ... [10]
+SOURCE: SERPAPI Google Search
+
+Market research costs can vary greatly depending on the scope and depth of the project. A simple survey might cost a few hundred dollars, while more comprehensive analysis could cost thousands.
+------------------------------------------------------------
+TITLE: Reduce Research Cost & Increase Insight Quality with ... [11]
+SOURCE: SERPAPI Google Search
+
+The text discusses proven strategies and tools to reduce research costs and improve the quality of insights in the United States.
+------------------------------------------------------------
+TITLE: Higher Education Research Cost: Pricing Breakdown [12]
+SOURCE: SERPAPI Google Search
+
+The cost breakdown of higher education research shows that AI interviews are significantly cheaper at $20 each compared to Hanover at $85K+ per year, EAB at $100K+ per year, as well as focus groups and consulting firms.
+------------------------------------------------------------
+TITLE: The NIH Public Access Policy & Open Access Publishing [16]
+SOURCE: SERPAPI Google Search
+
+Open access (OA) is a process that provides free access to journal articles for the public, as mandated by funding agencies for researchers.
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. Guest Post — All the Seats at the Table: A Summary and Status Review of the NIH APC Caps Proposal — https://scholarlykitchen.sspnet.org/2026/03/20/guest-post-all-the-seats-at-the-table-a-summary-and-status-review-of-the-nih-apc-caps-proposal/
+2. Spotlighting ODSS Collaborations with NIH Institutes ... — https://datascience.nih.gov/director/spotlighting-odss-collaborations-nih-institutes-centers-and-offices-fiscal-year-2025
+3. DX 00101.010 - Overview of the Data Exchange Program — https://secure.ssa.gov/apps10/poms.nsf/lnx/2400101010
+4. OEDA Functional Statement — https://www.cms.gov/about-cms/who-we-are/leadership/oeda-functional-statement
+5. Stop removing open government data from public access! ... — https://www.facebook.com/alexhoward/posts/stop-removing-open-government-data-from-public-access-instead-why-not-start-publ/10100830437378785/
+6. THE FAIR GUIDING PRINCIPLES FOR SCIENTIFIC DATA ... — https://export.gettingtoglobal.org/fulldisplay/seEFsC/1AD056/TheFairGuidingPrinciplesForScientificDataManagementAndStewardship.pdf
+7. STM Plants a Flag About Responsible Use of Research Content in GenAI — https://scholarlykitchen.sspnet.org/2026/03/19/stm-plants-a-flag-about-responsible-use-of-research-content-in-genai/
+8. Fact Sheets — https://www.whitehouse.gov/fact-sheets/
+9. Opening research infrastructure for the nation. At the 1st ... — https://www.instagram.com/p/DWBIr5uCZa6/
+10. How Much Does It Cost to Do Market Research? A ... — https://www.linkedin.com/pulse/how-much-does-cost-do-market-research-practical-guide-epyre
+11. Reduce Research Cost & Increase Insight Quality with ... — https://www.qualtrics.com/use-cases/research-cost-quality/
+12. Higher Education Research Cost: Pricing Breakdown — https://www.userintuition.ai/posts/higher-education-research-cost/
+13. Guest Post — Could AI Help Fix Peer Review, or Will it Only Make Things Worse? — https://scholarlykitchen.sspnet.org/2026/03/18/guest-post-could-ai-help-fix-peer-review-or-will-it-only-make-things-worse/
+14. AI in Peer Review: Revisiting an 8-year-old Debate — https://scholarlykitchen.sspnet.org/2026/03/16/ai-in-peer-review-revisiting-an-8-year-old-debate/
+15. “Nothing about us without us”: reflections from the CODATA Task Group on Citizen-Generated Data for the SDGs — https://codata.org/blog/2026/03/16/nothing-about-us-without-us-reflections-from-the-codata-task-group-on-citizen-generated-data-for-the-sdgs/
+16. The NIH Public Access Policy & Open Access Publishing — https://libguides.massgeneral.org/scholarly/openaccess
+17. Guest Post — Academic Freedom Under Pressure: What Academic Publishers Can Do — https://scholarlykitchen.sspnet.org/2026/03/17/guest-post-academic-freedom-under-pressure-what-academic-publishers-can-do/
+18. Global water crisis aggravated by gender inequalities according to new UN Report — http://cssp-jnu.blogspot.com/2026/03/global-water-crisis-aggravated-by.html
+19. My statement on the Trump Administration's release of its ... — https://www.facebook.com/RepAshleyHinson/posts/my-statement-on-the-trump-administrations-release-of-its-commonsense-national-ai/1389827679824560/
+20. Removal of federal data affects us in our hometowns — https://www.normantranscript.com/opinion/column-removal-of-federal-data-affects-us-in-our-hometowns/article_20fb55ca-14cf-4b1c-aa71-dfc3c8424a5b.html
+21. Democrats admit their DHS shutdown is “making people ... — https://www.whitehouse.gov/articles/2026/03/democrats-admit-their-dhs-shutdown-is-making-people-hurt-as-they-stall-negotiations-with-dangerous-demands/
+
+============================================================
+RUNTIME: 48.27 s
+ESTIMATED TOKENS: 1856
+ESTIMATED COST (USD): $0.0256
+============================================================
