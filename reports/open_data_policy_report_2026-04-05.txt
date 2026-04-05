@@ -1,0 +1,148 @@
+OPEN DATA / SCIENCE POLICY MONITOR REPORT
+Generated on April 05, 2026
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. Diamond open access is being considered as a lifeline for scholarly monographs. [1] [2] [3] [4] [5] [6]
+
+2. AI systems analyzing scientific literature highlight the need for robust retraction processes in open access publishing. [2] [1] [7] [8] [5] [4]
+
+3. Senior librarians are discussed as key change agents in the intersection of libraries and publishing. [9] [6] [10] [2]
+
+4. Importance of providing standardized metadata in research data centers highlighted. [11] [7] [12] [13] [14] [4]
+
+5. Federal budget issues pose potential funding challenges for U.S. open data and open science policy. [15] [16] [17] [18] [19] [11]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: Standing Up, Standing Proud, Standing Together: Inside the Pathways to Inclusive Publishing Summit and the Movement for Equity in Scholarly Publishing: Part 2 [6]
+SOURCE: The Scholarly Kitchen
+
+The American Society of Civil Engineers' Pathways to Inclusive Publishing Summit focused on strategies for promoting inclusivity and accessibility in the publishing industry by bringing together industry leaders, content creators, and allies.
+------------------------------------------------------------
+TITLE: Guest Post — Diamond Open Access: A Lifeline for the Monograph? [1]
+SOURCE: The Scholarly Kitchen
+
+Diamond open access is being considered as a potential solution to support the scholarly monograph, raising the question of whether it can truly serve as a lifeline for this type of publication.
+------------------------------------------------------------
+TITLE: Standing Up, Standing Proud, Standing Together: Inside the Pathways to Inclusive Publishing Summit and the Movement for Equity in Scholarly Publishing: Part 1 [10]
+SOURCE: The Scholarly Kitchen
+
+The American Society of Civil Engineers held the inaugural Pathways to Inclusive Publishing Summit to address inclusivity and accessibility in the publishing ecosystem by bringing together industry leaders and content creators. The summit aimed to explore strategies for fostering inclusivity within the publishing industry.
+------------------------------------------------------------
+TITLE: What AI Asks of Open Access [2]
+SOURCE: The Scholarly Kitchen
+
+and robust retraction processes are becoming increasingly important as AI systems analyze scientific literature, emphasizing the need for research trustworthiness, particularly in open access publishing according to PLOS CEO Alison Mudditt.
+------------------------------------------------------------
+TITLE: Guest Post — Senior Librarians as Publisher Change Agents: What’s the Business Case? (Part 2) [9]
+SOURCE: The Scholarly Kitchen
+
+The text explores the role of senior librarians as change agents in publishing, emphasizing the business case for their involvement at the intersection of libraries and publishing.
+------------------------------------------------------------
+TITLE: March 2026: Publications in the Data Science Journal [11]
+SOURCE: CODATA Blog
+
+Researchers have published findings on the importance of providing fine-grained standardized metadata in research data centers, as well as on the SoRDS program's decade-long effort to cultivate open data literacy skills in early career researchers.
+------------------------------------------------------------
+TITLE: Science Diplomacy Latest issue (Vol. 9(3), Jan-Mar 2026) [7]
+SOURCE: JCU Sci Policy
+
+The text discusses the recent advancements in U.S. open data and open science policy, emphasizing the importance of transparency and collaboration in scientific research and data sharing. The focus is on promoting global scientific advancement through open access to research data and findings.
+------------------------------------------------------------
+TITLE: Analytical Perspectives FY 2027 [15]
+SOURCE: SERPAPI Google Search
+
+The 2026 appropriations bill for the Department of Homeland Security was not enacted at the time the Budget was prepared. This was noted as a potential issue for funding related to open data and open science policy.
+------------------------------------------------------------
+TITLE: Budget of the U.S. Government [16]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data or open science policy focuses on prioritizing funding for areas such as AI, quantum information science, fusion, and critical mineral research, while also eliminating waste of resources in Biological and Environmental Research.
+------------------------------------------------------------
+TITLE: Securing NIH Controlled-Access Data [12]
+SOURCE: SERPAPI Google Search
+
+The NIH is seeking feedback on a proposal to create consistent and clear guidelines for safeguarding human research data.
+------------------------------------------------------------
+TITLE: Proposed Data Collection Submitted for Public Comment ... [13]
+SOURCE: SERPAPI Google Search
+
+The text discusses a proposed information collection project called Research Data Center Data Security Forms for Access to Confidential Data, seeking public comment on this initiative.
+------------------------------------------------------------
+TITLE: Federal Data Excellence Program [17]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data or open science policy aims to make government data widely available to empower leaders to make better decisions, enhance agency accountability, and ultimately improve public services.
+------------------------------------------------------------
+TITLE: Federal data has been a cornerstone of modern ... [18]
+SOURCE: SERPAPI Google Search
+
+Open data policy in the U.S. aims to make government data widely available to empower decision-makers, enhance accountability, and ultimately benefit the public. This approach leads to improved government effectiveness and decision-making.
+------------------------------------------------------------
+TITLE: Why Open Infrastructure Matters - RDA [8]
+SOURCE: SERPAPI Google Search
+
+Investing in open infrastructure for research institutions provides greater control over outputs, reduces long-term expenses, and enhances resilience and interoperability within the scientific community.
+------------------------------------------------------------
+TITLE: Recommitting to the Principles of Open Scholarly ... [3]
+SOURCE: SERPAPI Google Search
+
+open infrastructure, open metadata, and transparent research intelligence in the United States.
+------------------------------------------------------------
+TITLE: DSpace perspectives on open infrastructure, ... [5]
+SOURCE: SERPAPI Google Search
+
+Investing in open infrastructure for U.S. open data or open science policy helps ensure long-term access to research outputs, strengthens institutional control over data, and fosters innovation by enabling collaboration and sharing of information.
+------------------------------------------------------------
+TITLE: A case study for federally funded research using FAIR ... [14]
+SOURCE: SERPAPI Google Search
+
+The author of the paper analyzed quantitative and qualitative data from a federally funded research project to evaluate its open data and open science policy.
+------------------------------------------------------------
+TITLE: Beyond the Paywall: The Cost of Lack of Research Access [4]
+SOURCE: SERPAPI Google Search
+
+The belief that federally funded research is freely available to the public is complicated by the reality of data being inaccessible due to restrictions placed on it. In the U.S., open data and open science policies face challenges in practice despite the principle of making research findings available to the public.
+------------------------------------------------------------
+TITLE: Budget and Appropriations [19]
+SOURCE: SERPAPI Google Search
+
+Over 160 organizations recently urged House and Senate appropriators to support the Joint Associations Group's FAIR model for U.S. open data or open science policy.
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. Guest Post — Diamond Open Access: A Lifeline for the Monograph? — https://scholarlykitchen.sspnet.org/2026/04/02/guest-post-diamond-open-access-a-lifeline-for-the-monograph/
+2. What AI Asks of Open Access — https://scholarlykitchen.sspnet.org/2026/03/31/what-ai-asks-of-open-access/
+3. Recommitting to the Principles of Open Scholarly ... — https://blog.openalex.org/recommitting-to-the-principles-of-open-scholarly-infrastructure-posi/
+4. Beyond the Paywall: The Cost of Lack of Research Access — https://www.medpagetoday.com/opinion/second-opinions/120638
+5. DSpace perspectives on open infrastructure, ... — https://makedatacount.org/read-our-blog/dspace/
+6. Standing Up, Standing Proud, Standing Together: Inside the Pathways to Inclusive Publishing Summit and the Movement for Equity in Scholarly Publishing: Part 2 — https://scholarlykitchen.sspnet.org/2026/04/03/standing-up-standing-proud-standing-together-inside-the-pathways-to-inclusive-publishing-summit-and-the-movement-for-equity-in-scholarly-publishing-part-2/
+7. Science Diplomacy Latest issue (Vol. 9(3), Jan-Mar 2026) — http://cssp-jnu.blogspot.com/2026/04/science-diplomacy-latest-issue-vol-93.html
+8. Why Open Infrastructure Matters - RDA — https://www.rd-alliance.org/news/why-open-infrastructure-matters/
+9. Guest Post — Senior Librarians as Publisher Change Agents: What’s the Business Case? (Part 2) — https://scholarlykitchen.sspnet.org/2026/03/30/guest-post-senior-librarians-as-publisher-change-agents-whats-the-business-case-part-2/
+10. Standing Up, Standing Proud, Standing Together: Inside the Pathways to Inclusive Publishing Summit and the Movement for Equity in Scholarly Publishing: Part 1 — https://scholarlykitchen.sspnet.org/2026/04/01/standing-up-standing-proud-standing-together-inside-the-pathways-to-inclusive-publishing-summit-and-the-movement-for-equity-in-scholarly-publishing-part-1/
+11. March 2026: Publications in the Data Science Journal — https://codata.org/blog/2026/04/01/march-2026-publications-in-the-data-science-journal/
+12. Securing NIH Controlled-Access Data — https://grants.nih.gov/news-events/nih-extramural-nexus-news/2026/04/2026-extramural-community-days-securing-nih-controlled-access-data
+13. Proposed Data Collection Submitted for Public Comment ... — https://www.federalregister.gov/documents/2026/04/01/2026-06232/proposed-data-collection-submitted-for-public-comment-and-recommendations
+14. A case study for federally funded research using FAIR ... — https://iassistquarterly.com/index.php/iassist/article/view/1161
+15. Analytical Perspectives FY 2027 — https://www.whitehouse.gov/wp-content/uploads/2026/04/spec_fy2027.pdf
+16. Budget of the U.S. Government — https://www.whitehouse.gov/wp-content/uploads/2026/04/budget_fy2027.pdf
+17. Federal Data Excellence Program — https://ourpublicservice.org/our-solutions/rebuilding-trust-in-government/federal-data-excellence-program/
+18. Federal data has been a cornerstone of modern ... — https://www.facebook.com/partnershipforpublicservice/posts/federal-data-has-been-a-cornerstone-of-modern-and-effective-government-making-go/1338826201626589/
+19. Budget and Appropriations — https://www.acenet.edu/Policy-Advocacy/Pages/Budget-Appropriations/Budget-Appropriations.aspx
+
+============================================================
+RUNTIME: 65.32 s
+ESTIMATED TOKENS: 2418
+ESTIMATED COST (USD): $0.0305
+============================================================
