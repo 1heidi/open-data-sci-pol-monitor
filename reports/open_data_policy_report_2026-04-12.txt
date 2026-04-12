@@ -1,0 +1,124 @@
+OPEN DATA / SCIENCE POLICY MONITOR REPORT
+Generated on April 12, 2026
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. The SSP's 48th Annual Meeting Planning Committee focuses on keeping the faith in unsettled times. [1] [2]
+
+2. Library experts discussed various aspects of open data and open science policy at a roundtable during the 2025 Charleston Library Conference. [3] [4] [5] [6] [7] [8]
+
+3. The Pathways to Inclusive Publishing Summit addressed inclusivity and accessibility in the publishing ecosystem. [9] [10] [11] [12]
+
+4. The U.S. National Science Foundation implemented a policy to prevent illegal substances' use within their workplaces in the FY 2027 budget. [13] [14] [15] [3] [7] [8]
+
+5. The Federal Data Excellence Program acknowledges the importance of federal data in policymaking and governance, promoting open data and open science policies. [4] [11] [6] [12] [3] [8]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: Guest Post — The SSP Annual Meeting: Keeping the Faith in Unsettled Times [1]
+SOURCE: The Scholarly Kitchen
+
+The co-chairs of the SSP's 48th Annual Meeting Planning Committee are looking forward to delivering a program this year with exciting content. The focus is on keeping the faith in unsettled times.
+------------------------------------------------------------
+TITLE: Ask the Librarians: Recapping a Scholarly Kitchen Roundtable at the 2025 Charleston Library Conference [3]
+SOURCE: The Scholarly Kitchen
+
+Library and information science experts discussed open data and open science policy at a roundtable during the 2025 Charleston Library Conference. The conversation covered various aspects of these policies and their implications for scholarly communication.
+------------------------------------------------------------
+TITLE: Standing Up, Standing Proud, Standing Together: Inside the Pathways to Inclusive Publishing Summit and the Movement for Equity in Scholarly Publishing: Part 3 [9]
+SOURCE: The Scholarly Kitchen
+
+The American Society of Civil Engineers held the Pathways to Inclusive Publishing Summit to address inclusivity and accessibility in the publishing ecosystem by bringing together industry leaders, content creators, and allies. The summit focused on exploring strategies to foster inclusivity within the publishing industry.
+------------------------------------------------------------
+TITLE: JNU organizes an Essay Competition on Dr. Ambedkar and His Knowledge Production | 13 April [7]
+SOURCE: JCU Sci Policy
+
+JNU has organized an essay competition on Dr. Ambedkar and his knowledge production. The competition aims to highlight Ambedkar's contributions to open data and open science policy.
+------------------------------------------------------------
+TITLE: CfPs: International Conference on STS for Resilient Futures | 23–24 July, Bangkok, Thailand [2]
+SOURCE: JCU Sci Policy
+
+The conference "STS for Resilient Futures" focuses on advancing interdisciplinary collaboration to inform evidence-based policymaking and social development by addressing climate crisis challenges and digital transition. It aims to promote innovation rooted in ethics and equity while aligning with the UN Sustainable Development Goals.
+------------------------------------------------------------
+TITLE: CfPs: 17th Biennial Conference on Entrepreneurship | 24-26 February; Gandhinagar, Gujarat, India [5]
+SOURCE: JCU Sci Policy
+
+The 17th Biennial Conference on Entrepreneurship, organized by the Entrepreneurship Development Institute of India, invites research contributions on themes such as entrepreneurship policy, governance, ecosystems, and various other aspects of entrepreneurship theory and practice. The conference serves as a platform for researchers, educators, and practitioners to share their ideas and research findings with others in the field, providing an opportunity for feedback and refinement of research pursuits.
+------------------------------------------------------------
+TITLE: EASE AND WORK: A VISION OF A NEW INDIA [8]
+SOURCE: JCU Sci Policy
+
+The text provides links to access PDF files related to open data and open science policy in Hindi and English versions. It emphasizes the importance of ease and work vision for the future of India.
+------------------------------------------------------------
+TITLE: Budget of the U.S. Government [15]
+SOURCE: SERPAPI Google Search
+
+quantum information science, fusion, and critical mineral research, aiming to allocate resources efficiently and stop wastage in Biological and Environmental Research.
+------------------------------------------------------------
+TITLE: Appendix - Budget of the U.S. Government FY 2027 [13]
+SOURCE: SERPAPI Google Search
+
+The U.S. National Science Foundation has implemented a policy to prevent illegal use, possession, or distribution of controlled substances in its workplaces.
+------------------------------------------------------------
+TITLE: Budget of the U.S. Government FY 2027 [14]
+SOURCE: SERPAPI Google Search
+
+including the use of open data and open science.
+------------------------------------------------------------
+TITLE: Meet the 2025 Federal Data Excellence Awards winners [4]
+SOURCE: SERPAPI Google Search
+
+The Federal Data Excellence Program was established to acknowledge the importance of federal data in policymaking, governance, and public impact. It aims to promote open data and open science policies in the U.S. government.
+------------------------------------------------------------
+TITLE: Open Access Publishing: Open Access Explained [10]
+SOURCE: SERPAPI Google Search
+
+Open Access refers to the unrestricted availability of research articles online for immediate and free use in the digital realm.
+------------------------------------------------------------
+TITLE: Federal Public Access Policies: Home - Guides [11]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data or open science policy mandates that researchers submit Data Management Plans outlining how they will manage, preserve, and share their research data. Researchers are also required to deposit copies of their data in a repository for broader accessibility.
+------------------------------------------------------------
+TITLE: Research Data Management Overview: Federal guidelines [6]
+SOURCE: SERPAPI Google Search
+
+released in August 2022 by the White House Office of Science and Technology Policy, seeks to promote open data and open science practices in the United States.
+------------------------------------------------------------
+TITLE: Everything You Always Wanted to Know About Indirect Costs ... [12]
+SOURCE: SERPAPI Google Search
+
+Indirect costs in U.S. open data or open science policy cover some of the real costs of research, but typically not the entire amount. These funds are necessary to support the activities of researchers and must be spent to advance the research projects.
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. Guest Post — The SSP Annual Meeting: Keeping the Faith in Unsettled Times — https://scholarlykitchen.sspnet.org/2026/04/10/guest-post-the-ssp-annual-meeting-keeping-the-faith-in-unsettled-times/
+2. CfPs: International Conference on STS for Resilient Futures | 23–24 July, Bangkok, Thailand — http://cssp-jnu.blogspot.com/2026/04/cfps-international-conference-on-sts.html
+3. Ask the Librarians: Recapping a Scholarly Kitchen Roundtable at the 2025 Charleston Library Conference — https://scholarlykitchen.sspnet.org/2026/04/09/ask-the-librarians-recapping-a-scholarly-kitchen-roundtable-at-the-2025-charleston-library-conference/
+4. Meet the 2025 Federal Data Excellence Awards winners — https://ourpublicservice.org/blog/2025-federal-data-excellence-awards-ceremony-recap/
+5. CfPs: 17th Biennial Conference on Entrepreneurship | 24-26 February; Gandhinagar, Gujarat, India — http://cssp-jnu.blogspot.com/2026/04/cfps-17th-biennial-conference-on.html
+6. Research Data Management Overview: Federal guidelines — https://guides.lib.purdue.edu/c.php?g=353298&p=11220874
+7. JNU organizes an Essay Competition on Dr. Ambedkar and His Knowledge Production | 13 April — http://cssp-jnu.blogspot.com/2026/04/jnu-organizes-essay-competition-on-dr.html
+8. EASE AND WORK: A VISION OF A NEW INDIA — http://cssp-jnu.blogspot.com/2026/04/ease-and-work-vision-of-new-india.html
+9. Standing Up, Standing Proud, Standing Together: Inside the Pathways to Inclusive Publishing Summit and the Movement for Equity in Scholarly Publishing: Part 3 — https://scholarlykitchen.sspnet.org/2026/04/07/standing-up-standing-proud-standing-together-inside-the-pathways-to-inclusive-publishing-summit-and-the-movement-for-equity-in-scholarly-publishing-part-3/
+10. Open Access Publishing: Open Access Explained — https://browse.welch.jhmi.edu/writing_publishing/oa_explanation
+11. Federal Public Access Policies: Home - Guides — https://guides.library.upenn.edu/public-access/home
+12. Everything You Always Wanted to Know About Indirect Costs ... — https://goodscience.substack.com/p/everything-you-always-wanted-to-know
+13. Appendix - Budget of the U.S. Government FY 2027 — https://www.whitehouse.gov/wp-content/uploads/2026/04/appendix_fy2027.pdf
+14. Budget of the U.S. Government FY 2027 — https://www.whitehouse.gov/wp-content/uploads/2026/04/eop_fy2027.pdf
+15. Budget of the U.S. Government — https://www.whitehouse.gov/wp-content/uploads/2026/04/budget_fy2027.pdf
+
+============================================================
+RUNTIME: 57.42 s
+ESTIMATED TOKENS: 2346
+ESTIMATED COST (USD): $0.0307
+============================================================
