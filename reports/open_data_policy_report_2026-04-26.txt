@@ -1,0 +1,148 @@
+OPEN DATA / SCIENCE POLICY MONITOR REPORT
+Generated on April 26, 2026
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. The theme for Peer Review Week 2026 will focus on Peer Review Capacity: Volume, Speed, and Quality. [1] [2] [3] [4]
+
+2. The STM Trends 2030 report highlights both opportunities and risks in scholarly publishing. [5] [6] [7] [8] [9] [10]
+
+3. UNESCO recently designated 12 new geoparks, expanding the UNESCO Global Geopark Network. [2] [9] [1]
+
+4. The U.S. open data or open science policy emphasizes sharing digital research data that can be stored and accessed electronically. [11] [12] [13] [14] [15] [16]
+
+5. The U.S. invests in developing research infrastructure to advance fundamental biological science, focusing on human capital and technology. [3] [13] [17] [18] [11] [19]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: Evidence Isn’t Just for Research [18]
+SOURCE: The Scholarly Kitchen
+
+The text humorously emphasizes the significance of empirical evidence in combating fraud and misinformation in the current era. It underscores the importance of relying on concrete evidence to address such challenges effectively.
+------------------------------------------------------------
+TITLE: The Opportunities and Perils of Discovery: STM Releases its Trends 2030 [5]
+SOURCE: The Scholarly Kitchen
+
+The STM Trends 2030 report highlights both opportunities and risks in scholarly publishing, revealing a world of potential along with hidden dangers.
+------------------------------------------------------------
+TITLE: Academic Publishing in the Age of AI: From Content to Trust [7]
+SOURCE: The Scholarly Kitchen
+
+AI in science is not just for productivity but changes how knowledge spreads and scientific authority is determined. It is a structural shift impacting the establishment and maintenance of scientific authority.
+------------------------------------------------------------
+TITLE: Guest Post — Moving from Identifier to Identity for Researchers [8]
+SOURCE: The Scholarly Kitchen
+
+The post highlights the need for collective efforts to bridge the researcher identity verification gap in scholarly communication and showcases STM's Researcher Identity group's role in this initiative.
+------------------------------------------------------------
+TITLE: Can Peer Review Keep Up? Announcing the Theme for Peer Review Week 2026 [1]
+SOURCE: The Scholarly Kitchen
+
+The theme for Peer Review Week 2026 is "Peer Review Capacity: Volume, Speed and Quality," as determined by a global community poll. This theme will be the focus of discussions and activities during the week of September 14-18, 2026.
+------------------------------------------------------------
+TITLE: UNESCO names 12 new Global Geoparks [2]
+SOURCE: JCU Sci Policy
+
+UNESCO recently designated 12 new geoparks, expanding the UNESCO Global Geopark Network to 241 sites in 51 countries, covering over 882,000 km2, which is equivalent to the size of Venezuela. The new geoparks are situated in China, France, Greece, Ireland, Japan, Malaysia, Portugal, the Russian Federation, Tunisia, and Uruguay, with a shared focus on preserving geological heritage and promoting science and education.
+------------------------------------------------------------
+TITLE: UNESCO sites offer a lifeline to biodiversity, new report shows [9]
+SOURCE: JCU Sci Policy
+
+The latest UNESCO report shows that UNESCO sites play a crucial role in safeguarding biodiversity, as global wildlife populations decline. These sites cover over 13 million km2, demonstrating the significant contribution of UNESCO-protected areas to people and nature.
+------------------------------------------------------------
+TITLE: Sharing digital health data responsibly: Balancing open ... - PMC [12]
+SOURCE: SERPAPI Google Search
+
+In 2023, the National Institutes of Health implemented a Data Management and Sharing (DMS) Policy that mandates all funded research projects to adhere to openness standards.
+------------------------------------------------------------
+TITLE: Digital Data Management Glossary [11]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data or open science policy emphasizes sharing digital research data that can be stored and accessed electronically.
+------------------------------------------------------------
+TITLE: Data Management and Sharing Plan Format Page [14]
+SOURCE: SERPAPI Google Search
+
+This text provides a format page for preparing plans required in applications subject to the Data Management and Sharing (DMS) and/or Genomic Data Sharing (GDS) policies in the U.S. It offers guidance on how to comply with these open data and open science policies when submitting applications.
+------------------------------------------------------------
+TITLE: New report highlights agency advantages of using smaller ... [6]
+SOURCE: SERPAPI Google Search
+
+Federal agencies can benefit from using smaller open source AI models, as it allows them to inspect, understand, and trust the AI tools they deploy. This approach aligns with recent White House initiatives on open data and open science policy.
+------------------------------------------------------------
+TITLE: What is Open Access? - Open Access - Research Guides [13]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data or open science policy promotes the free and immediate online access to research articles along with the rights to use them in a digital environment.
+------------------------------------------------------------
+TITLE: What is Open Access and Why Does it Matter? - Open Access [15]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data or open science policy focuses on providing free online access to academic information, including publications and data. This policy defines a publication as 'open access' when it does not have restrictions on access or use.
+------------------------------------------------------------
+TITLE: Automated compliance validation ✓ Policy-as- ... [16]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data or open science policy allows for a centralized view of compliance information, enabling easy updating of POAM data, checklist management, and maintenance of compliance statements. This contributes to efficient and streamlined processes in maintaining adherence to policy requirements.
+------------------------------------------------------------
+TITLE: Mapping US Diamond Open Access Journals [17]
+SOURCE: SERPAPI Google Search
+
+Lyrasis supports open data and open science policies through programs like the Diamond Mapping Grant and Open Access Programs like OACIP. They also provide support for Open Research Infrastructure Programs.
+------------------------------------------------------------
+TITLE: Directorate for Biological Sciences (BIO) [3]
+SOURCE: SERPAPI Google Search
+
+The U.S. invests in developing research infrastructure to advance fundamental biological science, focusing on human capital and technology. The goal is to promote innovation and build capacity in this field.
+------------------------------------------------------------
+TITLE: Joint Associations' Letter on the Proposed Sanctioning ... [4]
+SOURCE: SERPAPI Google Search
+
+A joint letter from various associations advocates for a balanced regulatory approach to promote the efficiency, resilience, and competitiveness of the EU. The letter emphasizes the need for proportionate and stable regulations in the open data or open science policy.
+------------------------------------------------------------
+TITLE: F&A [19]
+SOURCE: SERPAPI Google Search
+
+The Joint Associations Group (JAG) on Indirect Costs, which includes the Association of American Universities (AAU), supports open data and open science policies in the United States. They emphasize the importance of promoting transparency and making research results publicly accessible.
+------------------------------------------------------------
+TITLE: Open Access Publishing: Paying For Open Access [10]
+SOURCE: SERPAPI Google Search
+
+Publishers charge Article Processing Charges (APCs) to cover the cost of making an article open access in the U.S.
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. Can Peer Review Keep Up? Announcing the Theme for Peer Review Week 2026 — https://scholarlykitchen.sspnet.org/2026/04/20/can-peer-review-keep-up-announcing-the-theme-for-peer-review-week-2026/
+2. UNESCO names 12 new Global Geoparks — http://cssp-jnu.blogspot.com/2026/04/unesco-names-12-new-global-geoparks.html
+3. Directorate for Biological Sciences (BIO) — https://www.nsf.gov/bio
+4. Joint Associations' Letter on the Proposed Sanctioning ... — https://www.efama.org/newsroom/news/joint-associations-letter-proposed-sanctioning-regime-under-securitisation-regulation
+5. The Opportunities and Perils of Discovery: STM Releases its Trends 2030 — https://scholarlykitchen.sspnet.org/2026/04/23/stm-releases-its-trends-2030/
+6. New report highlights agency advantages of using smaller ... — https://fedscoop.com/new-report-highlights-agency-advantages-of-using-smaller-open-source-ai-models/
+7. Academic Publishing in the Age of AI: From Content to Trust — https://scholarlykitchen.sspnet.org/2026/04/22/academic-publishing-in-the-age-of-ai-from-content-to-trust/
+8. Guest Post — Moving from Identifier to Identity for Researchers — https://scholarlykitchen.sspnet.org/2026/04/21/guest-post-moving-from-identifier-to-identity-for-researchers/
+9. UNESCO sites offer a lifeline to biodiversity, new report shows — http://cssp-jnu.blogspot.com/2026/04/unesco-sites-offer-lifeline-to.html
+10. Open Access Publishing: Paying For Open Access — https://library.noaa.gov/openaccesspublishing/paying-for-open-access
+11. Digital Data Management Glossary — https://www.energy.gov/cmei/funding/digital-data-management-glossary
+12. Sharing digital health data responsibly: Balancing open ... - PMC — https://pmc.ncbi.nlm.nih.gov/articles/PMC13108794/
+13. What is Open Access? - Open Access - Research Guides — https://libguides.und.edu/openaccess
+14. Data Management and Sharing Plan Format Page — https://grants.nih.gov/grants-process/write-application/forms-directory/data-management-and-sharing-plan-format-page
+15. What is Open Access and Why Does it Matter? - Open Access — https://libguides.brown.edu/oa
+16. Automated compliance validation ✓ Policy-as- ... — https://www.instagram.com/p/DXWwp53DsjI/
+17. Mapping US Diamond Open Access Journals — https://lyrasis.org/mapping-diamond-open-access-journals/
+18. Evidence Isn’t Just for Research — https://scholarlykitchen.sspnet.org/2026/04/24/evidence-isnt-just-for-research/
+19. F&A — https://www.cogr.edu/topics/fa
+
+============================================================
+RUNTIME: 56.99 s
+ESTIMATED TOKENS: 2169
+ESTIMATED COST (USD): $0.0284
+============================================================
