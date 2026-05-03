@@ -1,0 +1,118 @@
+OPEN DATA / SCIENCE POLICY MONITOR REPORT
+Generated on May 03, 2026
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. The use of AI in research raises concerns about potential negative impacts on human thinking capabilities. [1] [2] [3] [4] [5] [6]
+
+2. Investing in early-career professionals is highlighted as a strategy to strengthen organizations and nurture emerging talent in scholarly publishing. [7] [8] [9] [10] [11] [12]
+
+3. Strong front-end gatekeeping in scholarly publishing is emphasized to ensure trust and long-term value of scientific work. [8] [7] [9] [10] [11] [12]
+
+4. A new simplified format for the 2026 Pilot Data Management and Sharing Plan has been released under U.S. open data and open science policy. [13] [5] [5] [6] [3] [14]
+
+5. The U.S. open data policy prioritizes sharing digital research data stored digitally and accessed electronically. [6] [13] [14] [5] [5] [3]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: Shaping Our Collective Voice Through Advocacy — SSP Pulse Check Report [11]
+SOURCE: The Scholarly Kitchen
+
+The Pulse Check survey in May discussed the perspectives of the community on advocacy, industry priorities, and the difficulties in interacting with policymakers and the public.
+------------------------------------------------------------
+TITLE: Guest Post — SSP Annual Meeting: The Highlights are Coming [12]
+SOURCE: The Scholarly Kitchen
+
+Members of SSP's 48th Annual Meeting Program Committee are sharing reflections with all attendees, including details about the Highlights Webinar scheduled for June 17, 2026.
+------------------------------------------------------------
+TITLE: Guest Post – When Thinking Is Outsourced: A Warning from a Scientist Trained Before AI [1]
+SOURCE: The Scholarly Kitchen
+
+The text warns about the potential negative impacts of relying too heavily on AI in research, emphasizing the importance of preserving human thinking capabilities over computational efficiency.
+------------------------------------------------------------
+TITLE: Guest Post — Develop to Delegate: How Investing in Early-Career Professionals Strengthens Organizations [7]
+SOURCE: The Scholarly Kitchen
+
+Investing in the development of early-career professionals is emphasized in the context of strengthening organizations and nurturing emerging talent in scholarly publishing. This strategy aims to create a healthy pipeline of skilled professionals for the field.
+------------------------------------------------------------
+TITLE: Guest Post — Quality Over Quantity: Why Scholarly Publishing Needs Stronger Front-End Gatekeeping to Build Trust and Long-Term Value [8]
+SOURCE: The Scholarly Kitchen
+
+The guest post emphasizes the importance of strong front-end gatekeeping in scholarly publishing to ensure trust and long-term value of scientific work while publishers should embrace their responsibility for science integrity.
+------------------------------------------------------------
+TITLE: 2026 Pilot Data Management and Sharing Plan Format ... [13]
+SOURCE: SERPAPI Google Search
+
+A new simplified format for the 2026 Pilot Data Management and Sharing (DMS) Plan has been released by the U.S. Open Data or Open Science Policy.
+------------------------------------------------------------
+TITLE: Writing a Data Management and Sharing Plan [5]
+SOURCE: SERPAPI Google Search
+
+All DOE-funded research and development awards and contracts are required to have a DOE-approved Data Management and Sharing Plan (DMSP) that addresses relevant data management and sharing practices.
+------------------------------------------------------------
+TITLE: Digital Data Management Glossary [6]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data policy emphasizes the sharing of digital research data that can be stored digitally and accessed electronically.
+------------------------------------------------------------
+TITLE: The Trump administrations on open access to research [3]
+SOURCE: SERPAPI Google Search
+
+The Department of Defense (DOD) has released an implementation plan for its enhanced Open Access policy, as outlined in the Biden-era Nelson Memo from the Office of Science and Technology Policy (OSTP).
+------------------------------------------------------------
+TITLE: Is my research more expensive than it should be? [4]
+SOURCE: SERPAPI Google Search
+
+costing 50x more than it should. The concern raised was that the multiplier may have been inadvertently increased or modified.
+------------------------------------------------------------
+TITLE: Research cost feedback :: The Riftbreaker Általános témák [2]
+SOURCE: SERPAPI Google Search
+
+The author expresses concerns about the costs associated with research, suggesting potential ways to address this issue within U.S. open data or open science policy.
+------------------------------------------------------------
+TITLE: LibGuides: Open Access Publishing : What is Open Access? [9]
+SOURCE: SERPAPI Google Search
+
+Open access (OA) provides free digital, online information, particularly in scholarly literature, which is available without cost and with fewer restrictions.
+------------------------------------------------------------
+TITLE: What is Open Access and Why Does it Matter? - LibGuides [14]
+SOURCE: SERPAPI Google Search
+
+Open data or open science policy in the U.S. promotes accessibility and sharing of research findings with a wide range of stakeholders, including scholars, policy makers, practitioners, clinicians, and the general public. This approach encourages transparency and collaboration among different groups in utilizing and building upon the available data and scientific knowledge.
+------------------------------------------------------------
+TITLE: Open Access Publishing: Paying For Open Access [10]
+SOURCE: SERPAPI Google Search
+
+Publishers charge Article Processing Charges (APCs) to cover the cost of making articles open access in the U.S.
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. Guest Post – When Thinking Is Outsourced: A Warning from a Scientist Trained Before AI — https://scholarlykitchen.sspnet.org/2026/04/29/guest-post-when-thinking-is-outsourced-a-warning-from-a-scientist-trained-before-ai/
+2. Research cost feedback :: The Riftbreaker Általános témák — https://steamcommunity.com/app/780310/discussions/0/598530063829307429/?l=hungarian&ctp=4
+3. The Trump administrations on open access to research — https://cyber.harvard.edu/hoap/The_Trump_administrations_on_open_access_to_research
+4. Is my research more expensive than it should be? — https://www.reddit.com/r/pyanodons/comments/1sykqn2/is_my_research_more_expensive_than_it_should_be/
+5. Writing a Data Management and Sharing Plan — https://www.energy.gov/datamanagement/writing-data-management-and-sharing-plan
+6. Digital Data Management Glossary — https://www.energy.gov/cmei/funding/digital-data-management-glossary
+7. Guest Post — Develop to Delegate: How Investing in Early-Career Professionals Strengthens Organizations — https://scholarlykitchen.sspnet.org/2026/04/28/guest-post-develop-to-delegate-how-investing-in-early-career-professionals-strengthens-organizations/
+8. Guest Post — Quality Over Quantity: Why Scholarly Publishing Needs Stronger Front-End Gatekeeping to Build Trust and Long-Term Value — https://scholarlykitchen.sspnet.org/2026/04/27/guest-post-quality-over-quantity-why-scholarly-publishing-needs-stronger-front-end-gatekeeping-to-build-trust-and-long-term-value/
+9. LibGuides: Open Access Publishing : What is Open Access? — https://guides.library.cornell.edu/openaccess
+10. Open Access Publishing: Paying For Open Access — https://library.noaa.gov/openaccesspublishing/paying-for-open-access
+11. Shaping Our Collective Voice Through Advocacy — SSP Pulse Check Report — https://scholarlykitchen.sspnet.org/2026/05/01/shaping-our-collective-voice-through-advocacy-ssp-pulse-check-report/
+12. Guest Post — SSP Annual Meeting: The Highlights are Coming — https://scholarlykitchen.sspnet.org/2026/04/30/guest-post-ssp-annual-meeting-the-highlights-are-coming/
+13. 2026 Pilot Data Management and Sharing Plan Format ... — https://grants.nih.gov/news-events/nih-extramural-nexus-news/2026/04/2026-pilot-data-management-and-sharing-plan-format-available
+14. What is Open Access and Why Does it Matter? - LibGuides — https://libguides.brown.edu/oa
+
+============================================================
+RUNTIME: 47.72 s
+ESTIMATED TOKENS: 1713
+ESTIMATED COST (USD): $0.0242
+============================================================
