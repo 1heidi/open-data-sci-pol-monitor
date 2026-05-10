@@ -1,0 +1,136 @@
+OPEN DATA / SCIENCE POLICY MONITOR REPORT
+Generated on May 10, 2026
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. Scholarly Kitchen introduces a new style guide for contributors to maintain writing standards. [1] [2] [3] [4] [5] [6]
+
+2. The impact of AI-generated summaries on research access questions traditional engagement with primary sources. [4] [3] [7] [8] [9] [9]
+
+3. BioOne and Johns Hopkins University Press partner to strengthen collaboration in publishing. [5] [9] [9] [3] [6] [10]
+
+4. Increasing access to quantum research facilities is crucial for advancements in various sectors. [7] [8] [3] [11] [9] [4]
+
+5. U.S. open data policy aims to provide data in open formats to enhance accessibility for diverse users. [12] [13] [14] [15] [16] [17]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: Announcing The Scholarly Kitchen’s Style Guide [1]
+SOURCE: The Scholarly Kitchen
+
+The Scholarly Kitchen has introduced a new style guide for its contributors and guest bloggers. This guide will provide guidelines for writing in line with the publication's standards.
+------------------------------------------------------------
+TITLE: Guest Post — Love, Death & Robots: Scholarly Edition [2]
+SOURCE: The Scholarly Kitchen
+
+The post discusses a proposed method to track and regulate the use of robotics in scholarly content.
+------------------------------------------------------------
+TITLE: Zero-Click Readership: Are AI Overviews Changing the Way We Discover Research [4]
+SOURCE: The Scholarly Kitchen
+
+The text discusses the impact of AI-generated summaries on the way research is accessed, questioning the traditional notion of engaging with research through primary sources.
+------------------------------------------------------------
+TITLE: Stronger Together: BioOne and Johns Hopkins University Press Join Forces [5]
+SOURCE: The Scholarly Kitchen
+
+BioOne and Johns Hopkins University Press announced a partnership to join forces, as revealed in an interview with Lauren Kane, Barbara Kline Pope, and Wendy Queen.
+------------------------------------------------------------
+TITLE: Mental Health Awareness Mondays — The Validation Trap: Rethinking Confidence Through Emotional Fitness [6]
+SOURCE: The Scholarly Kitchen
+
+The text discusses the importance of reducing pressure on performance in publishing careers to address the validation trap and promote emotional fitness.
+------------------------------------------------------------
+TITLE: Disaster Risk Reduction and Open Data Newsletter: April 2026 Edition [13]
+SOURCE: CODATA Blog
+
+Climate-related disasters are becoming more severe and frequent, but global adaptation and resilience finance is still reactive and insufficient. Data shows that financial support typically increases only after disasters happen, leading to a cycle of response rather than prevention.
+------------------------------------------------------------
+TITLE: e-Workshop on Effective Delivery of Health Services through Digital Tools in Global South | 6 May at 10:30 IST [15]
+SOURCE: JCU Sci Policy
+
+The text is promoting a webinar on U.S. open data policy. It includes information about registration and contact details for the event.
+------------------------------------------------------------
+TITLE: One in three researchers have no access to quantum research facilities, depriving society of its full potential [7]
+SOURCE: JCU Sci Policy
+
+One in three researchers lack access to quantum research facilities, hindering advancements in healthcare, computing, cybersecurity, and climate modeling, as revealed in a recent UNESCO report. The report emphasizes significant global disparities in access to quantum technology, with Europe and North America hosting significantly more quantum science events compared to Africa.
+------------------------------------------------------------
+TITLE: (FAL 2026-01) Data Management and Sharing Plan ... [16]
+SOURCE: SERPAPI Google Search
+
+The DOE has established a Data Management and Sharing Plan (DMSP) to guide its implementation of open data policies.
+------------------------------------------------------------
+TITLE: Section III: Proactive Disclosures [12]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data policy aims to increase accessibility by providing data in open formats for entrepreneurs, researchers, and policy makers to utilize. The intention is to facilitate the use of data for various purposes.
+------------------------------------------------------------
+TITLE: DOJ launches FOCUS initiative to triage data miners filing ... [17]
+SOURCE: SERPAPI Google Search
+
+The FOCUS initiative aims to prioritize data miners filing qui tam complaints by facilitating meetings with Civil Fraud Section officials. The initiative's goal is to effectively distinguish between valid and meritless claims in order to streamline the process.
+------------------------------------------------------------
+TITLE: Publishing and open access - LibGuides at Deakin University [9]
+SOURCE: SERPAPI Google Search
+
+download, copy, share, and use the information for any lawful purpose.
+------------------------------------------------------------
+TITLE: OA Journals - Open Access - Research Guides at Virginia Tech [8]
+SOURCE: SERPAPI Google Search
+
+Open access journals publish peer-reviewed research that is freely accessible to readers and openly licensed.
+------------------------------------------------------------
+TITLE: U.S. Economic Development Administration [14]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data or open science policy aims to drive innovation and competitiveness in the federal economic development agenda by supporting the preparation of American regions for growth and success."
+------------------------------------------------------------
+TITLE: The hidden infrastructure behind research reform [11]
+SOURCE: SERPAPI Google Search
+
+Supporting open infrastructures is essential for U.S. open data and open science policy, as it is practical and crucial for maintaining credibility. Funding organizations are increasingly mandating the use of these infrastructures by grant recipients.
+------------------------------------------------------------
+TITLE: sectional study of the amount that medical researchers ... [10]
+SOURCE: SERPAPI Google Search
+
+The text discusses estimating the financial costs incurred by individual medical researchers to pay for article processing charges (APCs) related to open access publishing.
+------------------------------------------------------------
+TITLE: Research Guide: Open Access Publishing [3]
+SOURCE: SERPAPI Google Search
+
+Open access scholarly literature is available for free and typically has fewer copyright and licensing restrictions compared to traditional publications.
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. Announcing The Scholarly Kitchen’s Style Guide — https://scholarlykitchen.sspnet.org/2026/05/08/announcing-the-scholarly-kitchens-style-guide/
+2. Guest Post — Love, Death & Robots: Scholarly Edition — https://scholarlykitchen.sspnet.org/2026/05/07/guest-post-love-death-robots-scholarly-edition/
+3. Research Guide: Open Access Publishing — https://libguides.murdoch.edu.au/publishing/OA
+4. Zero-Click Readership: Are AI Overviews Changing the Way We Discover Research — https://scholarlykitchen.sspnet.org/2026/05/06/zero-click-readership-are-ai-overviews-changing-the-way-we-discover-research/
+5. Stronger Together: BioOne and Johns Hopkins University Press Join Forces — https://scholarlykitchen.sspnet.org/2026/05/05/stronger-together-bioone-and-johns-hopkins-university-press-join-forces/
+6. Mental Health Awareness Mondays — The Validation Trap: Rethinking Confidence Through Emotional Fitness — https://scholarlykitchen.sspnet.org/2026/05/04/mental-health-awareness-mondays-the-validation-trap-rethinking-confidence-through-emotional-fitness/
+7. One in three researchers have no access to quantum research facilities, depriving society of its full potential — http://cssp-jnu.blogspot.com/2026/05/one-in-three-researchers-have-no-access.html
+8. OA Journals - Open Access - Research Guides at Virginia Tech — https://guides.lib.vt.edu/oa/journals
+9. Publishing and open access - LibGuides at Deakin University — https://deakin.libguides.com/publish-open-access/publishing
+10. sectional study of the amount that medical researchers ... — https://bmjopen.bmj.com/content/bmjopen/11/2/e047107.full.pdf
+11. The hidden infrastructure behind research reform — https://council.science/blog/open-science-round-up-the-hidden-infrastructure-behind-research-reform/
+12. Section III: Proactive Disclosures — https://www.hhs.gov/foia/reports/chief-foia-officer-reports/2026-section-3/index.html
+13. Disaster Risk Reduction and Open Data Newsletter: April 2026 Edition — https://codata.org/blog/2026/05/04/disaster-risk-reduction-and-open-data-newsletter-april-2026-edition/
+14. U.S. Economic Development Administration — https://www.eda.gov/
+15. e-Workshop on Effective Delivery of Health Services through Digital Tools in Global South | 6 May at 10:30 IST — http://cssp-jnu.blogspot.com/2026/05/e-workshop-on-effective-delivery-of.html
+16. (FAL 2026-01) Data Management and Sharing Plan ... — https://www.energy.gov/management/fal-2026-01-data-management-and-sharing-plan-dmsp-requirements
+17. DOJ launches FOCUS initiative to triage data miners filing ... — https://www.dlapiper.com/en-us/insights/publications/2026/05/doj-launches-focus-initiative-to-triage-data-miners-filing-qui-tam-complaints
+
+============================================================
+RUNTIME: 61.75 s
+ESTIMATED TOKENS: 2157
+ESTIMATED COST (USD): $0.028
+============================================================
