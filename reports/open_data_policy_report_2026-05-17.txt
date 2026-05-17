@@ -1,0 +1,124 @@
+OPEN DATA / SCIENCE POLICY MONITOR REPORT
+Generated on May 17, 2026
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. Efforts to control publishing industry behavior through APC caps have not effectively curbed the industry. [1] [2] [3] [4] [5] [6]
+
+2. AI is increasing pressure on traditional peer review processes, leading to a surge in article submissions. [7] [3]
+
+3. Restoring trust in science requires improved incentives, public communication, and engaging with skeptics. [8] [9] [2] [10] [5] [11]
+
+4. Office of Science and Technology Policy, Council of Economic Advisors play key roles in shaping U.S. open data and open science policies. [11] [5] [9] [10] [12] [6]
+
+5. DOE-funded research awards must adhere to a Data Management and Sharing Plan, focusing on data integrity and collaboration. [13] [12] [14] [9] [15] [10]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: Friday Zen: Puffins For the Win! [10]
+SOURCE: The Scholarly Kitchen
+
+The text does not contain information relevant to U.S. open data or open science policy.
+------------------------------------------------------------
+TITLE: APC Caps and Bans — Why Funder Policies Aimed at Curbing the Publishing Industry Don’t Work [1]
+SOURCE: The Scholarly Kitchen
+
+Efforts by funders such as the NIH to control publisher and author behavior through APC caps have not been effective in curbing the publishing industry. A new report suggests that these caps may actually reduce global Open Access spending.
+------------------------------------------------------------
+TITLE: Guest Post — Is Growth Always Good News? 2026 Article Submission Surges [7]
+SOURCE: The Scholarly Kitchen
+
+In the first quarter of 2026, ScholarOne experienced a notable increase in article submissions, indicating that artificial intelligence is placing greater pressure on the traditional peer review process.
+------------------------------------------------------------
+TITLE: Guest Post — Restoring Trust in Science: What Would Make a Difference? [8]
+SOURCE: The Scholarly Kitchen
+
+Restoring trust in science requires more than just improved messaging; it also involves better incentives, disciplined public communication, and listening to those who have lost faith in the scientific community.
+------------------------------------------------------------
+TITLE: Lecture on Open Data Resources for Social Science Research in India [9]
+SOURCE: JCU Sci Policy
+
+The lecture discussed open data resources for social science research in India, with Dr. Anup Kumar Das from JNU as the speaker and Prof. Mammo Muchie as the chair. The webinar took place on May 7th, 2026, and a video recording is available for viewing.
+------------------------------------------------------------
+TITLE: Presidential Actions [5]
+SOURCE: SERPAPI Google Search
+
+The U.S. government has established offices such as the Office of Science and Technology Policy, Council of Economic Advisors, Office of the National Cyber Director, and Office of National Drug Control Policy to implement open data and open science policies.
+------------------------------------------------------------
+TITLE: Live News [11]
+SOURCE: SERPAPI Google Search
+
+The U.S. government has various offices like the Office of Science and Technology Policy and the Council of Economic Advisors that are involved in open data and open science policy. These offices play a role in shaping and implementing policies related to these areas.
+------------------------------------------------------------
+TITLE: Writing a Data Management and Sharing Plan [13]
+SOURCE: SERPAPI Google Search
+
+All research and development awards and contracts funded by the Department of Energy (DOE) must adhere to a DOE-approved Data Management and Sharing Plan (DMSP) for data management and sharing purposes.
+------------------------------------------------------------
+TITLE: DOE Requirements and Guidance for Digital Research ... [12]
+SOURCE: SERPAPI Google Search
+
+Open data and open science policies in the U.S. prioritize sharing and preserving data to uphold scientific integrity and promote validation and replication of results. This approach aims to advance science by facilitating collaboration and accelerating research progress.
+------------------------------------------------------------
+TITLE: DCB Guidance for the NIH DMS Policy - NCI [14]
+SOURCE: SERPAPI Google Search
+
+The NIH encourages data management and sharing practices to align with the FAIR data principles and adhere to best practices in research.
+------------------------------------------------------------
+TITLE: Constructing a New Knowledge Infrastructure [6]
+SOURCE: SERPAPI Google Search
+
+the U.S. open data or open science policy aims to facilitate the generation and dissemination of actionable knowledge. This approach focuses on promoting the advancement of knowledge through shared resources and cooperative decision-making.
+------------------------------------------------------------
+TITLE: Commercial Buildings Research Infrastructure Project [15]
+SOURCE: SERPAPI Google Search
+
+The Commercial Buildings Research Infrastructure was established with funding from the DOE's Commercial Buildings Integration program to focus on grid edge development and evaluation.
+------------------------------------------------------------
+TITLE: Beyond Compliance: Internal Control Systems and Public ... [2]
+SOURCE: SERPAPI Google Search
+
+The study examines how the Salatiga City Government in the U.S. implements the Government Internal Control System (GICS) to uphold principles of good governance.
+------------------------------------------------------------
+TITLE: 5 Common Open Access Questions: Answered - AIP Publishing [3]
+SOURCE: SERPAPI Google Search
+
+open access (OA) publishing is not necessarily more expensive and can actually enhance the credibility of research. Embracing OA policies can be beneficial for researchers by increasing the visibility and impact of their work, ultimately advancing the field of science.
+------------------------------------------------------------
+TITLE: Scholarly Publishing and Open Access - UGA Libraries [4]
+SOURCE: SERPAPI Google Search
+
+UGA researchers have access to publisher agreements that allow them to access and publish content for free. UGA Open Scholar offers a platform for UGA researchers to share their work.
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. APC Caps and Bans — Why Funder Policies Aimed at Curbing the Publishing Industry Don’t Work — https://scholarlykitchen.sspnet.org/2026/05/14/apc-caps-and-bans-why-funder-policies-aimed-at-curbing-the-publishing-industry-dont-work/
+2. Beyond Compliance: Internal Control Systems and Public ... — https://ecbis.net/index.php/go/article/view/363
+3. 5 Common Open Access Questions: Answered - AIP Publishing — https://publishing.aip.org/breakthrough-blog/five-common-open-access-questions-answered_l0-b2-26_oa/
+4. Scholarly Publishing and Open Access - UGA Libraries — https://www.libs.uga.edu/schol-comm
+5. Presidential Actions — https://www.whitehouse.gov/presidential-actions/
+6. Constructing a New Knowledge Infrastructure — https://issues.org/environmental-knowledge-commons-dosemagen-ottinger/
+7. Guest Post — Is Growth Always Good News? 2026 Article Submission Surges — https://scholarlykitchen.sspnet.org/2026/05/13/guest-post-is-growth-always-good-news-2026-article-submission-surges/
+8. Guest Post — Restoring Trust in Science: What Would Make a Difference? — https://scholarlykitchen.sspnet.org/2026/05/12/guest-post-restoring-trust-in-science-what-would-make-a-difference/
+9. Lecture on Open Data Resources for Social Science Research in India — http://cssp-jnu.blogspot.com/2026/05/lecture-on-open-data-resources-for.html
+10. Friday Zen: Puffins For the Win! — https://scholarlykitchen.sspnet.org/2026/05/15/friday-zen-puffins-save-the-day/
+11. Live News — https://www.whitehouse.gov/live/
+12. DOE Requirements and Guidance for Digital Research ... — https://www.energy.gov/datamanagement/doe-requirements-and-guidance-digital-research-data-management
+13. Writing a Data Management and Sharing Plan — https://www.energy.gov/datamanagement/writing-data-management-and-sharing-plan
+14. DCB Guidance for the NIH DMS Policy - NCI — https://www.cancer.gov/about-nci/organization/dcb/funding/resources/dcb-guidance-for-nih-dms-policy
+15. Commercial Buildings Research Infrastructure Project — https://www.energy.gov/cmei/buildings/articles/commercial-buildings-research-infrastructure-project
+
+============================================================
+RUNTIME: 36.98 s
+ESTIMATED TOKENS: 1526
+ESTIMATED COST (USD): $0.0221
+============================================================
