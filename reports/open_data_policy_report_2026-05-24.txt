@@ -1,0 +1,148 @@
+OPEN DATA / SCIENCE POLICY MONITOR REPORT
+Generated on May 24, 2026
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. AI can detect patterns in research data, but human interpretation remains crucial. [1] [2] [3] [4] [5] [6]
+
+2. Scholarly societies must prioritize stewardship and standards to establish credibility. [7] [8] [4] [1] [9] [10]
+
+3. Publishers benefit from a specific library relations strategy to gather community input. [9] [9] [2] [11]
+
+4. The U.S. open data policy prioritizes biomedical research, particularly focusing on cancer and rare diseases. [12] [5] [6] [13] [14] [15]
+
+5. The focus of U.S. open data and open science policy is on promoting collaboration and speeding up discoveries. [5] [13] [16] [17] [18] [19]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: Guest Post — A Friendly Debate: Where Automation Will (And Should) Land in the Research Lifecycle [4]
+SOURCE: The Scholarly Kitchen
+
+The text discusses a friendly debate about which parts of the research lifecycle should be automated and which should involve a human touch, exploring the reasons behind these decisions.
+------------------------------------------------------------
+TITLE: Guest Post — When AI Helps Write Research: What Happens to Lived Experience? [1]
+SOURCE: The Scholarly Kitchen
+
+An experiment on qualitative data analysis showed that AI can detect patterns, but humans are essential in interpreting the meaning of those patterns in research, highlighting the importance of human experience in shaping findings.
+------------------------------------------------------------
+TITLE: Why Scholarly Societies Must Compete Through Stewardship, Not Scale [7]
+SOURCE: The Scholarly Kitchen
+
+upholding standards, and ensuring continuity within research disciplines, making them credible and durable institutions in this regard.
+------------------------------------------------------------
+TITLE: Why Every Publisher Needs a Library Relations Strategy [9]
+SOURCE: The Scholarly Kitchen
+
+Publishers without a specific library relations strategy risk making significant decisions without valuable community input.
+------------------------------------------------------------
+TITLE: Filter, Not Funnel: What Zero-click Means for Brand and Engagement [10]
+SOURCE: The Scholarly Kitchen
+
+Organizational brand is crucial due to the threat of zero-click search, which also presents a significant opportunity for engagement.
+------------------------------------------------------------
+TITLE: Marking 28 years of impact, the 2026 L’Oréal–UNESCO For Women in Science International Awards honor five pioneering researchers [19]
+SOURCE: JCU Sci Policy
+
+The 2026 L’Oréal-UNESCO For Women in Science International Awards honored five pioneering researchers at UNESCO Headquarters in Paris for their contributions to life and environmental sciences, selected from a record 504 nominations representing 89 countries. Despite these achievements, UNESCO data shows that women globally represent only one in three researchers.
+------------------------------------------------------------
+TITLE: Memorandum of Understanding Between The Government ... [12]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data and open science policy prioritizes advancing biomedical research, specifically focusing on cancer and rare diseases, through the use of artificial intelligence and securing biotechnology.
+------------------------------------------------------------
+TITLE: The NIA Genetics of Alzheimer's Disease Data Storage Site ... [5]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data or open science policy focuses on promoting collaboration, speeding up discoveries, and enhancing the scientific value and impact of research on Alzheimer's Disease and Related Dementias (AD/ADRD) genetics.
+------------------------------------------------------------
+TITLE: (FAL 2026-01) Data Management and Sharing Plan ( ... [6]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data policy aims to advance scientific research and technology development in important areas by utilizing independent offices for oversight and specialized functions.
+------------------------------------------------------------
+TITLE: Data and statistics: Open Data Sets By Topic - LibGuides [14]
+SOURCE: SERPAPI Google Search
+
+The FBI's Crime Data Explorer (CDE) is a tool designed to promote transparency, increase accessibility, and raise awareness of law enforcement data, including criminal and noncriminal information.
+------------------------------------------------------------
+TITLE: Open Data & Transparency: Latest News [15]
+SOURCE: SERPAPI Google Search
+
+Federal agencies are exploring ways to improve public access to data through open data initiatives. More information can be found on Federal News Radio.
+------------------------------------------------------------
+TITLE: Geodetic Data: Applying FAIR, TRUST and CARE Principles [17]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data and open science policy aims to promote adherence to the FAIR principles for data sharing and reusability, as well as the CARE principles for determining the ethical considerations of data use.
+------------------------------------------------------------
+TITLE: Research Data Management: Home - University Library [2]
+SOURCE: SERPAPI Google Search
+
+including types of data, principles such as FAIR data and CARE Indigenous data principles, ownership, policies, procedures, and additional resources.
+------------------------------------------------------------
+TITLE: Research data management [3]
+SOURCE: SERPAPI Google Search
+
+Research funds like Horizon Europe mandate that research data be made FAIR: Findable, Accessible, Interoperable, and Reusable.
+------------------------------------------------------------
+TITLE: Open Science [13]
+SOURCE: SERPAPI Google Search
+
+DARIAH is committed to open research and embraces collaborative and innovative digital methods in the U.S. open data and open science policy.
+------------------------------------------------------------
+TITLE: Constructing a New Knowledge Infrastructure [16]
+SOURCE: SERPAPI Google Search
+
+Open data or open science policy in the U.S. aims to advance knowledge through collaborative governance and open infrastructure, with a focus on promoting actionable knowledge.
+------------------------------------------------------------
+TITLE: Scholarly Publishing Costs Under Scrutiny by Trump ... [8]
+SOURCE: SERPAPI Google Search
+
+The Office of Science and Technology Policy (OSTP) is repealing the Nelson memo, but the impact on current federal open-access publishing policies is uncertain.
+------------------------------------------------------------
+TITLE: www.aplu.org May 22, 2026 National Institutes of Health Of [18]
+SOURCE: SERPAPI Google Search
+
+APLU focuses on promoting collaboration among university leaders to advance public research universities' mission. This includes advocating for open data and open science policies.
+------------------------------------------------------------
+TITLE: UU-funded Open Access Publishing [11]
+SOURCE: SERPAPI Google Search
+
+The University of Utah funds can be used to pay Article Processing Charges (APCs) for accepted manuscripts in journals distributed by certain publishers.
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. Guest Post — When AI Helps Write Research: What Happens to Lived Experience? — https://scholarlykitchen.sspnet.org/2026/05/21/guest-post-when-ai-helps-write-research-what-happens-to-lived-experience/
+2. Research Data Management: Home - University Library — https://library.nd.edu.au/researchers/rdm
+3. Research data management — https://libguides.ruc.dk/datamanagement
+4. Guest Post — A Friendly Debate: Where Automation Will (And Should) Land in the Research Lifecycle — https://scholarlykitchen.sspnet.org/2026/05/22/guest-post-a-friendly-debate-where-automation-will-and-should-land-in-the-research-lifecycle/
+5. The NIA Genetics of Alzheimer's Disease Data Storage Site ... — https://simpler.grants.gov/opportunity/7a4a9822-f39f-464d-8a1d-d941afaebcdf
+6. (FAL 2026-01) Data Management and Sharing Plan ( ... — https://www.energy.gov/management/fal-2026-01-data-management-and-sharing-plan-dmsp-requirements
+7. Why Scholarly Societies Must Compete Through Stewardship, Not Scale — https://scholarlykitchen.sspnet.org/2026/05/20/why-scholarly-societies-must-compete-through-stewardship-not-scale/
+8. Scholarly Publishing Costs Under Scrutiny by Trump ... — https://www.aip.org/fyi/scholarly-publishing-costs-under-scrutiny-by-trump-administration
+9. Why Every Publisher Needs a Library Relations Strategy — https://scholarlykitchen.sspnet.org/2026/05/19/why-every-publisher-needs-a-library-relations-strategy/
+10. Filter, Not Funnel: What Zero-click Means for Brand and Engagement — https://scholarlykitchen.sspnet.org/2026/05/18/filter-not-funnel-what-zero-click-means-for-brand-and-engagement/
+11. UU-funded Open Access Publishing — https://campusguides.lib.utah.edu/researchers/uu-oa-publish
+12. Memorandum of Understanding Between The Government ... — https://www.whitehouse.gov/releases/2026/05/technology-prosperity-deal-between-the-united-states-and-sweden/
+13. Open Science — https://www.dariah.eu/activities/open-science/
+14. Data and statistics: Open Data Sets By Topic - LibGuides — https://libguides.lib.rochester.edu/data-stats
+15. Open Data & Transparency: Latest News — https://federalnewsnetwork.com/category/technology-main/open-datatransparency/
+16. Constructing a New Knowledge Infrastructure — https://issues.org/environmental-knowledge-commons-dosemagen-ottinger/
+17. Geodetic Data: Applying FAIR, TRUST and CARE Principles — https://geodesy.science/2026/geodetic-data-fair-trust-care/
+18. www.aplu.org May 22, 2026 National Institutes of Health Of — https://www.aplu.org/wp-content/uploads/APLU-RFI-NOT-OD-26-047-NIH-Strategic-Plan-Final.pdf
+19. Marking 28 years of impact, the 2026 L’Oréal–UNESCO For Women in Science International Awards honor five pioneering researchers — http://cssp-jnu.blogspot.com/2026/05/marking-28-years-of-impact-2026.html
+
+============================================================
+RUNTIME: 50.5 s
+ESTIMATED TOKENS: 1698
+ESTIMATED COST (USD): $0.0233
+============================================================
