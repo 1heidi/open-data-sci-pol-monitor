@@ -1,0 +1,136 @@
+OPEN DATA / SCIENCE POLICY MONITOR REPORT
+Generated on May 31, 2026
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. Incomplete metadata in AI scholarly search tools hinders literature discovery, emphasizing the need for improved metadata. [1] [2] [3] [4] [5] [6]
+
+2. Scholarly publishers must bridge the gap between evolving user needs and current systems. [4] [1] [7] [3] [8] [9]
+
+3. Creative Commons' CC Signals initiative faces challenges due to existing licenses allowing free reuse of content. [8] [3] [7] [10] [11]
+
+4. A new live music archive with 10,000 memories is available during the US holiday, offering a resource for music enthusiasts. [9] [12] [5]
+
+5. U.S. open data and open science policy coordination involves multiple government offices to promote transparency and data accessibility. [12] [13] [14] [15] [16] [17]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: Guest Post — Scholarly AI Search Shortcomings and the Need for Better Metadata [1]
+SOURCE: The Scholarly Kitchen
+
+Incomplete metadata in AI scholarly search tools leads to the omission of crucial literature, highlighting the need for better full-text-derived metadata to enhance discovery capabilities.
+------------------------------------------------------------
+TITLE: Beyond the Article, Beyond the APC: What We Learned from 18 Months of R&D [7]
+SOURCE: The Scholarly Kitchen
+
+An initiative was conducted to determine what changes are needed to create a publishing model that aligns with the current research ecosystem. Insights from 18 months of research and development were shared in a post titled "Beyond the Article, Beyond the APC: What We Learned."
+------------------------------------------------------------
+TITLE: The User Has Changed. Has Scholarly Publishing? [4]
+SOURCE: The Scholarly Kitchen
+
+Scholarly publishers are facing a challenge as the users' needs are evolving faster than the systems meant to cater to them, leading to a significant gap between the two that requires attention.
+------------------------------------------------------------
+TITLE: Seven Questions about CC Signals [8]
+SOURCE: The Scholarly Kitchen
+
+Creative Commons' CC Signals initiative aims to enable authors to set restrictions on the use of their licensed content for AI training, but faces a challenge as certain licenses already allow free and unlimited reuse of content for various purposes, including irrevocable terms.
+------------------------------------------------------------
+TITLE: Off for the US Holiday — 10,000 Musical Memories Archived [9]
+SOURCE: The Scholarly Kitchen
+
+A new live music archive with 10,000 musical memories is available for perusal during the US holiday. This collection offers a valuable resource for music enthusiasts to explore.
+------------------------------------------------------------
+TITLE: Disaster Risk Reduction and Open Data Newsletter: May 2026 Edition [15]
+SOURCE: CODATA Blog
+
+Climate models suggest that there is a high likelihood of El Niño returning by mid-2026, with uncertain strength. Waiting for certainty can lead to increased exposure to risks such as drought, agricultural collapse, and disease outbreaks, particularly in vulnerable regions.
+------------------------------------------------------------
+TITLE: Thesis "In search of grassroots frugality: Everyday learning and experiential knowledge to navigate water uncertainties in the Bundelkhand region, India" by Birendra Singh [5]
+SOURCE: JCU Sci Policy
+
+particularly in the context of innovation and technology to serve the needs of marginalized communities, known as frugal innovation. It emphasizes studying the intersection between resource ownership, institutional access, and lived experience to understand manifestations of frugality in different social contexts.
+------------------------------------------------------------
+TITLE: Live News [12]
+SOURCE: SERPAPI Google Search
+
+The U.S. Open Data or Open Science policy is coordinated across several government offices, including the Office of Science and Technology Policy, Council of Economic Advisors, Office of the National Cyber Director, and Office of National Drug Control Policy. These offices work together to promote transparency and collaboration in making data and research accessible to the public.
+------------------------------------------------------------
+TITLE: NIH Data Management and Sharing Policy Toolkit [16]
+SOURCE: SERPAPI Google Search
+
+The NNLM National Center for Data Services has developed a tool to help users find NIH-supported repositories for sharing research data. This tool aims to assist in locating appropriate platforms for complying with the NIH data management and sharing policy.
+------------------------------------------------------------
+TITLE: Data Management and Sharing - NIEHS - NIH [13]
+SOURCE: SERPAPI Google Search
+
+"The U.S. open data or open science policy promotes the sharing of research data through public repositories or as supplemental data in publications to facilitate scientific progress."
+------------------------------------------------------------
+TITLE: DOD Data Management and Sharing Policy - Research Guides [17]
+SOURCE: SERPAPI Google Search
+
+The Department of Defense (DoD) has mandated the submission of a data management plan (DMP) for grant applications since 2016, outlining specific requirements for managing data related to research projects. The guide provides an overview of the DoD's policies and expectations in this regard.
+------------------------------------------------------------
+TITLE: Agencies need to first move slow with their data to then ... [2]
+SOURCE: SERPAPI Google Search
+
+Experts emphasize that implementing AI tools will be facilitated by establishing governance and security controls around data, emphasizing the importance of this step in the process.
+------------------------------------------------------------
+TITLE: What does it take to move from FAIR principles to FAIR2 ... [6]
+SOURCE: SERPAPI Google Search
+
+The text discusses learning about metadata curation and documentation, applying FAIR principles in practice through OpenAIRE Graph, Explore, and Connect, and legal and ethical data sharing in U.S. open data or open science policy.
+------------------------------------------------------------
+TITLE: ASM Responds to NIH RFI on FY2027-2031 Strategic Plan [10]
+SOURCE: SERPAPI Google Search
+
+Support for research infrastructure is considered crucial by ASM, particularly in the face of complex biological threats in the U.S. and as researchers in the field of biology adapt to new challenges.
+------------------------------------------------------------
+TITLE: R&D Infrastructure & Innovation | Featured Initiatives [11]
+SOURCE: SERPAPI Google Search
+
+The text discusses the importance of building research and development infrastructures to advance technologies like artificial intelligence and robotics. It emphasizes the opportunities and challenges involved in creating future-ready infrastructures to support innovation in these fields.
+------------------------------------------------------------
+TITLE: A U.S. federal mandate to make scholarly papers free ... [3]
+SOURCE: SERPAPI Google Search
+
+Dr. Alondra Nelson from the Office of Science and Technology Policy (OSTP) issued guidance for federal departments and agencies to improve public access to scholarly papers, potentially tripling government-funded research's impact.
+------------------------------------------------------------
+TITLE: Something Missing in the Numbers | Forum [14]
+SOURCE: SERPAPI Google Search
+
+The text discusses the Financial Accountability in Research (FAIR) model as an example of necessary reform in U.S. open data or open science policy. The model emphasizes transparency to clarify accountability in research investments.
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. Guest Post — Scholarly AI Search Shortcomings and the Need for Better Metadata — https://scholarlykitchen.sspnet.org/2026/05/29/guest-post-scholarly-ai-search-shortcomings-and-the-need-for-better-metadata/
+2. Agencies need to first move slow with their data to then ... — https://federalnewsnetwork.com/federal-insights/2026/05/agencies-need-to-first-move-slow-with-their-data-to-then-move-fast-into-ai/
+3. A U.S. federal mandate to make scholarly papers free ... — https://www.facebook.com/ScienceNOW/posts/a-us-federal-mandate-to-make-scholarly-papers-free-to-read-could-triple-the-gove/1363767402465025/
+4. The User Has Changed. Has Scholarly Publishing? — https://scholarlykitchen.sspnet.org/2026/05/27/the-user-has-changed-has-scholarly-publishing/
+5. Thesis "In search of grassroots frugality: Everyday learning and experiential knowledge to navigate water uncertainties in the Bundelkhand region, India" by Birendra Singh — http://cssp-jnu.blogspot.com/2026/05/thesis-in-search-of-grassroots.html
+6. What does it take to move from FAIR principles to FAIR2 ... — https://www.facebook.com/Frontiersin/posts/what-does-it-take-to-move-from-fair-principles-to-fair%C2%B2-in-practicejoin-frontier/1389745193180981/
+7. Beyond the Article, Beyond the APC: What We Learned from 18 Months of R&D — https://scholarlykitchen.sspnet.org/2026/05/28/beyond-the-article-beyond-the-apc-what-we-learned-from-18-months-of-rd/
+8. Seven Questions about CC Signals — https://scholarlykitchen.sspnet.org/2026/05/26/seven-questions-about-cc-signals/
+9. Off for the US Holiday — 10,000 Musical Memories Archived — https://scholarlykitchen.sspnet.org/2026/05/25/off-for-the-us-holiday-10000-musical-memories-archived/
+10. ASM Responds to NIH RFI on FY2027-2031 Strategic Plan — https://asm.org/articles/policy/2026/may/asm-responds-to-nih-rfi-on-fy2027-2031-strategic-p
+11. R&D Infrastructure & Innovation | Featured Initiatives — https://www.csis.org/programs/renewing-american-innovation/featured-initiatives/rd-infrastructure-innovation
+12. Live News — https://www.whitehouse.gov/live/
+13. Data Management and Sharing - NIEHS - NIH — https://tools.niehs.nih.gov/srp/data/index.cfm
+14. Something Missing in the Numbers | Forum — https://issues.org/university-research-investments-wigginton-forum/
+15. Disaster Risk Reduction and Open Data Newsletter: May 2026 Edition — https://codata.org/blog/2026/05/28/disaster-risk-reduction-and-open-data-newsletter-may-2026-edition/
+16. NIH Data Management and Sharing Policy Toolkit — https://www.nnlm.gov/resources/data/nnlm-toolkit-nih-data-management-and-sharing-policy
+17. DOD Data Management and Sharing Policy - Research Guides — https://guides.library.uab.edu/rdm/dod
+
+============================================================
+RUNTIME: 47.54 s
+ESTIMATED TOKENS: 2028
+ESTIMATED COST (USD): $0.0272
+============================================================
