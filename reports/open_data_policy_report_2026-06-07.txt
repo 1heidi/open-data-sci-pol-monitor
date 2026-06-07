@@ -1,0 +1,124 @@
+OPEN DATA / SCIENCE POLICY MONITOR REPORT
+Generated on June 07, 2026
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. China's scholarly publishing system presents both competition and collaboration opportunities for international publishers. [1] [2] [3] [4] [5] [6]
+
+2. Importance of data citations in quantifying article quality and promoting data reuse in scholarly publications. [7] [8] [9] [1] [2] [10]
+
+3. New U.S. government guidance prohibits using federal grant funds for publishing and journal subscription costs. [6] [2] [3] [1] [8] [11]
+
+4. UNESCO designates new biosphere reserves across 14 countries, expanding the World Network of Biosphere Reserves. [12] [1] [13]
+
+5. A masterclass for journalists on quantum science and technology aims to equip them with necessary knowledge to effectively report on the field. [13] [8] [9] [14] [10] [15]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: Ask the Chefs: SSP 2026 Annual Meeting [9]
+SOURCE: The Scholarly Kitchen
+
+The post discusses reflections from the SSP 2026 Annual Meeting, focusing on topics such as U.S. open data and open science policy.
+------------------------------------------------------------
+TITLE: The Rise of China’s Scholarly Publishing System Part 2: Navigating China’s Publishing Ambition — Strategic Options for International Publishers [1]
+SOURCE: The Scholarly Kitchen
+
+China's scholarly publishing system is expanding, posing both competitive pressures and collaboration opportunities for international publishers, emphasizing the need for joint efforts to address challenges.
+------------------------------------------------------------
+TITLE: The Rise of China’s Scholarly Publishing System Part 1: China’s Journal Ecosystem Is Accelerating [2]
+SOURCE: The Scholarly Kitchen
+
+China is now a significant influence in global scholarly publishing, shaping the future of the industry. It is crucial to understand this development before determining how publishers should adapt.
+------------------------------------------------------------
+TITLE: Data Reuse is the Sincerest Form of Flattery [7]
+SOURCE: The Scholarly Kitchen
+
+The text discusses the significance of data citations in quantifying article quality and emphasizes the need to highlight the importance of data reuse in scholarly publications.
+------------------------------------------------------------
+TITLE: Guest Post — Proposed Uniform Guidance Revisions Would Eliminate Journal Subscriptions and APCs as Allowable Federal Grant Costs [6]
+SOURCE: The Scholarly Kitchen
+
+New U.S. government guidance on research funding prohibits using federal grant funds for publishing and journal subscription costs.
+------------------------------------------------------------
+TITLE: May 2026: Publications in the Data Science Journal [8]
+SOURCE: CODATA Blog
+
+The text discusses a correction to the publication titled "Building Responsible and Sustainable Open Data Literacy Skills for Early Career Researchers" and mentions the authors involved in the SoRDS Programme, emphasizing the importance of open data literacy skills for researchers. It also touches on enabling the reuse of data.
+------------------------------------------------------------
+TITLE: UNESCO designates 14 new biosphere reserves on World Environment Day [12]
+SOURCE: JCU Sci Policy
+
+UNESCO designated 14 new biosphere reserves across 14 countries, expanding the World Network of Biosphere Reserves to 797 sites in 145 countries. This includes three countries with their first biosphere reserves: Montenegro, Timor-Leste, and Aruba, which now has its entire territory designated as such.
+------------------------------------------------------------
+TITLE: Press invitation - Covering quantum science and tech: Masterclass for journalists [13]
+SOURCE: JCU Sci Policy
+
+A masterclass for journalists on quantum science and technology will be hosted by UNESCO and France Quantum on June 16, 2026, at Station F in Paris to help them understand and report on this complex and evolving field effectively. The event aims to equip journalists with the necessary knowledge, dispel misconceptions, and provide new perspectives to engage their audience.
+------------------------------------------------------------
+TITLE: CSSP Talk on Constitutional Values and Principles, 4th June at 12:00 noon [14]
+SOURCE: JCU Sci Policy
+
+The text does not contain information about U.S. open data or open science policy.
+------------------------------------------------------------
+TITLE: Promoting Advanced Artificial Intelligence Innovation and ... [10]
+SOURCE: SERPAPI Google Search
+
+The U.S. government aims to advance Artificial Intelligence (AI) innovation and security through partnerships with the private sector to update government systems.
+------------------------------------------------------------
+TITLE: Schedule Policy/Career of the Excepted Service [15]
+SOURCE: SERPAPI Google Search
+
+Changes in numbering or organizational structure do not impact the placement of a position in the U.S. open data or open science policy career schedule.
+------------------------------------------------------------
+TITLE: Scholarly Publishing: Open access and funder mandates [3]
+SOURCE: SERPAPI Google Search
+
+Grant funders in the U.S. have open access policies mandating that outputs from funded research must be available in open access format either upon publication or within a year.
+------------------------------------------------------------
+TITLE: Open Access Publishing Guide: Funding, Submission & ... [11]
+SOURCE: SERPAPI Google Search
+
+providing information on how to publish open access, find funding, understand article processing charges (APCs), and navigate submission requirements.
+------------------------------------------------------------
+TITLE: LibGuides: Open Access Publishing : What is Open Access? [5]
+SOURCE: SERPAPI Google Search
+
+Open access (OA) refers to freely available, digital, online information, including scholarly literature that is free of charge and often carries less restrictive permissions.
+------------------------------------------------------------
+TITLE: Open Access Publishing Support at SLU: Home [4]
+SOURCE: SERPAPI Google Search
+
+Saint Louis University has agreements with publishers to provide open access to research, allowing for free and immediate online availability of scholarly work. This initiative promotes transparency and accessibility in the dissemination of academic information.
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. The Rise of China’s Scholarly Publishing System Part 2: Navigating China’s Publishing Ambition — Strategic Options for International Publishers — https://scholarlykitchen.sspnet.org/2026/06/04/the-rise-of-chinas-scholarly-publishing-system-part-2-navigating-chinas-publishing-ambition-strategic-options-for-international-publishers/
+2. The Rise of China’s Scholarly Publishing System Part 1: China’s Journal Ecosystem Is Accelerating — https://scholarlykitchen.sspnet.org/2026/06/03/the-rise-of-chinas-scholarly-publishing-system-part-1-chinas-journal-ecosystem-is-accelerating/
+3. Scholarly Publishing: Open access and funder mandates — https://unimelb.libguides.com/Scholarly_publishing/openaccess
+4. Open Access Publishing Support at SLU: Home — https://libguides.slu.edu/open-access
+5. LibGuides: Open Access Publishing : What is Open Access? — https://guides.library.cornell.edu/openaccess
+6. Guest Post — Proposed Uniform Guidance Revisions Would Eliminate Journal Subscriptions and APCs as Allowable Federal Grant Costs — https://scholarlykitchen.sspnet.org/2026/06/01/guest-post-proposed-uniform-guidance-revisions-would-eliminate-journal-subscriptions-and-apcs-as-allowable-federal-grant-costs/
+7. Data Reuse is the Sincerest Form of Flattery — https://scholarlykitchen.sspnet.org/2026/06/02/data-reuse-is-the-sincerest-form-of-flattery/
+8. May 2026: Publications in the Data Science Journal — https://codata.org/blog/2026/06/01/may-2026-publications-in-the-data-science-journal/
+9. Ask the Chefs: SSP 2026 Annual Meeting — https://scholarlykitchen.sspnet.org/2026/06/05/ask-the-chefs-ssp-2026-annual-meeting/
+10. Promoting Advanced Artificial Intelligence Innovation and ... — https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/
+11. Open Access Publishing Guide: Funding, Submission & ... — https://www.degruyterbrill.com/publishing/for-authors/tools-resources/open-access-guide?srsltid=AfmBOooX4KKgwJIKfyt01Ai7VUuXl0oiStJJSc6cQqtaVz-HU6VX3q9f
+12. UNESCO designates 14 new biosphere reserves on World Environment Day — http://cssp-jnu.blogspot.com/2026/06/unesco-designates-14-new-biosphere.html
+13. Press invitation - Covering quantum science and tech: Masterclass for journalists — http://cssp-jnu.blogspot.com/2026/06/press-invitation-covering-quantum.html
+14. CSSP Talk on Constitutional Values and Principles, 4th June at 12:00 noon — http://cssp-jnu.blogspot.com/2026/06/cssp-talk-on-constitutional-values-and.html
+15. Schedule Policy/Career of the Excepted Service — https://www.whitehouse.gov/wp-content/uploads/2026/06/2026SchedulePolicyCareer.eo_.APPENDIX.pdf
+
+============================================================
+RUNTIME: 67.25 s
+ESTIMATED TOKENS: 2060
+ESTIMATED COST (USD): $0.0275
+============================================================
