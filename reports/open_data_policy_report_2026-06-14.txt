@@ -1,0 +1,100 @@
+OPEN DATA / SCIENCE POLICY MONITOR REPORT
+Generated on June 14, 2026
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. Concerns about metadata quality have transitioned from a niche issue to a widespread worry within U.S. open data and open science policy. [1] [2] [3] [4] [5] [6]
+
+2. Shared infrastructure and provenance tracking are highlighted as crucial for academic community readiness in AI retrieval and scholarly publishing. [7] [8] [5] [9] [1] [10]
+
+3. AI infrastructure is emphasized for publishers to effectively use machines, while maintaining trust, community, and brand relevance. [8] [7] [5] [2] [11]
+
+4. The U.S. open data and open science policy focuses on transparency, collaboration, and innovation by promoting open access to scientific data. [11] [4] [9] [2] [3] [5]
+
+5. Knowledge sharing and best practices in data sharing and reuse are demonstrated through monthly seminar series under the U.S. open data and open science policy. [3] [11] [2] [4] [5] [1]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: Ask the Community: Takeaways from SSP 2026 [5]
+SOURCE: The Scholarly Kitchen
+
+Attendees of the recent SSP Annual Meeting in Chula Vista discussed takeaways from the event, including topics related to open data and open science policy.
+------------------------------------------------------------
+TITLE: Guest Post — Fixing the Leaky Metadata Pipeline: A Conversation with the Creator of Research Nexus Score [1]
+SOURCE: The Scholarly Kitchen
+
+Metadata quality in the U.S. open data or open science policy has become a major concern across the sector, transitioning from a niche issue to widespread worry, as noted by the creator of Research Nexus Score.
+------------------------------------------------------------
+TITLE: Building Scholar-Ready AI: A Conversation with Todd Toler [7]
+SOURCE: The Scholarly Kitchen
+
+The conversation discussed the need for provenance tracking in AI retrieval for scholarly publishing and emphasized the importance of shared infrastructure for the academic community's AI readiness.
+------------------------------------------------------------
+TITLE: Guest Post — Trust & Community Are the Moat, Infrastructure is Your Leverage: Dispatches from PurePub.AI [8]
+SOURCE: The Scholarly Kitchen
+
+The post emphasizes the importance of AI infrastructure for publishers to effectively use machines, while also highlighting that trust, community, and brand are crucial for maintaining relevance to humans.
+------------------------------------------------------------
+TITLE: Guest Post — Advancing Federated Identity in the Library Ecosystem [10]
+SOURCE: The Scholarly Kitchen
+
+The text discusses the potential benefits of federated identity for library access and questions why it is not more widely adopted in the library ecosystem.
+------------------------------------------------------------
+TITLE: Fwd: Online Course on AI and Data for Effective Research and Communication in Environment, Science and Development | 30 June-14 July [2]
+SOURCE: JCU Sci Policy
+
+The Global Online Certificate Course on AI and Data for Effective Research and Communication in Environment, Science, and Development will take place from June 30 to July 14, 2026. This course aims to enhance professionals' ability to use AI and data for research, processing information, and effectively communicating complex issues in areas like environmental and developmental challenges.
+------------------------------------------------------------
+TITLE: First Lady Melania Trump Honors America's Next ... [6]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data or open science policy emphasizes using artificial intelligence to personalize education and boost economic growth.
+------------------------------------------------------------
+TITLE: DOE Requirements and Guidance for Digital Research ... [11]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data or open science policy emphasizes the importance of sharing and preserving data to ensure the integrity of scientific research, facilitate validation and replication of results, and advance scientific knowledge. This policy aims to promote transparency, collaboration, and innovation in research by making data openly accessible to the scientific community.
+------------------------------------------------------------
+TITLE: NIH Data Sharing and Reuse Seminar Series [3]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data and open science policy is demonstrated through a monthly seminar series showcasing researchers who creatively reuse existing data to generate new insights.
+------------------------------------------------------------
+TITLE: The NIH Public Access Policy and Open Access Publishing [9]
+SOURCE: SERPAPI Google Search
+
+not an open access mandate, allowing researchers to publish in non-open access journals.
+------------------------------------------------------------
+TITLE: Open Research and Open Access - Research support [4]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data or open science policy involves making the entire research process transparent and open, including making research outputs freely accessible.
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. Guest Post — Fixing the Leaky Metadata Pipeline: A Conversation with the Creator of Research Nexus Score — https://scholarlykitchen.sspnet.org/2026/06/11/guest-post-fixing-the-leaky-metadata-pipeline-a-conversation-with-the-creator-of-research-nexus-score/
+2. Fwd: Online Course on AI and Data for Effective Research and Communication in Environment, Science and Development | 30 June-14 July — http://cssp-jnu.blogspot.com/2026/06/fwd-online-course-on-ai-and-data-for.html
+3. NIH Data Sharing and Reuse Seminar Series — https://datascience.nih.gov/nih-data-sharing-and-reuse-seminar-series
+4. Open Research and Open Access - Research support — https://libguides.tees.ac.uk/researchers/OA
+5. Ask the Community: Takeaways from SSP 2026 — https://scholarlykitchen.sspnet.org/2026/06/12/ask-the-community-takeaways-from-ssp-2026/
+6. First Lady Melania Trump Honors America's Next ... — https://www.whitehouse.gov/briefings-statements/2026/06/first-lady-melania-trump-honors-americas-next-generation-of-top-ai-talent-at-historic-presidential-ai-challenge-awards-ceremony/
+7. Building Scholar-Ready AI: A Conversation with Todd Toler — https://scholarlykitchen.sspnet.org/2026/06/10/building-scholar-ready-ai/
+8. Guest Post — Trust & Community Are the Moat, Infrastructure is Your Leverage: Dispatches from PurePub.AI — https://scholarlykitchen.sspnet.org/2026/06/09/guest-post-trust-community-are-the-moat-infrastructure-is-your-leverage-dispatches-from-purepub-ai/
+9. The NIH Public Access Policy and Open Access Publishing — https://libguides.massgeneral.org/apcs
+10. Guest Post — Advancing Federated Identity in the Library Ecosystem — https://scholarlykitchen.sspnet.org/2026/06/08/guest-post-advancing-federated-identity-in-the-library-ecosystem/
+11. DOE Requirements and Guidance for Digital Research ... — https://www.energy.gov/datamanagement/doe-requirements-and-guidance-digital-research-data-management
+
+============================================================
+RUNTIME: 43.03 s
+ESTIMATED TOKENS: 1442
+ESTIMATED COST (USD): $0.022
+============================================================
