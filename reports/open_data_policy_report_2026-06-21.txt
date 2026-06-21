@@ -1,0 +1,118 @@
+OPEN DATA / SCIENCE POLICY MONITOR REPORT
+Generated on June 21, 2026
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. Higher expectations for robust citation and attribution in AI systems are emphasized for usage, credit, and trust. [1] [2]
+
+2. Academic freedom was supported in Germany by rejecting a mandatory article deposit requirement to uphold scientific integrity. [3] [4]
+
+3. There is a call to resist US government plans to reform federal research grants, posing implications for scholarly societies. [5] [2] [1] [6] [7] [8]
+
+4. The Department of Energy has a plan to increase accessibility of research and digital data funded by the agency to the public. [9] [9] [6] [10] [8] [7]
+
+5. Open data or open science policy in the U.S. allows researchers to access de-identified data in adherence to applicable laws and regulations. [11] [12] [6] [8] [13] [14]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: Attribution, Provenance, Reference, Citation, and AI for Research Applications – Understanding the Differences [1]
+SOURCE: The Scholarly Kitchen
+
+Robust citation and attribution in AI systems are crucial for usage, credit, and trust, highlighting the need for higher expectations from AI technology.
+------------------------------------------------------------
+TITLE: Academic Freedom for the Win; Open Access Mandate in Germany Declared Unconstitutional [3]
+SOURCE: The Scholarly Kitchen
+
+specifically rejecting a mandatory article deposit requirement linked to the secondary publication right. This decision is seen as a victory for academic freedom and is believed to prevent the negative impact on the integrity of scientific records.
+------------------------------------------------------------
+TITLE: Guest Post — The US Government’s New Guidance for Federal Grants and The Case for Scholarly Societies [5]
+SOURCE: The Scholarly Kitchen
+
+There is a call to action for the SSP community to resist the US government's plans to reform federal research grants. This reform may have significant implications for scholarly societies.
+------------------------------------------------------------
+TITLE: CfAs: DIIKSHA Fellowships and Research Grants 2026 [2]
+SOURCE: JCU Sci Policy
+
+The DIIKSHA Fellowships and Research Grants program aims to nurture scholars and civilizational leaders by supporting high-impact research at the interface of Indian Knowledge Systems (IKS) and Contemporary Knowledge Systems (CKS) through Doctoral and Post-Doctoral Fellowships, as well as Research Grants.
+------------------------------------------------------------
+TITLE: CfPs: Workshop on Mind, Medicine, and Modernity: Explorations at the Intersections of Spiritual and Scientific Knowledge [4]
+SOURCE: JCU Sci Policy
+
+and Modernity will be held on 26-27 September 2026 in Kolkata, India, organized by SHSS, TCG-CREST. It aims to bring together scholars in psychology, medicine, and anthropology to explore the intersections of science and religion in these fields, with a focus on collaborative research for a joint publication.
+------------------------------------------------------------
+TITLE: DOE Public Access Plan [9]
+SOURCE: SERPAPI Google Search
+
+The Department of Energy has outlined a plan to increase the accessibility of research and digital data funded by the agency, making it more open to the public.
+------------------------------------------------------------
+TITLE: CRDC Insights - Cancer Research Data Commons [6]
+SOURCE: SERPAPI Google Search
+
+and researchers are expected to include data management plans in grant applications. This policy aims to promote open science practices and increase the transparency and reproducibility of research funded by the NIH.
+------------------------------------------------------------
+TITLE: Data and Privacy [11]
+SOURCE: SERPAPI Google Search
+
+Researchers are only able to access de-identified data in the U.S. open data or open science policy, which adheres to all applicable laws and regulations at the federal, state, and local levels.
+------------------------------------------------------------
+TITLE: When Public Data Disappears, Community Power Shrinks [10]
+SOURCE: SERPAPI Google Search
+
+The Environmental Data and Governance Initiative reported a significant increase in changes to federal websites in the first 100 days of 2025, with a 70 percent rise compared to previous periods.
+------------------------------------------------------------
+TITLE: LibGuides: Open Access: Open Data/Open Science [12]
+SOURCE: SERPAPI Google Search
+
+The White House created Project Open Data as a resource to assist agencies in implementing the Open Data Policy and enabling the sharing of data.
+------------------------------------------------------------
+TITLE: Open Access and Scholarship at Duke Libraries [13]
+SOURCE: SERPAPI Google Search
+
+Open access refers to freely sharing scholarly research outputs online without paywall barriers, including articles, books, and data.
+------------------------------------------------------------
+TITLE: It Just Ain't Right: Why Open Access Mandates Without ... [14]
+SOURCE: SERPAPI Google Search
+
+The text discusses the importance of the obligation for researchers to publish their work in open access repositories to ensure easier and more equitable access to information.
+------------------------------------------------------------
+TITLE: NIH Data Management & Sharing Plans [7]
+SOURCE: SERPAPI Google Search
+
+The National Institutes of Health (NIH) offers guidance and addresses frequently asked questions regarding budgeting for data sharing. This includes information on budgeting for data management in research projects.
+------------------------------------------------------------
+TITLE: About the 2022 OSTP Memo - Open Research and Scholarship [8]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data or open science policy aims to ensure free and immediate access to federally funded research, without any embargo, across all federal agencies.
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. Attribution, Provenance, Reference, Citation, and AI for Research Applications – Understanding the Differences — https://scholarlykitchen.sspnet.org/2026/06/17/attribution-provenance-reference-citation-and-ai-for-research-applications-understanding-the-differences/
+2. CfAs: DIIKSHA Fellowships and Research Grants 2026 — http://cssp-jnu.blogspot.com/2026/06/cfas-diiksha-fellowships-and-research.html
+3. Academic Freedom for the Win; Open Access Mandate in Germany Declared Unconstitutional — https://scholarlykitchen.sspnet.org/2026/06/16/academic-freedom-for-the-win-open-access-mandate-in-germany-declared-unconstitutional/
+4. CfPs: Workshop on Mind, Medicine, and Modernity: Explorations at the Intersections of Spiritual and Scientific Knowledge — http://cssp-jnu.blogspot.com/2026/06/cfps-workshop-on-mind-medicine-and.html
+5. Guest Post — The US Government’s New Guidance for Federal Grants and The Case for Scholarly Societies — https://scholarlykitchen.sspnet.org/2026/06/15/guest-post-the-us-governments-new-guidance-for-federal-grants-and-the-case-for-scholarly-societies/
+6. CRDC Insights - Cancer Research Data Commons — https://datacommons.cancer.gov/crdc-insights
+7. NIH Data Management & Sharing Plans — https://www.lib.uiowa.edu/data/plans/nih_dmsp/
+8. About the 2022 OSTP Memo - Open Research and Scholarship — https://guides.lib.umich.edu/open-research-and-scholarship/OSTP-memo
+9. DOE Public Access Plan — https://www.energy.gov/doe-public-access-plan
+10. When Public Data Disappears, Community Power Shrinks — https://cnt.org/stories/when-public-data-disappears-community-power-shrinks
+11. Data and Privacy — https://www.nih.gov/allofus/data-and-privacy
+12. LibGuides: Open Access: Open Data/Open Science — https://libguides.asu.edu/openaccess/opendata-science
+13. Open Access and Scholarship at Duke Libraries — https://guides.library.duke.edu/open-scholarship/oa-initiatives
+14. It Just Ain't Right: Why Open Access Mandates Without ... — https://knowledgerights21.org/news-story/oa-mandates-without-spr-recipe-for-unfairness/
+
+============================================================
+RUNTIME: 48.02 s
+ESTIMATED TOKENS: 1584
+ESTIMATED COST (USD): $0.023
+============================================================
