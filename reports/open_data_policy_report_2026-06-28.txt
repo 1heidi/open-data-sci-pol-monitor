@@ -1,0 +1,154 @@
+OPEN DATA / SCIENCE POLICY MONITOR REPORT
+Generated on June 28, 2026
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. A workshop in Cambridge introduced new standards for enhancing AI tool provenance, attribution, and metrics in scholarly communications. [1] [2] [3] [4] [5] [6]
+
+2. AI is viewed as legitimate but not universally loved within academia, particularly among academic librarians. [4] [7]
+
+3. President Trump's policies are credited with reducing rents by securing the border and prioritizing American families. [8] [9] [6] [10] [11]
+
+4. U.S. open data and open science policies aim to advance regenerative agriculture and strengthen farm resilience. [9] [12] [13] [7] [14] [6]
+
+5. Organizations offering open research infrastructure receive support from various funding sources, including federal grants and universities. [15] [16] [17] [18] [19] [20]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: Guest Post — Milestones that Matter: Celebrating a Wartime SSP Presidential Term [3]
+SOURCE: The Scholarly Kitchen
+
+gave a talk celebrating milestones in open data and open science policy at the SSP Annual Meeting.
+------------------------------------------------------------
+TITLE: Making AI Use of Scholarly Content Traceable, Measurable, and Trustworthy: A Meeting Report from Cambridge Scholarly AI Workshop [1]
+SOURCE: The Scholarly Kitchen
+
+A workshop in Cambridge introduced new standard work aimed at enhancing provenance, attribution, and metrics for AI tools utilized in scholarly communications.
+------------------------------------------------------------
+TITLE: Frenemies: A Tale of Scholarly Publishing Marketing [2]
+SOURCE: The Scholarly Kitchen
+
+The text discusses the delicate balance between collaboration and competition among scholarly publishing professionals, highlighting how industry players manage complex dynamics as "frenemies."
+------------------------------------------------------------
+TITLE: Guest Post — Legitimate but Not Loved: What Academic Librarians Think About AI [4]
+SOURCE: The Scholarly Kitchen
+
+AI is considered legitimate but not universally loved within academia, indicating potential challenges in its adoption and governance, particularly among academic librarians.
+------------------------------------------------------------
+TITLE: A Platform Comes Apart: Part 1 [5]
+SOURCE: The Scholarly Kitchen
+
+The text discusses the implications of AI agents as users on scholarly content platforms, highlighting the potential changes and challenges that may arise.
+------------------------------------------------------------
+TITLE: President Trump Drives Down Rents by Ending Open ... [8]
+SOURCE: SERPAPI Google Search
+
+President Trump's policies have led to lower rents as a result of securing the border, enforcing the law, and prioritizing American families.
+------------------------------------------------------------
+TITLE: Advancing Regenerative Agriculture and Strengthening ... [9]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data or open science policy aims to advance regenerative agriculture and strengthen American farm resilience by implementing practices that enhance soil health, reduce input costs, improve chemical efficiency, maintain yields, and increase farm profitability.
+------------------------------------------------------------
+TITLE: Proposed Revision of Information Collection; BLS Data ... [13]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data or open science policy aims to provide requested data in the desired format while minimizing the reporting burden in terms of time and financial resources.
+------------------------------------------------------------
+TITLE: Open Access: Publishing Support - Guides [17]
+SOURCE: SERPAPI Google Search
+
+Articles published open access in a hybrid journal after January 1, 2026 can qualify for credits at UMB, which has 96 credits available for Wiley journals for the calendar year.
+------------------------------------------------------------
+TITLE: Funding mandates requiring Open Access compliance [16]
+SOURCE: SERPAPI Google Search
+
+The ARC's Open Access Policy outlines the requirements for making research outputs from ARC-funded research openly accessible. This policy applies to all published research resulting from ARC grants.
+------------------------------------------------------------
+TITLE: FAIR Data Training Resources | ARDC [7]
+SOURCE: SERPAPI Google Search
+
+research data managers, data librarians, and IT professionals. These resources aim to promote open science and improve data sharing practices.
+------------------------------------------------------------
+TITLE: SPM4.0 - WS217.04.2026 - The FAIR data principles [14]
+SOURCE: SERPAPI Google Search
+
+The text provided is not related to U.S. open data or open science policy.
+------------------------------------------------------------
+TITLE: The FAIR and CARE principles [6]
+SOURCE: SERPAPI Google Search
+
+The FAIR principles are a set of guidelines focused on enhancing the Findability, Accessibility, Interoperability, and Reuse of research data within open science and data policies in the U.S.
+------------------------------------------------------------
+TITLE: Who Will Keep Research Data Infrastructure Open and ... [15]
+SOURCE: SERPAPI Google Search
+
+Organizations that offer open research infrastructure are supported by various funding sources, including universities, research institutes, libraries, and federal grants.
+------------------------------------------------------------
+TITLE: Mapping the Impact of Research Infrastructure [18]
+SOURCE: SERPAPI Google Search
+
+A new online mapping tool showcases the interconnectedness and wide-ranging advantages of utilizing a distinct set of research facilities.
+------------------------------------------------------------
+TITLE: Open Science Europe: overview [12]
+SOURCE: SERPAPI Google Search
+
+The European Open Science Cloud (EOSC) is established to facilitate access and reuse of research data resulting from publicly funded research, in line with the European Commission's objectives.
+------------------------------------------------------------
+TITLE: The OSTP Nelson Memo Deadline: Free Federal Research [19]
+SOURCE: SERPAPI Google Search
+
+The 2022 OSTP Nelson memo mandated that US federal agencies provide free access to funded publications and supporting data by 2025.
+------------------------------------------------------------
+TITLE: 🚨 Scientific research in the U.S. is at stake. A proposed rule ... [10]
+SOURCE: SERPAPI Google Search
+
+issued a memorandum to federal departments and agencies urging them to update their public access policies for scientific research in the U.S.
+------------------------------------------------------------
+TITLE: Brianne Dosch (@BRDosch) / Posts / X [11]
+SOURCE: SERPAPI Google Search
+
+Congress has directed the OSTP to provide accurate cost estimates for open data and open science policies within a specified timeframe of just over 3 months. The OSTP Nelson Memo is not being defunded despite this requirement.
+------------------------------------------------------------
+TITLE: Grants & Contracts Accounting [20]
+SOURCE: SERPAPI Google Search
+
+The Grants and Contracts Accounting (GCA) office in the U.S. is responsible for handling invoicing, financial reporting, cash receipting, and audit coordination for all sponsored funding. This centralizes the management of these financial aspects across different funding sources.
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. Making AI Use of Scholarly Content Traceable, Measurable, and Trustworthy: A Meeting Report from Cambridge Scholarly AI Workshop — https://scholarlykitchen.sspnet.org/2026/06/25/making-ai-use-of-scholarly-content-traceable-measurable-and-trustworthy-a-meeting-report-from-cambridge-scholarly-ai-workshop/
+2. Frenemies: A Tale of Scholarly Publishing Marketing — https://scholarlykitchen.sspnet.org/2026/06/24/frenemies-a-tale-of-scholarly-publishing-marketing/
+3. Guest Post — Milestones that Matter: Celebrating a Wartime SSP Presidential Term — https://scholarlykitchen.sspnet.org/2026/06/26/guest-post-milestones-that-matter-celebrating-a-wartime-ssp-presidential-term/
+4. Guest Post — Legitimate but Not Loved: What Academic Librarians Think About AI — https://scholarlykitchen.sspnet.org/2026/06/23/guest-post-legitimate-but-not-loved-what-academic-librarians-think-about-ai/
+5. A Platform Comes Apart: Part 1 — https://scholarlykitchen.sspnet.org/2026/06/22/a-platform-comes-apart-part-1/
+6. The FAIR and CARE principles — https://www.lnu.se/en/meet-linnaeus-university/current/events/2026/2026-10-05-the-fair-and-care-principles/
+7. FAIR Data Training Resources | ARDC — https://ardc.edu.au/resource/fair-data-training-resources/
+8. President Trump Drives Down Rents by Ending Open ... — https://www.whitehouse.gov/releases/2026/06/president-trump-drives-down-rents-by-ending-open-borders-disaster/
+9. Advancing Regenerative Agriculture and Strengthening ... — https://www.whitehouse.gov/presidential-actions/2026/06/advancing-regenerative-agriculture-and-strengthening-american-farm-resilience/
+10. 🚨 Scientific research in the U.S. is at stake. A proposed rule ... — https://www.facebook.com/FASEB.org/posts/-scientific-research-in-the-us-is-at-stakea-proposed-rule-from-omb-could-have-se/1414246800734347/
+11. Brianne Dosch (@BRDosch) / Posts / X — https://x.com/brdosch?lang=bn
+12. Open Science Europe: overview — https://www.openaire.eu/open-science-europe-overview
+13. Proposed Revision of Information Collection; BLS Data ... — https://www.federalregister.gov/documents/2026/06/22/2026-12428/proposed-revision-of-information-collection-bls-data-sharing-program
+14. SPM4.0 - WS217.04.2026 - The FAIR data principles — https://www.youtube.com/watch?v=J3GqV3-uO2E
+15. Who Will Keep Research Data Infrastructure Open and ... — https://issues.org/open-data-research-%20infrastructure-gibson-thaney/
+16. Funding mandates requiring Open Access compliance — https://libguides.mq.edu.au/open_access/funding_mandates
+17. Open Access: Publishing Support - Guides — https://guides.hshsl.umaryland.edu/openaccess/publishing-support
+18. Mapping the Impact of Research Infrastructure — https://www.energy.gov/science/articles/mapping-impact-research-infrastructure
+19. The OSTP Nelson Memo Deadline: Free Federal Research — https://casrai.org/news/ostp-nelson-memo-deadline-2025/
+20. Grants & Contracts Accounting — http://www.ou.edu/grants-and-contracts-accounting.html
+
+============================================================
+RUNTIME: 67.78 s
+ESTIMATED TOKENS: 1789
+ESTIMATED COST (USD): $0.0249
+============================================================
