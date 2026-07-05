@@ -1,0 +1,136 @@
+OPEN DATA / SCIENCE POLICY MONITOR REPORT
+Generated on July 05, 2026
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. Social media plays a key role in scholarly communications, offering valuable insights into community engagement. [1] [2] [3] [4] [5] [6]
+
+2. The YCR-index suggests a more holistic approach to measuring scientific impact beyond raw citation counts. [5] [4] [7] [8] [9] [10]
+
+3. Embracing AI in peer review requires clear policies to guide scholars effectively and ensure confidence in its use. [2] [3] [11] [12] [13] [14]
+
+4. Effective AI governance in research must begin with a clear purpose to shape its use within scholarly communication. [3] [14] [15] [1] [2] [14]
+
+5. The conflict between universal mandates and contextual realities in global open science underscores the need for balanced implementation of FAIR data principles. [13] [16] [17] [11] [6] [4]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: Social Media in Scholarly Communications — SSP Pulse Check Report [1]
+SOURCE: The Scholarly Kitchen
+
+The latest Pulse Check survey by SSP provides an overview of the current status of social media in scholarly publishing. This survey offers a snapshot of the community's engagement with social media within scholarly communications.
+------------------------------------------------------------
+TITLE: Guest Post — Beyond the Prestige: Why Scientific Impact is More Than a Numbers Game [5]
+SOURCE: The Scholarly Kitchen
+
+The YCR-index is proposed as an alternative method to measure the value of scientific impact rather than relying solely on raw citation counts. This approach suggests that scientific impact goes beyond numbers and prestige.
+------------------------------------------------------------
+TITLE: Guest Post — Now is the Time for AI in Peer Review, and Publishing Policies Need to Recognize This [2]
+SOURCE: The Scholarly Kitchen
+
+There is a call to acknowledge the significance of AI in peer review processes and to establish clear policies to guide scholars in utilizing AI effectively and confidently. The post emphasizes the need for publishing policies to adapt and recognize the growing role of AI in peer review.
+------------------------------------------------------------
+TITLE: Before the Guardrails: Why AI Governance in Research Must Start with Purpose [3]
+SOURCE: The Scholarly Kitchen
+
+The future of scholarly communication will depend on the research community's ability to define the purpose of AI capabilities and govern them effectively. It is essential to ensure that AI governance in research starts with a clear purpose to guide its use.
+------------------------------------------------------------
+TITLE: June 2026: Publications in the Data Science Journal [13]
+SOURCE: CODATA Blog
+
+A scoping review of ethical tensions and power asymmetries in global open science was conducted, highlighting the conflict between universal mandates and contextual realities. Another publication discussed the implementation of FAIR data principles in a software suite called FAIRSave to support fully digital, data-driven studies in materials science.
+------------------------------------------------------------
+TITLE: Science Diplomacy (Vol. 9(4), Apr-Jun 2026) is released [6]
+SOURCE: JCU Sci Policy
+
+The text discusses the importance of U.S. open data and open science policy, highlighting the role of CSIR-NIScPR in promoting these initiatives.
+------------------------------------------------------------
+TITLE: Press invitation - UNESCO convenes scientific community for global conference on science for sustainable development [4]
+SOURCE: JCU Sci Policy
+
+UNESCO will host a global conference on science for sustainable development from July 15 to 17, 2026, at its headquarters in Paris. The event will bring together ministers, scientists, the private sector, and civil society to discuss the International Decade of Sciences for Sustainable Development.
+------------------------------------------------------------
+TITLE: UNESCO PRESS - Agenda : UNESCO highlights from July to September 2026 [9]
+SOURCE: JCU Sci Policy
+
+UNESCO highlights a Global Dialogue on AI Governance event taking place in July 2026 in Switzerland, focusing on international cooperation, transparency, and inclusivity in discussing artificial intelligence governance. The event will include the presentation of a preliminary report by the Independent International Scientific Panel on Artificial Intelligence.
+------------------------------------------------------------
+TITLE: 250th Anniversary of the Adoption of the Declaration ... [10]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data or open science policy celebrates American achievements in various scientific fields, highlighting advancements such as curing once-thought incurable diseases and unraveling the mysteries of life.
+------------------------------------------------------------
+TITLE: DOE Requirements and Guidance for Digital Research ... [14]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data or open science policy requires research projects to outline a plan in the Digital Data Management Plan (DMSP) detailing how the data will be publicly shared and preserved in a timely and fair manner.
+------------------------------------------------------------
+TITLE: Open Data, Services, and Software Policies [11]
+SOURCE: SERPAPI Google Search
+
+NASA's Earth Science Data Systems (ESDS) Program emphasizes the importance of sharing all data, metadata, documentation, models, images, research results, and source code openly.
+------------------------------------------------------------
+TITLE: HOW FAIR DATA ARE HELPING TO BUILD TRUST IN ... [17]
+SOURCE: SERPAPI Google Search
+
+principles were established for open data and open science policy, emphasizing that data should be findable, accessible, interoperable, and reusable (FAIR).
+------------------------------------------------------------
+TITLE: FAIR Data Principles Fuel AI Revolution in Science [16]
+SOURCE: SERPAPI Google Search
+
+which aims to make data findable, accessible, interoperable, and reusable for scientists.
+------------------------------------------------------------
+TITLE: Mapping the Impact of Research Infrastructure [7]
+SOURCE: SERPAPI Google Search
+
+A new online mapping tool highlights the interconnectedness and wide-ranging benefits of using a collection of research centers in the United States.
+------------------------------------------------------------
+TITLE: The Cost of Cutting Funding to US Scientific Research [8]
+SOURCE: SERPAPI Google Search
+
+cuts to federal science agencies do not save money and instead lead to lower economic growth and shift costs onto communities.
+------------------------------------------------------------
+TITLE: ACPEN: Indirect Cost Rates 2026: What Nonprofits Must ... [15]
+SOURCE: SERPAPI Google Search
+
+Indirect costs are crucial for achieving full cost recovery on grants and cooperative agreements, with indirect rates serving as a tool for this purpose. It is important for nonprofits to understand and properly manage indirect costs to build NICRA-proof proposals.
+------------------------------------------------------------
+TITLE: Open Access Guide: OA, APCs, and Fees - Research Guides [12]
+SOURCE: SERPAPI Google Search
+
+Publishers provide researchers with the opportunity to publish their work under an open license, often requiring payment of an article processing charge (APC).
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. Social Media in Scholarly Communications — SSP Pulse Check Report — https://scholarlykitchen.sspnet.org/2026/07/02/social-media-in-scholarly-communications-ssp-pulse-check-report/
+2. Guest Post — Now is the Time for AI in Peer Review, and Publishing Policies Need to Recognize This — https://scholarlykitchen.sspnet.org/2026/06/30/guest-post-now-is-the-time-for-ai-in-peer-review-and-publishing-policies-need-to-recognize-this/
+3. Before the Guardrails: Why AI Governance in Research Must Start with Purpose — https://scholarlykitchen.sspnet.org/2026/06/29/before-the-guardrails-why-ai-governance-in-research-must-start-with-purpose/
+4. Press invitation - UNESCO convenes scientific community for global conference on science for sustainable development — http://cssp-jnu.blogspot.com/2026/07/press-invitation-unesco-convenes.html
+5. Guest Post — Beyond the Prestige: Why Scientific Impact is More Than a Numbers Game — https://scholarlykitchen.sspnet.org/2026/07/01/guest-post-beyond-the-prestige-why-scientific-impact-is-more-than-a-numbers-game/
+6. Science Diplomacy (Vol. 9(4), Apr-Jun 2026) is released — http://cssp-jnu.blogspot.com/2026/07/science-diplomacy-vol-94-apr-jun-2026.html
+7. Mapping the Impact of Research Infrastructure — https://www.energy.gov/science/articles/mapping-impact-research-infrastructure
+8. The Cost of Cutting Funding to US Scientific Research — https://www.ladysmithnews.com/online_features/community_cares/article_2dc0bb91-6e8a-5050-80e5-110636b47b43.html
+9. UNESCO PRESS - Agenda : UNESCO highlights from July to September 2026 — http://cssp-jnu.blogspot.com/2026/06/unesco-press-agenda-unesco-highlights.html
+10. 250th Anniversary of the Adoption of the Declaration ... — https://www.whitehouse.gov/presidential-actions/2026/07/250th-anniversary-of-the-adoption-of-the-declaration-of-independence/
+11. Open Data, Services, and Software Policies — https://www.earthdata.nasa.gov/engage/open-data-services-software-policies
+12. Open Access Guide: OA, APCs, and Fees - Research Guides — https://libguides.unm.edu/openaccess/OAfees
+13. June 2026: Publications in the Data Science Journal — https://codata.org/blog/2026/07/01/june-2026-publications-in-the-data-science-journal/
+14. DOE Requirements and Guidance for Digital Research ... — https://www.energy.gov/datamanagement/doe-requirements-and-guidance-digital-research-data-management
+15. ACPEN: Indirect Cost Rates 2026: What Nonprofits Must ... — https://www.ficpa.org/cpe/601810imp:acpen-indirect-cost-rates-2026-what-nonprofits-must-know-to-build-nicra-proof-proposals
+16. FAIR Data Principles Fuel AI Revolution in Science — https://www.linkedin.com/posts/eliu-huerta-72a84165_fair-for-ai-an-interdisciplinary-and-international-activity-7478552643674468352-vAxb
+17. HOW FAIR DATA ARE HELPING TO BUILD TRUST IN ... — https://media.nature.com/original/magazine-assets/d41586-026-01982-y/d41586-026-01982-y.pdf
+
+============================================================
+RUNTIME: 75.19 s
+ESTIMATED TOKENS: 2134
+ESTIMATED COST (USD): $0.0284
+============================================================
