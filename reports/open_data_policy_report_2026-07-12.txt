@@ -1,0 +1,118 @@
+OPEN DATA / SCIENCE POLICY MONITOR REPORT
+Generated on July 12, 2026
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. The OMB proposed revision to U.S. open data and open science policy poses a threat to research across various fields. [1] [2] [3] [4] [5] [6]
+
+2. The Association of Research Libraries (ARL) opposes the OMB revisions to the Uniform Guidance for U.S. federal grants. [7] [8] [1] [9] [10] [11]
+
+3. Society publishing leaders are concerned about the potential impact of the proposed OMB rule change for federal research funding. [10] [9] [7] [1] [12] [6]
+
+4. Organizations are actively responding to proposed changes in how US federal research grant funds can be utilized. [9] [7] [10] [1] [6] [11]
+
+5. U.S. open science policy requires sharing scientific data supporting publications, unless legal restrictions or confidentiality requirements apply. [2] [4] [5] [1] [13] [14]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: The OMB Guidance Revision Threatens All Research [1]
+SOURCE: The Scholarly Kitchen
+
+The OMB proposed revision to U.S. open data or open science policy poses a threat to all research fields, including humanities and STEM. This revision is a matter of concern for researchers across different disciplines.
+------------------------------------------------------------
+TITLE: Guest Post — Why Research Libraries Oppose the OMB Revisions to the Uniform Guidance [7]
+SOURCE: The Scholarly Kitchen
+
+The Association of Research Libraries (ARL) is opposed to the proposed rule changes for U.S. federal grants. They are responding to the OMB revisions to the Uniform Guidance.
+------------------------------------------------------------
+TITLE: Guest Post — Where Do We Go From Here? How Scientific Societies are Thinking about the Proposed OMB Funding Rule [10]
+SOURCE: The Scholarly Kitchen
+
+The text discusses how society publishing leaders are responding to the proposed OMB rule change for federal research funding, highlighting their concerns and perspectives on the potential impact of the policy shift.
+------------------------------------------------------------
+TITLE: Ask the Chefs: How Are You Responding to the OMB Proposed Rule Changes for US Research Funding? [9]
+SOURCE: The Scholarly Kitchen
+
+The text discusses how organizations are responding to proposed changes in how US federal research grant funds can be utilized.
+------------------------------------------------------------
+TITLE: The Emotional Rollercoaster of Scholarly Publishing [12]
+SOURCE: The Scholarly Kitchen
+
+and editors in scholarly publishing, highlighting the impact of emotions on their experiences throughout the scholarly communications process.
+------------------------------------------------------------
+TITLE: Betalingsinformasjon må oppdateres Tue, 07 Jul 2026 06:50:05 +0000 [13]
+SOURCE: JCU Sci Policy
+
+The text does not provide information about U.S. open data or open science policy.
+------------------------------------------------------------
+TITLE: 10-Day Research Methodology Course on Conceptual Foundations of Qualitative Research in Critical Health Studies in the Digital Era | 1-10 September, JNU [11]
+SOURCE: JCU Sci Policy
+
+The ten-day Research Methodology Course focuses on strengthening qualitative research capacity in the social sciences, with an interdisciplinary approach towards Critical Health Studies in the Digital Era. The course aims to provide scholars with conceptual clarity, practical skills, and exposure to various qualitative research approaches and tools to enhance their research abilities in the field of health studies.
+------------------------------------------------------------
+TITLE: Viktig: Kontoen din trenger umiddelbar oppmerksomhet [14]
+SOURCE: JCU Sci Policy
+
+The text is not about U.S. open data or open science policy.
+------------------------------------------------------------
+TITLE: Open Science [2]
+SOURCE: SERPAPI Google Search
+
+The U.S. open science policy requires that scientific data supporting publications be shared, unless there are legal restrictions, confidentiality requirements, or data use agreements in place.
+------------------------------------------------------------
+TITLE: DataLinkCT (formerly P20 WIN) Data Governance [3]
+SOURCE: SERPAPI Google Search
+
+previously known as P20 WIN, enables the sharing and linking of data across various state agencies for research and policy analysis purposes.
+------------------------------------------------------------
+TITLE: Data governance framework [4]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data or open science policy framework offers a set of data governance principles that agencies can customize to their requirements, featuring a detailed checklist of governance practices. This framework is designed to provide a foundation for effective data management within government organizations.
+------------------------------------------------------------
+TITLE: From Access to AI-Readiness: The Evolving Role of ... [5]
+SOURCE: SERPAPI Google Search
+
+introduced in 2016, have influenced expectations for the management, sharing, and reuse of research data in the U.S. open data and open science policy. These principles emphasize making data Findable, Accessible, Interoperable, and Reusable.
+------------------------------------------------------------
+TITLE: Uniform Guidance FAQ: Subscription and Publication Costs [8]
+SOURCE: SERPAPI Google Search
+
+The 2022 OSTP Nelson Memo mandates immediate, free public access to federally funded research, but does not override existing agency-specific policies.
+------------------------------------------------------------
+TITLE: Three days left to act! A proposed regulation from the Office ... [6]
+SOURCE: SERPAPI Google Search
+
+Dr. Alondra Nelson from OSTP issued guidance to federal departments and agencies regarding the update of their public access policies for open data or open science.
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. The OMB Guidance Revision Threatens All Research — https://scholarlykitchen.sspnet.org/2026/07/10/the-omb-guidance-revision-threatens-all-research/
+2. Open Science — https://www.census.gov/topics/research/research-transparency-public-access/open-science.html
+3. DataLinkCT (formerly P20 WIN) Data Governance — https://portal.ct.gov/datapolicy/datalinkct/datalinkct-data-governance
+4. Data governance framework — https://www.finance.gov.au/government/public-data/public-data-policy/data-governance-framework
+5. From Access to AI-Readiness: The Evolving Role of ... — https://libereurope.eu/article/from-access-to-ai-readiness/
+6. Three days left to act! A proposed regulation from the Office ... — https://www.facebook.com/AmericanChemicalSociety/posts/three-days-left-to-act-a-proposed-regulation-from-the-office-of-management-and-b/1512540007581923/
+7. Guest Post — Why Research Libraries Oppose the OMB Revisions to the Uniform Guidance — https://scholarlykitchen.sspnet.org/2026/07/09/guest-post-why-research-libraries-oppose-the-omb-revisions-to-the-uniform-guidance/
+8. Uniform Guidance FAQ: Subscription and Publication Costs — https://attainpartners.com/blog/uniform-guidance-publication-periodical-costs-faq/
+9. Ask the Chefs: How Are You Responding to the OMB Proposed Rule Changes for US Research Funding? — https://scholarlykitchen.sspnet.org/2026/07/07/ask-the-chefs-how-are-you-responding-to-the-omb-proposed-rule-changes-for-us-research-funding/
+10. Guest Post — Where Do We Go From Here? How Scientific Societies are Thinking about the Proposed OMB Funding Rule — https://scholarlykitchen.sspnet.org/2026/07/08/guest-post-where-do-we-go-from-here-how-scientific-societies-are-thinking-about-the-proposed-omb-funding-rule/
+11. 10-Day Research Methodology Course on Conceptual Foundations of Qualitative Research in Critical Health Studies in the Digital Era | 1-10 September, JNU — http://cssp-jnu.blogspot.com/2026/07/10-day-research-methodology-course-on.html
+12. The Emotional Rollercoaster of Scholarly Publishing — https://scholarlykitchen.sspnet.org/2026/07/06/the-emotional-rollercoaster-of-scholarly-publishing/
+13. Betalingsinformasjon må oppdateres Tue, 07 Jul 2026 06:50:05 +0000 — http://cssp-jnu.blogspot.com/2026/07/betalingsinformasjon-ma-oppdateres-tue.html
+14. Viktig: Kontoen din trenger umiddelbar oppmerksomhet — http://cssp-jnu.blogspot.com/2026/07/viktig-kontoen-din-trenger-umiddelbar_02125022369.html
+
+============================================================
+RUNTIME: 59.03 s
+ESTIMATED TOKENS: 1837
+ESTIMATED COST (USD): $0.0255
+============================================================
