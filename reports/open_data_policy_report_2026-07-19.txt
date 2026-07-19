@@ -1,0 +1,130 @@
+OPEN DATA / SCIENCE POLICY MONITOR REPORT
+Generated on July 19, 2026
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. Open Science 2.0 emphasizes trust and effective communication in scholarly publishing. [1] [2] [3] [4] [5] [6]
+
+2. Slow scholarly publishing is championed for its value beyond being the first to publish research. [5] [1] [7] [3] [8] [2]
+
+3. The necessity for a shared standard for AI disclosure in research is highlighted. [7] [9] [9] [10] [4] [5]
+
+4. A call is made for a strategic leadership program focusing on humanistic leadership in an AI-driven world. [11] [12] [1] [7] [13] [14]
+
+5. Developing countries face persistent science divides that could hinder their progress in sustainable development. [6] [4] [1] [12] [15] [16]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: The Latest Merger: Annual Reviews Acquires Underline Science [4]
+SOURCE: The Scholarly Kitchen
+
+contributing to their steady growth trajectory in the field. Richard Gallagher shared insights into this latest merger.
+------------------------------------------------------------
+TITLE: Guest Post — From Parasitism to Symbiosis: Escaping Peer-Pressure and For-Profit Publishers Through Diamond Open Access [2]
+SOURCE: The Scholarly Kitchen
+
+Two environmental researchers suggest that open-access publishing is experiencing significant transformations akin to natural ecosystems, leading to widespread and rapid evolutionary changes.
+------------------------------------------------------------
+TITLE: Slow Food, Slow Publishing: The Beauty of Not Being First [5]
+SOURCE: The Scholarly Kitchen
+
+Robert Harington promotes the idea of slow scholarly publishing, highlighting the value of not always striving to be the first to publish research.
+------------------------------------------------------------
+TITLE: Open Science 2.0: Building Understanding in an AI-Mediated World [1]
+SOURCE: The Scholarly Kitchen
+
+The focus of Open Science 2.0 goes beyond access to include trust, interpretation, learning, and effective communication in the scholarly publishing ecosystem, aiming for openness to be trustworthy, understandable, and genuinely useful.
+------------------------------------------------------------
+TITLE: Guest Post — Research Needs a Shared Standard for AI Disclosure [7]
+SOURCE: The Scholarly Kitchen
+
+A call is made for a shared standard to improve AI disclosure in research, highlighting the need for clarity and standardization in this domain. This initiative stems from the outcomes of the WCRI's Focus Track on Research Integrity.
+------------------------------------------------------------
+TITLE: Persistent divides on science threaten to leave developing nations behind, new UNESCO report shows [6]
+SOURCE: JCU Sci Policy
+
+The Global Conference of the International Decade of Sciences for Sustainable Development highlights the persistent divides in science that could leave developing nations behind, according to a new UNESCO report. Over 800 ministers, scientists, and leaders will gather in Paris to assess the state of global science and its impact on the Sustainable Development Goals.
+------------------------------------------------------------
+TITLE: Download Sampriti Magazine PDF [16]
+SOURCE: JCU Sci Policy
+
+which likely contains information about U.S. open data or open science policy.
+------------------------------------------------------------
+TITLE: Humanistic Leadership in an AI Driven World: A Strategic Leadership Programme for Decision-Makers Navigating AI, Ethics, Innovation, and Society | 17-21 August, Bengaluru [11]
+SOURCE: JCU Sci Policy
+
+The National Institute of Advanced Studies (NIAS) is organizing a leadership program focusing on "Humanistic Leadership in an AI Driven World," aimed at helping leaders navigate complexities in managing workforce and systems in an AI-driven environment. The program emphasizes multidisciplinary approaches to drive policymaking, innovation, and development, with a focus on values such as respect, individual excellence, agency, and creativity in the context of increasing AI influence on work and living spaces.
+------------------------------------------------------------
+TITLE: Management Development Programme on Policy Design and Strategic Leadership Governance | IIM Indore [12]
+SOURCE: JCU Sci Policy
+
+The Management Development Programme at Indian Institute of Management Indore focuses on policy design and strategic leadership governance for mid-career and senior professionals in various sectors, emphasizing practical capabilities in citizen-centric policymaking, stakeholder consultation, and navigating policy environments. The objective is to equip participants with analytical tools to bridge the gap between policy intent and implementation, addressing contemporary governance challenges.
+------------------------------------------------------------
+TITLE: DOE Requirements and Guidance for Digital Research ... [9]
+SOURCE: SERPAPI Google Search
+
+The dissemination and preservation of research data generated in a project must be outlined in the Data Management and Sharing Plan (DMSP) in adherence to U.S. open data or open science policy.
+------------------------------------------------------------
+TITLE: Open Data, Services, and Software Policies [13]
+SOURCE: SERPAPI Google Search
+
+NASA's ESDS Program promotes the complete sharing of data, metadata, documentation, models, images, research results, and source code.
+------------------------------------------------------------
+TITLE: Other Data & Access Issues [14]
+SOURCE: SERPAPI Google Search
+
+The document discusses the OMB's implementation of Section 5 of the Digital Accountability and Transparency Act, focusing on open data and open science policies in the U.S.
+------------------------------------------------------------
+TITLE: Research Data Management for Advanced Users | BSC-CNS [10]
+SOURCE: SERPAPI Google Search
+
+The training program focuses on teaching advanced users how to manage software following the FAIR principles and the basics of intellectual property and licenses in projects. Participants will gain hands-on experience in these areas.
+------------------------------------------------------------
+TITLE: Interview with Mona Sutphen - Obama Presidency Oral History [15]
+SOURCE: SERPAPI Google Search
+
+The policy analyst was responsible for developing and implementing memos related to policy development and implementation. They were also involved in preparing memos for review and feedback by senior officials.
+------------------------------------------------------------
+TITLE: Introduction - Open access publishing agreements [3]
+SOURCE: SERPAPI Google Search
+
+Articles published in open access journals under Subscribe to Open programs are freely available without any article processing charges, making the research easily accessible to the public.
+------------------------------------------------------------
+TITLE: Publish in International Open Access Journals [8]
+SOURCE: SERPAPI Google Search
+
+Researchers can publish their research papers in reputable international open access journals that provide peer review, Crossref DOI, and affordable publication charges starting at 35 USD.
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. Open Science 2.0: Building Understanding in an AI-Mediated World — https://scholarlykitchen.sspnet.org/2026/07/14/open-science-2-0-building-understanding-in-an-ai-mediated-world/
+2. Guest Post — From Parasitism to Symbiosis: Escaping Peer-Pressure and For-Profit Publishers Through Diamond Open Access — https://scholarlykitchen.sspnet.org/2026/07/16/guest-post-from-parasitism-to-symbiosis-escaping-peer-pressure-and-for-profit-publishers-through-diamond-open-access/
+3. Introduction - Open access publishing agreements — https://subjectguides.library.unsw.edu.au/oapublishing-agreements
+4. The Latest Merger: Annual Reviews Acquires Underline Science — https://scholarlykitchen.sspnet.org/2026/07/17/the-latest-merger-annual-reviews-acquires-underline-science/
+5. Slow Food, Slow Publishing: The Beauty of Not Being First — https://scholarlykitchen.sspnet.org/2026/07/15/robert-harington-reflects-on-our-addiction-to-speed-and-advocates-for-slow-scholarly-publishing-and-the-inherent-beauty-of-not-always-being-first/
+6. Persistent divides on science threaten to leave developing nations behind, new UNESCO report shows — http://cssp-jnu.blogspot.com/2026/07/persistent-divides-on-science-threaten.html
+7. Guest Post — Research Needs a Shared Standard for AI Disclosure — https://scholarlykitchen.sspnet.org/2026/07/13/guest-post-research-needs-a-shared-standard-for-ai-disclosure/
+8. Publish in International Open Access Journals — https://gsconlinepress.com/content/international-open-access-journals
+9. DOE Requirements and Guidance for Digital Research ... — https://www.energy.gov/datamanagement/doe-requirements-and-guidance-digital-research-data-management
+10. Research Data Management for Advanced Users | BSC-CNS — https://www.bsc.es/education/training/bsc-training/bsc-training-research-data-management-advanced-users-1
+11. Humanistic Leadership in an AI Driven World: A Strategic Leadership Programme for Decision-Makers Navigating AI, Ethics, Innovation, and Society | 17-21 August, Bengaluru — http://cssp-jnu.blogspot.com/2026/07/humanistic-leadership-in-ai-driven.html
+12. Management Development Programme on Policy Design and Strategic Leadership Governance | IIM Indore — http://cssp-jnu.blogspot.com/2026/07/management-development-programme-on.html
+13. Open Data, Services, and Software Policies — https://www.earthdata.nasa.gov/engage/open-data-services-software-policies
+14. Other Data & Access Issues — https://www.cogr.edu/topics/other-data-access-issues
+15. Interview with Mona Sutphen - Obama Presidency Oral History — https://obamaoralhistory.columbia.edu/interviews/mona-sutphen?time=907
+16. Download Sampriti Magazine PDF — http://cssp-jnu.blogspot.com/2026/07/download-sampriti-magazine-pdf.html
+
+============================================================
+RUNTIME: 62.06 s
+ESTIMATED TOKENS: 2153
+ESTIMATED COST (USD): $0.0279
+============================================================
