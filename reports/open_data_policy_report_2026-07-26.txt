@@ -1,0 +1,136 @@
+OPEN DATA / SCIENCE POLICY MONITOR REPORT
+Generated on July 26, 2026
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. Fractures in research systems indicate a mismatch within the current research ecosystem, posing a challenge as research expectations advance. [1] [2] [3] [4] [5] [6]
+
+2. Bangladesh aims to reduce the North-South scholarly publishing divide through various academic initiatives under the Sustainable Development Goals framework. [7] [8] [9] [6] [10] [1]
+
+3. Addressing research challenges, the U.S. open science policy supports national fellowships and practitioner-in-residence programs for scientific careers. [11] [5] [9] [5] [3] [12]
+
+4. The OPEN Government Data Act requires federal agencies to release data in open, machine-readable formats with open licenses. [13] [14] [15] [16] [3] [12]
+
+5. Universities supporting Green Open Access policies emphasize the benefits of publishing research outputs with Open Access licenses for increased citation rates. [9] [5] [5] [3] [7] [17]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: Friday Food for Thought: Surviving the Cyclospora Outbreak [8]
+SOURCE: The Scholarly Kitchen
+
+The Scholarly Kitchen recently featured a post titled "Friday Food for Thought: Surviving the Cyclospora Outbreak," offering cooking tips and recipes for readers. This post provides guidance on navigating the Cyclospora outbreak through food preparation suggestions.
+------------------------------------------------------------
+TITLE: Guest Post — Why Research Expectations Have Outpaced the Systems That Enabled Them (Part 2) [1]
+SOURCE: The Scholarly Kitchen
+
+The text discusses how fractures in research systems indicate a mismatch within the current research ecosystem. This analysis highlights the challenges posed by the rapid advancement of research expectations compared to the systems supporting them.
+------------------------------------------------------------
+TITLE: How Bangladesh Is Reducing The North-South Divide In Scholarly Publishing [7]
+SOURCE: The Scholarly Kitchen
+
+Four Bangladeshi academics are addressing various aspects of academic publishing, such as research access, co-authorship equity, editorial leadership, and framing within the Sustainable Development Goals (SDGs) framework to reduce the North-South divide in scholarly publishing.
+------------------------------------------------------------
+TITLE: Guest Post — Why Research Expectations Have Outpaced the Systems That Enabled Them (Part 1) [2]
+SOURCE: The Scholarly Kitchen
+
+The text discusses challenges in sustaining scholarly research capabilities at scale, questioning why research expectations have surpassed the supporting systems.
+------------------------------------------------------------
+TITLE: SCIENCE: A NEW GOLDEN AGE [11]
+SOURCE: SERPAPI Google Search
+
+The U.S. open science policy includes establishing national fellowships for skilled craftspeople and practitioner-in-residence programs to support scientific careers beyond the traditional academic ladder.
+------------------------------------------------------------
+TITLE: Data Release Policies, Procedures, and Guidelines [16]
+SOURCE: SERPAPI Google Search
+
+The text discusses the use of vital records or patient abstract data in a systematic study aimed at understanding, promoting, or safeguarding the health of a specific population.
+------------------------------------------------------------
+TITLE: Open Data, Services, and Software Policies [3]
+SOURCE: SERPAPI Google Search
+
+NASA's Earth Science Data Systems Program advocates for the comprehensive sharing of data, metadata, documentation, models, images, research results, and source code.
+------------------------------------------------------------
+TITLE: CMS Releases Medicaid Spending and Enrollment Data [13]
+SOURCE: SERPAPI Google Search
+
+The OPEN Government Data Act requires federal agencies to release data assets in open, machine-readable formats with open licenses.
+------------------------------------------------------------
+TITLE: Treasury Open Data | U.S. Department of the ... [12]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data or open science policy will be implemented across all evaluation activities conducted by the Treasury Department, including those initiated by various bureaus and Departmental Offices.
+------------------------------------------------------------
+TITLE: Common Data Set | Office of Institutional Research [4]
+SOURCE: SERPAPI Google Search
+
+The Common Data Set (CDS) initiative involves collaboration between data providers in the higher education sector and publishers to standardize data reporting. This standardized data set facilitates comparisons between institutions and promotes transparency in higher education.
+------------------------------------------------------------
+TITLE: 5. Publish & Share: Open Access - Subject Guides [9]
+SOURCE: SERPAPI Google Search
+
+Publishing research outputs with an Open Access (OA) license can significantly increase citation rates, and the University of Canterbury (UC) supports Green OA through a mandatory policy.
+------------------------------------------------------------
+TITLE: Open Access to Research Data [5]
+SOURCE: SERPAPI Google Search
+
+and in a reusable manner according to U.S. open data or open science policy. Guidance on research data publication is available for reference.
+------------------------------------------------------------
+TITLE: NSF announces $83M investment in integrated data ... [6]
+SOURCE: SERPAPI Google Search
+
+The National Science Foundation (NSF) has allocated $83 million towards integrated data systems and services to enhance AI-driven science and bolster U.S. research infrastructure. This investment aims to support the development and implementation of innovative data-driven technologies in scientific research.
+------------------------------------------------------------
+TITLE: GAO's 2026 Report: Why Federal Agencies Are... [14]
+SOURCE: SERPAPI Google Search
+
+The Government Accountability Office audited federal science agencies to evaluate compliance with the 2022 OSTP public-access directive, also known as the "Nelson Memo."
+------------------------------------------------------------
+TITLE: Other Data & Access Issues [17]
+SOURCE: SERPAPI Google Search
+
+The 2022 OSTP "Nelson memo" requires Research Data and Access Policies to be immediately available to the public.
+------------------------------------------------------------
+TITLE: than 15 federal agencies will contribute research awards ... [15]
+SOURCE: SERPAPI Google Search
+
+has provided guidance for federal agencies to update their public access policies for research data and publications. More than 15 federal agencies will contribute to research awards and funding opportunities as part of this initiative.
+------------------------------------------------------------
+TITLE: 📣 EUA is looking for members to take part in a new ... [10]
+SOURCE: SERPAPI Google Search
+
+The group will focus on developing strategies for universities to foster diverse and sustainable academic careers.
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. Guest Post — Why Research Expectations Have Outpaced the Systems That Enabled Them (Part 2) — https://scholarlykitchen.sspnet.org/2026/07/23/guest-post-why-research-expectations-have-outpaced-the-systems-that-enabled-them-part-2/
+2. Guest Post — Why Research Expectations Have Outpaced the Systems That Enabled Them (Part 1) — https://scholarlykitchen.sspnet.org/2026/07/20/guest-post-why-research-expectations-have-outpaced-the-systems-that-enabled-them-part-1/
+3. Open Data, Services, and Software Policies — https://www.earthdata.nasa.gov/engage/open-data-services-software-policies
+4. Common Data Set | Office of Institutional Research — https://oir.uic.edu/common-data-set-3/
+5. Open Access to Research Data — https://open-access.network/en/information/open-access-primers/open-access-to-research-data
+6. NSF announces $83M investment in integrated data ... — https://www.nsf.gov/news/nsf-announces-83m-investment-integrated-data-systems
+7. How Bangladesh Is Reducing The North-South Divide In Scholarly Publishing — https://scholarlykitchen.sspnet.org/2026/07/21/how-bangladesh-is-reducing-the-north-south-divide-in-scholarly-publishing/
+8. Friday Food for Thought: Surviving the Cyclospora Outbreak — https://scholarlykitchen.sspnet.org/2026/07/24/friday-food-for-thought-surviving-the-cyclospora-outbreak/
+9. 5. Publish & Share: Open Access - Subject Guides — https://canterbury.libguides.com/sharepublish/openaccess
+10. 📣 EUA is looking for members to take part in a new ... — https://www.facebook.com/EuropeanUniversityAssociation/posts/-eua-is-looking-for-members-to-take-part-in-a-new-thematic-peer-group-on-reformi/1192317300132634/
+11. SCIENCE: A NEW GOLDEN AGE — https://www.whitehouse.gov/wp-content/uploads/2026/07/Science-A-New-Golden-Age.pdf
+12. Treasury Open Data | U.S. Department of the ... — https://home.treasury.gov/data/treasury-open-data
+13. CMS Releases Medicaid Spending and Enrollment Data — https://worktraining.com/knowledge/cms-unveils-new-medicaid-data-assets-to-enhance-transparency-and-combat-fraud
+14. GAO's 2026 Report: Why Federal Agencies Are... — https://casrai.org/news/gao-2026-report-federal-agencies-public-access-compliance
+15. than 15 federal agencies will contribute research awards ... — https://www.facebook.com/masslive/posts/more-than-15-federal-agencies-will-contribute-research-awards-funding-opportunit/1494700802703863/
+16. Data Release Policies, Procedures, and Guidelines — https://health.mo.gov/guidelines-requests/data-release-policies-procedures-and-guidelines
+17. Other Data & Access Issues — https://www.cogr.edu/topics/other-data-access-issues
+
+============================================================
+RUNTIME: 63.43 s
+ESTIMATED TOKENS: 1986
+ESTIMATED COST (USD): $0.0275
+============================================================
