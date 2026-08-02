@@ -1,0 +1,178 @@
+OPEN DATA / SCIENCE POLICY MONITOR REPORT
+Generated on August 02, 2026
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. The U.S. open data and open science policy emphasizes the importance of transparency, rigor, and impact in federal-funded research. [1] [2] [3] [4] [5] [6]
+
+2. Federal agencies are encouraged to promote training, shared infrastructure, and incentives for open science practices to increase transparency. [7] [8] [2] [9] [10] [1]
+
+3. Open access journal article publishing funding models can be categorized into transactional, collective action, and subvention. [11] [12] [10] [13] [14] [15]
+
+4. A Data Management and Sharing Plan is required for research studies funded by federal agencies like the NIH, prioritizing effective data sharing. [16] [17] [18] [19] [14] [20]
+
+5. The FAIR Guiding Principles for scientific data outline foundational principles of Findability, Accessibility, Interoperability, and Reusability to ensure data is more accessible and usable. [21] [22] [23] [14] [24] [19]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: Categorizing Open Access Business Models [11]
+SOURCE: The Scholarly Kitchen
+
+Open access journal article publishing funding models can be categorized into transactional, collective action, and subvention, based on who pays and what they pay for.
+------------------------------------------------------------
+TITLE: Disaster Risk Reduction and Open Data Newsletter: Jul 2026 Edition [24]
+SOURCE: CODATA Blog
+
+The Committee on Data (CODATA) has released Version 1.1 of the Cross-Domain Interoperability Framework (CDIF), a practical tool for data sharing across sectors without requiring manual translation, developed over two years of implementation and testing.
+------------------------------------------------------------
+TITLE: Guidance for Gold Standard Science [7]
+SOURCE: SERPAPI Google Search
+
+Agencies are encouraged to overcome barriers to open science by promoting training, shared infrastructure, and incentives for open science practices in order to increase transparency in science.
+------------------------------------------------------------
+TITLE: Restoring Gold Standard Science [1]
+SOURCE: SERPAPI Google Search
+
+The U.S. Administration aims to restore a high standard for federal-funded research, emphasizing transparency, rigor, and impact in science.
+------------------------------------------------------------
+TITLE: Office of Science and Technology Policy [4]
+SOURCE: SERPAPI Google Search
+
+The Director of the Office of Science and Technology Policy (OSTP) is responsible for creating and implementing the U.S. government's openness initiatives in science and technology. This includes leading efforts to promote open data and open science policies at the White House.
+------------------------------------------------------------
+TITLE: Scientific Data Sharing: Policies and Access to Data [14]
+SOURCE: SERPAPI Google Search
+
+The NIH has policies and guidance in place that focus on sharing and accessing research resources developed with NIH funding.
+------------------------------------------------------------
+TITLE: Data Sharing in the Context of Community-Engaged Research ... [18]
+SOURCE: SERPAPI Google Search
+
+A new NIH data sharing policy implemented in January 2023 mandates researchers to include a Data Management and Sharing Plan in their proposals for NIH funding.
+------------------------------------------------------------
+TITLE: Open Government Initiative | The White House [9]
+SOURCE: SERPAPI Google Search
+
+The White House has initiated Project Open Data to provide federal agencies with guidance and resources for opening up their data, including best practices, examples, and software code.
+------------------------------------------------------------
+TITLE: Governmental Open Data - Data Science - Subject Guides [2]
+SOURCE: SERPAPI Google Search
+
+The U.S. Open Data Law requires federal agencies to publish their information online in standardized, machine-readable data formats, known as "open data".
+------------------------------------------------------------
+TITLE: Sponsored research and open access: Open access mandates [12]
+SOURCE: SERPAPI Google Search
+
+An open access mandate refers to the requirement by research funders for the published results of their funding to be publicly accessible.
+------------------------------------------------------------
+TITLE: Public/Open Access [13]
+SOURCE: SERPAPI Google Search
+
+including peer-reviewed publications and data, are required to be made freely available to the public under U.S. open data or open science policy.
+------------------------------------------------------------
+TITLE: What are Open Access Mandates? [10]
+SOURCE: SERPAPI Google Search
+
+Open Access mandates are requirements set by various entities such as governments, funding agencies, and universities, mandating that research work must be published in an open access format. These policies aim to make research more accessible to the public and promote transparency in scientific communication.
+------------------------------------------------------------
+TITLE: Writing a Data Management and Sharing Plan [19]
+SOURCE: SERPAPI Google Search
+
+The 2023 Data Management and Sharing (DMS) Policy requires researchers to prioritize sharing scientific data effectively.
+------------------------------------------------------------
+TITLE: NIH and Data Management Plans (DMPs) [16]
+SOURCE: SERPAPI Google Search
+
+It is recommended to have a Data Management Plan (DMP) in place for research studies, even if they are not funded by a federal agency like the NIH.
+------------------------------------------------------------
+TITLE: Data Management and Sharing Plan [17]
+SOURCE: SERPAPI Google Search
+
+A Data Management and Sharing (DMS) Plan is a document that details the handling of data throughout and post a research project, ensuring proper management and sharing practices.
+------------------------------------------------------------
+TITLE: The FAIR Guiding Principles for scientific data ... [21]
+SOURCE: SERPAPI Google Search
+
+The text outlines four foundational principles for U.S. open data or open science policy: Findability, Accessibility, Interoperability, and Reusability. These principles are designed to help data producers and researchers make data more accessible and usable for wider audiences.
+------------------------------------------------------------
+TITLE: Introduction - FAIR Data - LibGuides at UCD Library [23]
+SOURCE: SERPAPI Google Search
+
+The FAIR Data Principles are created to guide the making of data findable, accessible, interoperable, and reusable in the community.
+------------------------------------------------------------
+TITLE: FAIR data principles - National Library of Medicine [22]
+SOURCE: SERPAPI Google Search
+
+Researchers and data scientists aim to align with the FAIR data principles in order to facilitate easy sharing and reuse of data. FAIR stands for Findable, Accessible, Interoperable, and ...
+------------------------------------------------------------
+TITLE: Revised Charter for Access to Research Infrastructures to ... [15]
+SOURCE: SERPAPI Google Search
+
+The revised Charter for Access to Research Infrastructures aims to meet user needs and enhance open science, research security, and adaptability.
+------------------------------------------------------------
+TITLE: What is Open Science Infrastructure? [8]
+SOURCE: SERPAPI Google Search
+
+Open science infrastructure encompasses a wide array of virtual and physical tools, technologies, and resources, such as shared data repositories and collaborative platforms.
+------------------------------------------------------------
+TITLE: Policy & Advocacy [5]
+SOURCE: SERPAPI Google Search
+
+The Open Infrastructure project has completed a study on the costs associated with providing public access to federally funded research and scientific data in the U.S.
+------------------------------------------------------------
+TITLE: U.S. Federal Public Access Policies - SPARC [3]
+SOURCE: SERPAPI Google Search
+
+The Open Science and Data Policy guidance issued by OSTP on August 25, 2022, expands on a previous 2013 memo and emphasizes the immediate availability of publications and data.
+------------------------------------------------------------
+TITLE: 08-2022-OSTP-Public-Access-Memo.pdf [20]
+SOURCE: SERPAPI Google Search
+
+Federal agencies are required to submit a second update to their public access plans to the Office of Science and Technology Policy (OSTP) and the Office of Management and Budget (OMB) by December 31st, 2024, detailing their strategies for implementing open data or open science policies.
+------------------------------------------------------------
+TITLE: The Financial Accountability in Research (FAIR) Model [6]
+SOURCE: SERPAPI Google Search
+
+and clarity in federal research funding by providing a new approach.
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. Restoring Gold Standard Science — https://www.whitehouse.gov/presidential-actions/2025/05/restoring-gold-standard-science/
+2. Governmental Open Data - Data Science - Subject Guides — https://subjectguides.library.american.edu/c.php?g=1329947&p=9988298
+3. U.S. Federal Public Access Policies - SPARC — https://sparcopen.org/our-work/2022-updated-ostp-policy-guidance/
+4. Office of Science and Technology Policy — https://www.whitehouse.gov/ostp/
+5. Policy & Advocacy — https://investinopen.org/tag/policy-and-advocacy/
+6. The Financial Accountability in Research (FAIR) Model — https://www.aplu.org/wp-content/uploads/FAIR-Executive-Summary-FINAL-7.10.25.pdf
+7. Guidance for Gold Standard Science — https://www.whitehouse.gov/wp-content/uploads/2025/03/OSTP-Guidance-for-GSS-June-2025.pdf
+8. What is Open Science Infrastructure? — https://blog.mdpi.com/2024/12/03/open-science-infrastructure/
+9. Open Government Initiative | The White House — https://obamawhitehouse.archives.gov/open
+10. What are Open Access Mandates? — https://mdpiblog.wordpress.sciforum.net/2026/04/21/open-access-mandates/
+11. Categorizing Open Access Business Models — https://scholarlykitchen.sspnet.org/2026/07/28/categorizing-open-access-business-models/
+12. Sponsored research and open access: Open access mandates — https://subjectguides.library.american.edu/c.php?g=1477620&p=11007417
+13. Public/Open Access — https://www.aau.edu/issues/publicopen-access
+14. Scientific Data Sharing: Policies and Access to Data — https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies
+15. Revised Charter for Access to Research Infrastructures to ... — https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/revised-charter-access-research-infrastructures-foster-open-science-innovation-and-research-security-2024-11-27_en
+16. NIH and Data Management Plans (DMPs) — https://clinicalresearch.gwu.edu/regulatory-compliance-services/nih-and-data-management-plans-dmps
+17. Data Management and Sharing Plan — https://datamanagement.hms.harvard.edu/plan-design/data-management-and-sharing-plan
+18. Data Sharing in the Context of Community-Engaged Research ... — https://pmc.ncbi.nlm.nih.gov/articles/PMC10308954/
+19. Writing a Data Management and Sharing Plan — https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies/dms/writing-dms-plan
+20. 08-2022-OSTP-Public-Access-Memo.pdf — https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/08/08-2022-OSTP-Public-Access-Memo.pdf
+21. The FAIR Guiding Principles for scientific data ... — https://www.nature.com/articles/sdata201618
+22. FAIR data principles - National Library of Medicine — https://www.nlm.nih.gov/oet/ed/cde/tutorial/02-200.html
+23. Introduction - FAIR Data - LibGuides at UCD Library — https://libguides.ucd.ie/FAIR
+24. Disaster Risk Reduction and Open Data Newsletter: Jul 2026 Edition — https://codata.org/blog/2026/07/31/disaster-risk-reduction-and-open-data-newsletter-jul-2026-edition/
+
+============================================================
+RUNTIME: 65.78 s
+ESTIMATED TOKENS: 2189
+ESTIMATED COST (USD): $0.0295
+============================================================
