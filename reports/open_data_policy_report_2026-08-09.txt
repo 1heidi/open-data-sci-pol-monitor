@@ -1,0 +1,142 @@
+OPEN DATA / SCIENCE POLICY MONITOR REPORT
+Generated on August 09, 2026
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. The scholarly publishing market consolidation affects communities differently based on research validation, shaping careers, and global conversations. [1] [2] [3] [4] [5] [6]
+
+2. The impact of AI on research writing raises questions about the preservation of "author voice" in scholarly work. [5] [1] [7] [2] [7] [8]
+
+3. The social media landscape in scholarly communications has evolved, indicating changes from data analysis and marketer input. [6] [9] [7] [10] [11] [12]
+
+4. Stakeholders in research data must follow the RDaF framework for effective research data management practices. [7] [13] [14] [7] [12] [9]
+
+5. The FedRAMP Marketplace provides information on cloud services certified by FedRAMP for use in open data and open science initiatives. [15] [16] [9] [17] [11] [18]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: Guest Post — Buying the Middle: Reading the Wiley Emerald Deal from the Global South [1]
+SOURCE: The Scholarly Kitchen
+
+The text discusses how the consolidation of the scholarly publishing market affects different communities in terms of shaping careers, research validation, and global scholarly conversation. It highlights the impact of publishing infrastructure on the questions asked and voices heard in the academic world.
+------------------------------------------------------------
+TITLE: The Published Voice: Whose Voice Are We Really Reading? [5]
+SOURCE: The Scholarly Kitchen
+
+The text discusses the impact of AI on research writing and questions the preservation of "author voice" in scholarly work.
+------------------------------------------------------------
+TITLE: From Hub to Hustle: The Scattered Social Landscape in Scholarly Comms [6]
+SOURCE: The Scholarly Kitchen
+
+The social media landscape in scholarly communications has evolved, with changes indicated by data from the recent Pulse Check, past community surveys, and input from marketers.
+------------------------------------------------------------
+TITLE: July 2026: Publications in the Data Science Journal [9]
+SOURCE: CODATA Blog
+
+In July 2026, the Data Science Journal published research articles on automated retrieval and analysis of Finnish cultural metadata, quantitative analysis of scientific correspondence related to insects, and the use of work plans to suggest implementation strategies.
+------------------------------------------------------------
+TITLE: News [17]
+SOURCE: SERPAPI Google Search
+
+proclamations, executive orders, and press releases from the Office of Science and Technology Policy Council. This information is available as part of the U.S. open data or open science policy.
+------------------------------------------------------------
+TITLE: Writing a Data Management and Sharing Plan [7]
+SOURCE: SERPAPI Google Search
+
+All DOE-funded research and development awards and contracts require a DOE approved Data Management and Sharing Plan (DMSP) to ensure proper data management and sharing.
+------------------------------------------------------------
+TITLE: NCI Data Repository Requirements [10]
+SOURCE: SERPAPI Google Search
+
+NCI funding applicants are required to adhere to FAIR Principles when managing, preserving, and sharing data.
+------------------------------------------------------------
+TITLE: Open Data Portals: How Governments Publish Usable Data [11]
+SOURCE: SERPAPI Google Search
+
+Local governments frequently release data that goes unused. The focus is on creating open data portals that are automated, discoverable with AI, and actually useful to the public.
+------------------------------------------------------------
+TITLE: U.S. Government Data & Statistics - NYU Law Research Guides [12]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data policy is organized into eight primary categories, each with specific data collection methods, policy frameworks, and use cases.
+------------------------------------------------------------
+TITLE: Open Access Publishing - Copyright & Scholarly ... [2]
+SOURCE: SERPAPI Google Search
+
+Some government and other entities have mandates requiring research they fund to be published as open access. These mandates aim to promote transparency and accessibility in scientific publications.
+------------------------------------------------------------
+TITLE: Open Access & Publishing Economics [4]
+SOURCE: SERPAPI Google Search
+
+The text explains that Plan S is cOAlition S's funder mandate that requires immediate, CC BY-licensed open access for funded research outputs.
+------------------------------------------------------------
+TITLE: Research Data Management: Department of Defense (DOD) [13]
+SOURCE: SERPAPI Google Search
+
+A Data Management Plan (DMP) is required for all research proposals in the U.S., outlining the digitally formatted scientific data collected or produced during the project.
+------------------------------------------------------------
+TITLE: FedRAMP | FedRAMP.gov [15]
+SOURCE: SERPAPI Google Search
+
+The FedRAMP Marketplace is a database containing information on cloud services that have been certified by FedRAMP, as well as authorizing agencies and recognized assessors.
+------------------------------------------------------------
+TITLE: Open Science [16]
+SOURCE: SERPAPI Google Search
+
+Universities and public research funding organizations are working to implement FAIR research data principles to ensure integrity in research. This involves promoting transparency, accessibility, and reusability of data in the scientific community.
+------------------------------------------------------------
+TITLE: Library guides and databases: Research Data Management [14]
+SOURCE: SERPAPI Google Search
+
+The FAIR data principles promote the sharing of data through repositories and comprehensive documentation, emphasizing data being findable and accessible.
+------------------------------------------------------------
+TITLE: How Much Does Market Research Cost? A Practical Guide ... [3]
+SOURCE: SERPAPI Google Search
+
+Primary research is more costly and time-consuming than secondary research, which is often cheaper and quicker to conduct.
+------------------------------------------------------------
+TITLE: Energy Campaigner & Research Associate [8]
+SOURCE: SERPAPI Google Search
+
+CFA is involved in analyzing and critiquing the impact of financial institutions on development, both at a national and international level.
+------------------------------------------------------------
+TITLE: Indirect Cost Pricing Strategies for GSA MAS [18]
+SOURCE: SERPAPI Google Search
+
+Indirect costs are expenses related to general operations rather than specific products, services, or projects in the U.S. open data or open science policy.
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. Guest Post — Buying the Middle: Reading the Wiley Emerald Deal from the Global South — https://scholarlykitchen.sspnet.org/2026/08/06/guest-post-buying-the-middle-reading-the-wiley-emerald-deal-from-the-global-south/
+2. Open Access Publishing - Copyright & Scholarly ... — https://libguides.dickinson.edu/copyright/openaccess
+3. How Much Does Market Research Cost? A Practical Guide ... — https://www.linkedin.com/pulse/how-much-does-market-research-cost-practical-guide-leaders-njgnf
+4. Open Access & Publishing Economics — https://casrai.org/pillar/publishing/open-access?srsltid=AfmBOoodMQ326rfTHlT47nKQ11sh6v-foqeFPshxB7QFA3Jml5qmDIxx
+5. The Published Voice: Whose Voice Are We Really Reading? — https://scholarlykitchen.sspnet.org/2026/08/05/the-published-voice-whose-voice-are-we-really-reading/
+6. From Hub to Hustle: The Scattered Social Landscape in Scholarly Comms — https://scholarlykitchen.sspnet.org/2026/08/04/from-hub-to-hustle/
+7. Writing a Data Management and Sharing Plan — https://www.energy.gov/datamanagement/writing-data-management-and-sharing-plan
+8. Energy Campaigner & Research Associate — https://www.linkedin.com/jobs/view/energy-campaigner-research-associate-at-centre-for-financial-accountability-4448730159
+9. July 2026: Publications in the Data Science Journal — https://codata.org/blog/2026/08/04/july-2026-publications-in-the-data-science-journal/
+10. NCI Data Repository Requirements — https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies/data-repository-requirements/NCI
+11. Open Data Portals: How Governments Publish Usable Data — https://gov.appmaisters.com/open-data-portals-local-government-guide/
+12. U.S. Government Data & Statistics - NYU Law Research Guides — https://nyulaw.libguides.com/dataservices/usgov
+13. Research Data Management: Department of Defense (DOD) — https://libguides.wvu.edu/c.php?g\u003d991013\u0026p\u003d10771937
+14. Library guides and databases: Research Data Management — https://library-guides.ucl.ac.uk/research-data-management
+15. FedRAMP | FedRAMP.gov — https://www.fedramp.gov/
+16. Open Science — https://ufsn.dk/english/research-and-innovation/framework-for-research-and-innovation/open-science/
+17. News — https://www.whitehouse.gov/news/
+18. Indirect Cost Pricing Strategies for GSA MAS — https://info.winvale.com/blog/indirect-cost-pricing-strategies-for-gsa-mas
+
+============================================================
+RUNTIME: 78.99 s
+ESTIMATED TOKENS: 1984
+ESTIMATED COST (USD): $0.027
+============================================================
