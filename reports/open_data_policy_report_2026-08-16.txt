@@ -1,0 +1,154 @@
+OPEN DATA / SCIENCE POLICY MONITOR REPORT
+Generated on August 16, 2026
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. The potential exclusion of unaffiliated authors in academia due to trust markers and fraud-prevention practices is raising questions about the increasing cost of credentialism. [1] [2] [3] [4] [5]
+
+2. Studying the integration of Indigenous Traditional Ecological Knowledge (ITEK) into federal decision-making processes aims to enhance environmental conservation and sustainability. [6] [7] [8] [9] [10] [11]
+
+3. It is essential for federal agencies to update their public access policies for research data and articles, as per guidance from the Office of Management and Budget (OMB). [12] [13] [14] [15] [16] [17]
+
+4. Organizations like the Center for Research Libraries (CRL) are making strategic investments in open scholarly infrastructure projects, allocating funds to support community-led initiatives. [18] [19] [3] [7] [17] [20]
+
+5. Initiatives like Short-Term Scientific Missions, supported by programs like COST, play a significant role in shaping research efforts by providing opportunities for researchers at all career stages. [3] [4] [1] [17] [19] [11]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: Guest Post — The Guild and the Gap: What One Rejection Revealed About the Cost of Credentialism [1]
+SOURCE: The Scholarly Kitchen
+
+The text discusses the potential exclusion of unaffiliated authors from contributing to the scholarly record due to trust markers and fraud-prevention practices in place. It questions whether these practices are increasing the cost of credentialism in academia.
+------------------------------------------------------------
+TITLE: What Authors Expect Now, and Why Publishing Hasn’t Kept Up: An Interview with Jennifer Fleet of Aries Systems and Christian Grubak of ChronosHub [2]
+SOURCE: The Scholarly Kitchen
+
+Jennifer Fleet of Aries Systems and Christian Grubak of ChronosHub discuss changing author needs and their partnership to address them in response to a recent interview.
+------------------------------------------------------------
+TITLE: New Issue Online | Journal of Data Science, Informetrics, and Citation Studies, 2026, 5(2) [14]
+SOURCE: JCU Sci Policy
+
+Volume 5, Issue 2, 2026, includes research articles on topics such as Artificial Intelligence, Data Science, and Scientometric Analysis, highlighting global research trends in various fields such as Quantum Computing, Environmental Sciences, and Scholarly Productivity.
+------------------------------------------------------------
+TITLE: Delivering Gold Standard Childhood Vaccine ... [5]
+SOURCE: SERPAPI Google Search
+
+The U.S. government aims to align core childhood vaccine recommendations with scientific evidence and best practices from peer-reviewed literature.
+------------------------------------------------------------
+TITLE: Catalog - Data.gov [15]
+SOURCE: SERPAPI Google Search
+
+including information on federal arrests and civil rights data from 2017-18. This data is available for federal, state, city, and other organizations to access and use.
+------------------------------------------------------------
+TITLE: Find Statistics and Data - Gleeson Library [7]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data or open science policy aims to provide socio-economic and demographic data, tools, and reports that focus on community innovation capacity, resilience, equity, and distress, to support informed decision-making.
+------------------------------------------------------------
+TITLE: Publish Journal Articles Open Access: Home [16]
+SOURCE: SERPAPI Google Search
+
+The guide is aimed at University of Reading staff and students to assist them in determining if they are able to publish their journal articles as Open Access.
+------------------------------------------------------------
+TITLE: Open Access Publishing Agreements - Research Guides [17]
+SOURCE: SERPAPI Google Search
+
+A Read-and-Publish agreement is a payment deal where publishers receive payment for both access to and publication of research.
+------------------------------------------------------------
+TITLE: Data Management Plan Self-Attestation Questionnaire [13]
+SOURCE: SERPAPI Google Search
+
+The Data Management Plan Self-Attestation Questionnaires (DMP SAQs) for Federal Agencies are valid for one year or until the expiration of the Authority to Operate (ATO), whichever comes first. If there is no ATO, federal agencies have the flexibility to...
+------------------------------------------------------------
+TITLE: US Federal Government Identity Security | Intercede [8]
+SOURCE: SERPAPI Google Search
+
+US federal agencies and contractors are required to meet PIV credentialing and FIPS 201 compliance standards, utilizing Intercede MyID for federal-grade identity security.
+------------------------------------------------------------
+TITLE: EPA Federal Information Systems | US EPA [9]
+SOURCE: SERPAPI Google Search
+
+The PIA process ensures compliance with privacy laws for federal information systems as required by the E-Government Act of 2002.
+------------------------------------------------------------
+TITLE: Times Higher Education [10]
+SOURCE: SERPAPI Google Search
+
+Karen Webber emphasizes the importance of data-informed decision making for higher education leaders in addressing current challenges. Open data and open science policies can provide valuable insights for navigating uncertainties in the higher education sector.
+------------------------------------------------------------
+TITLE: The Deal of the Century | Forum [20]
+SOURCE: SERPAPI Google Search
+
+Implementing a $1,000 infrastructure support fee for each verified research project could provide approximately $1.5 to $2 million in direct and sustainable funding for open research infrastructure.
+------------------------------------------------------------
+TITLE: CRL Advances Collaborative Investment in Open Scholarly ... [18]
+SOURCE: SERPAPI Google Search
+
+The Center for Research Libraries (CRL) has allocated $170,000 for strategic investments in three community-led open scholarly infrastructure projects in the U.S.
+------------------------------------------------------------
+TITLE: UKRI and Open Research in a Changing Government ... [19]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data and open science policy emphasizes the importance of open research infrastructure, repositories, and data stewardship to promote transparency, reusability, and trustworthiness in the research system.
+------------------------------------------------------------
+TITLE: In late May, the Office of Management and Budget (OMB) ... [12]
+SOURCE: SERPAPI Google Search
+
+issued guidance for federal agencies to update their public access policies for research data and articles.
+------------------------------------------------------------
+TITLE: Improving risk and impact assessments via sustainability ... [6]
+SOURCE: SERPAPI Google Search
+
+The text discusses a memorandum focused on integrating Indigenous Traditional Ecological Knowledge (ITEK) into federal decision-making processes regarding environmental quality. The goal is to enhance environmental conservation and sustainability by valuing the insights and perspectives of Indigenous communities.
+------------------------------------------------------------
+TITLE: How COST Short-Term Scientific Missions shape research ... [3]
+SOURCE: SERPAPI Google Search
+
+COST funds over 2000 Short-Term Scientific Missions each year, which are open to researchers at all career stages and are considered one of its most impactful initiatives.
+------------------------------------------------------------
+TITLE: Fundamental Cost Principles - Office of Research [4]
+SOURCE: SERPAPI Google Search
+
+Syracuse University outlines fundamental cost principles for sponsored projects, covering rules for costs that are allowable, allocable, reasonable, and consistent.
+------------------------------------------------------------
+TITLE: "High-quality research can enhance governance, financial ... [11]
+SOURCE: SERPAPI Google Search
+
+financial reporting, transparency, accountability, and national development.
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. Guest Post — The Guild and the Gap: What One Rejection Revealed About the Cost of Credentialism — https://scholarlykitchen.sspnet.org/2026/08/14/guest-post-the-guild-and-the-gap-what-one-rejection-revealed-about-the-cost-of-credentialism/
+2. What Authors Expect Now, and Why Publishing Hasn’t Kept Up: An Interview with Jennifer Fleet of Aries Systems and Christian Grubak of ChronosHub — https://scholarlykitchen.sspnet.org/2026/08/11/what-authors-expect-now-and-why-publishing-hasnt-kept-up-an-interview-with-jennifer-fleet-of-aries-systems-and-christian-grubak-of-chronoshub/
+3. How COST Short-Term Scientific Missions shape research ... — https://www.cost.eu/how-cost-short-term-scientific-missions-shape-research-journeys/
+4. Fundamental Cost Principles - Office of Research — https://research.syracuse.edu/start-project/prepare-budget/fundamental-cost-principles/
+5. Delivering Gold Standard Childhood Vaccine ... — https://www.whitehouse.gov/presidential-actions/2026/08/delivering-gold-standard-childhood-vaccine-recommendations-for-americans/
+6. Improving risk and impact assessments via sustainability ... — https://www.sciencedirect.com/science/article/pii/S2214629626002264
+7. Find Statistics and Data - Gleeson Library — https://library.usfca.edu/statistics-and-data
+8. US Federal Government Identity Security | Intercede — https://www.intercede.com/industries/us-federal-government/
+9. EPA Federal Information Systems | US EPA — https://www.epa.gov/privacy/epa-federal-information-systems
+10. Times Higher Education — https://www.facebook.com/timeshighereducation/posts/a-data-visualisation-expert-talks-about-leading-the-global-human-reference-atlas/1697825849011790/
+11. "High-quality research can enhance governance, financial ... — https://www.facebook.com/100064346815443/posts/high-quality-research-can-enhance-governance-financial-reporting-transparency-an/1519936746827871/
+12. In late May, the Office of Management and Budget (OMB) ... — https://www.facebook.com/AmericanGeophysicalUnion/posts/in-late-may-the-office-of-management-and-budget-omb-released-a-proposed-rule-tha/1457436469763888/
+13. Data Management Plan Self-Attestation Questionnaire — https://www.cms.gov/data-research/cms-data/data-available-researchers/data-management-plan-self-attestation-questionnaire
+14. New Issue Online | Journal of Data Science, Informetrics, and Citation Studies, 2026, 5(2) — http://cssp-jnu.blogspot.com/2026/08/new-issue-online-journal-of-data.html
+15. Catalog - Data.gov — https://catalog.data.gov/
+16. Publish Journal Articles Open Access: Home — https://libguides.reading.ac.uk/oa-journals
+17. Open Access Publishing Agreements - Research Guides — https://belmont.libguides.com/scholcommservices/readandpublish
+18. CRL Advances Collaborative Investment in Open Scholarly ... — https://www.crl.edu/crl-advances-collaborative-investment-open-scholarly-infrastructure-center-research-libraries
+19. UKRI and Open Research in a Changing Government ... — https://www.linkedin.com/posts/rmallalieu_what-the-sudden-demise-of-the-uks-department-activity-7492152253571657728-2-ke
+20. The Deal of the Century | Forum — https://issues.org/open-research-infrastructure-funding-gibson-thaney-forum/
+
+============================================================
+RUNTIME: 74.64 s
+ESTIMATED TOKENS: 2097
+ESTIMATED COST (USD): $0.0295
+============================================================
