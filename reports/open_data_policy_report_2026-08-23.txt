@@ -1,0 +1,106 @@
+OPEN DATA / SCIENCE POLICY MONITOR REPORT
+Generated on August 23, 2026
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. Scholarly community is adapting to machine readers, preparing for the shift. [1] [2] [3] [4] [5] [6]
+
+2. Self-citation is seen as crucial for the growth of scholarly fields. [2] [5] [3] [1] [4] [6]
+
+3. Validating article versions with persistent identifiers is essential for ensuring trust and accuracy. [3] [7]
+
+4. Digital preservation in scholarly communication must consider diversity to avoid perpetuating social imbalances. [4] [1] [2] [3] [5]
+
+5. Detecting and preventing errors from becoming established knowledge is a challenge in science. [5] [8] [9] [10] [11] [12]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: Guest Post — Your Next Reader Is a Machine, and We Are Ready [1]
+SOURCE: The Scholarly Kitchen
+
+The text discusses how the scholarly community is prepared to address the challenges and opportunities that come with machine readers replacing human readers.
+------------------------------------------------------------
+TITLE: Guest Post — Self-Citation Is How Fields Grow [2]
+SOURCE: The Scholarly Kitchen
+
+The post discusses the relationship between self-citation and scholarly impact, analyzing it through the theory of stigmergy.
+------------------------------------------------------------
+TITLE: Guest Post — AI Can Find the Article. Can It Tell Which Version It Used? [3]
+SOURCE: The Scholarly Kitchen
+
+validating article versions with persistent identifiers (PIDs) is crucial in ensuring trust and accuracy.
+------------------------------------------------------------
+TITLE: Guest Post — Preserving the Record, Shaping the Future: Why Diversity Matters in Digital Preservation [4]
+SOURCE: The Scholarly Kitchen
+
+Digital preservation is highlighted as more than just a technical issue in scholarly communication, as it can perpetuate social imbalances if diversity is not taken into account.
+------------------------------------------------------------
+TITLE: Guest Post — When Errors Become Consensus: Science’s Self-Correction Can No Longer Keep Up [5]
+SOURCE: The Scholarly Kitchen
+
+The text highlights the challenge of preventing incorrect claims from becoming established knowledge in science, emphasizing that detection of errors is no longer the sole issue but stopping them from being widely accepted.
+------------------------------------------------------------
+TITLE: National Security Science & Technology Strategy [8]
+SOURCE: SERPAPI Google Search
+
+The document outlines the National Security Science and Technology Strategy (NSSTS) as a means to align with the 2025 National Security Strategy (NSS) in the United States.
+------------------------------------------------------------
+TITLE: News – The White House [10]
+SOURCE: SERPAPI Google Search
+
+proclamations, executive orders, and press releases from the Office of Science and Technology Policy Council, promoting transparency and open access to government information.
+------------------------------------------------------------
+TITLE: Open Data, Services, and Software Policies [11]
+SOURCE: SERPAPI Google Search
+
+NASA's Earth Science Data Systems (ESDS) Program advocates for complete transparency by encouraging the open sharing of data, metadata, documentation, models, images, research results, and source code.
+------------------------------------------------------------
+TITLE: Webinar Series: Unlocking the Potential of NIA Data and ... [12]
+SOURCE: SERPAPI Google Search
+
+Key decisions for U.S. open data or open science policy include determining where to share data and how to prepare it for interoperability.
+------------------------------------------------------------
+TITLE: FISMA, RMF & Zero Trust: Federal IT Compliance Guide [7]
+SOURCE: SERPAPI Google Search
+
+RMF, and Zero Trust, leading to compliance gaps. The use of automation and Continuous Compliance Monitoring (CCM) is recommended to improve compliance processes.
+------------------------------------------------------------
+TITLE: Clarivate [6]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data or open science policy works to support the research community by providing trusted data and insights for decision-making in higher education and other fields. This policy aims to promote transparency and accessibility of information for researchers and decision-makers.
+------------------------------------------------------------
+TITLE: White House report outlines US science and technology ... [9]
+SOURCE: SERPAPI Google Search
+
+The White House recently issued a report outlining priorities for the future of U.S. science and technology, which is accompanied by the Fiscal Year 2028 R&D Priorities Memorandum jointly issued by OSTP and the Office of Management and Budget.
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. Guest Post — Your Next Reader Is a Machine, and We Are Ready — https://scholarlykitchen.sspnet.org/2026/08/21/guest-post-your-next-reader-is-a-machine-and-we-are-ready/
+2. Guest Post — Self-Citation Is How Fields Grow — https://scholarlykitchen.sspnet.org/2026/08/20/guest-post-self-citation-is-how-fields-grow/
+3. Guest Post — AI Can Find the Article. Can It Tell Which Version It Used? — https://scholarlykitchen.sspnet.org/2026/08/19/guest-post-ai-can-find-the-article-can-it-tell-which-version-it-used/
+4. Guest Post — Preserving the Record, Shaping the Future: Why Diversity Matters in Digital Preservation — https://scholarlykitchen.sspnet.org/2026/08/18/guest-post-preserving-the-record-shaping-the-future-why-diversity-matters-in-digital-preservation/
+5. Guest Post — When Errors Become Consensus: Science’s Self-Correction Can No Longer Keep Up — https://scholarlykitchen.sspnet.org/2026/08/17/guest-post-when-errors-become-consensus-sciences-self-correction-can-no-longer-keep-up/
+6. Clarivate — https://www.facebook.com/clarivate/posts/the-2026-academic-ranking-of-world-universities-arwu-brings-together-objective-i/1638441124958184/
+7. FISMA, RMF & Zero Trust: Federal IT Compliance Guide — https://www.diligent.com/resources/blog/modernize-federal-agency
+8. National Security Science & Technology Strategy — https://www.whitehouse.gov/wp-content/uploads/2026/08/NSSTS-082026.pdf
+9. White House report outlines US science and technology ... — https://www.facebook.com/HealthPhysicsSociety/posts/new-white-house-report-outlines-priorities-for-the-future-of-us-science-technolo/1508633364637749/
+10. News – The White House — https://www.whitehouse.gov/news/
+11. Open Data, Services, and Software Policies — https://www.earthdata.nasa.gov/engage/open-data-services-software-policies
+12. Webinar Series: Unlocking the Potential of NIA Data and ... — https://www.nia.nih.gov/research/dn/workshops/webinar-series-unlocking-potential-nia-data-and-infrastructure-utilization
+
+============================================================
+RUNTIME: 75.66 s
+ESTIMATED TOKENS: 1931
+ESTIMATED COST (USD): $0.0255
+============================================================
