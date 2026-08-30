@@ -1,0 +1,136 @@
+OPEN DATA / SCIENCE POLICY MONITOR REPORT
+Generated on August 30, 2026
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. Ukraine's academic publishing sector is addressing a global monograph crisis with urgency and innovation. [1] [2] [3] [4] [5] [6]
+
+2. Scholarly publishing relies on shared work and understanding, as emphasized in an SSP panel conversation. [3] [2] [7] [1] [4] [8]
+
+3. Structural rebranding in scholarly publishing is advocated to address the crisis in institutional credibility and alignment. [2] [1] [3] [7] [4] [5]
+
+4. The U.S. open data or open science policy aims to make digital research data accessible and beneficial to various groups. [9] [9] [10] [6] [11] [12]
+
+5. The NIH plans to establish guidelines mandating sharing of study results with participants in easy-to-understand language. [13] [14] [15] [8] [16] [17]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: AI Use in The Scholarly Kitchen [7]
+SOURCE: The Scholarly Kitchen
+
+a recent Nature News article on AI detection tools' effectiveness, and emphasizes the importance of ongoing experimentation to determine ethical boundaries in this area.
+------------------------------------------------------------
+TITLE: Guest Post — From Charity to Intellectual Partnership: The Global Monograph Crisis, Artificial Intelligence, and the Future of Open Access Through the Lens of Ukraine [1]
+SOURCE: The Scholarly Kitchen
+
+Ukraine's academic publishing sector is addressing a global monograph crisis with a sense of urgency and innovation. The country is exploring new ways to approach open access publishing and integrating artificial intelligence to tackle the challenges in scholarly communication.
+------------------------------------------------------------
+TITLE: Guest Post — Not the Real Housewives of Scholarly Publishing [3]
+SOURCE: The Scholarly Kitchen
+
+Scholarly publishing relies on shared work and shared understanding, as discussed in an SSP panel conversation highlighted in the blog post.
+------------------------------------------------------------
+TITLE: Guest Post — Beyond Messaging: The Structural Case for Rebranding Scholarly Publishing [2]
+SOURCE: The Scholarly Kitchen
+
+The post highlights the crisis in scholarly publishers' institutional credibility and alignment, advocating for a structural rebrand to address this issue.
+------------------------------------------------------------
+TITLE: Presidential Actions [16]
+SOURCE: SERPAPI Google Search
+
+On August 28, 2026, a Presidential Action was taken to establish the United States Space Academy. Additionally, Lake Ontario was renamed to honor the American history of the Great Lakes.
+------------------------------------------------------------
+TITLE: DOE Requirements and Guidance for Digital Research ... [9]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data or open science policy aims to ensure that digital research data is accessible and beneficial to the scientific community, industry, and the general public.
+------------------------------------------------------------
+TITLE: Draft NIH Policy on Sharing Summary Level Study Results ... [13]
+SOURCE: SERPAPI Google Search
+
+NIH plans to establish clear guidelines mandating the sharing of study results with participants in easy-to-understand language, unless there are valid reasons not to do so.
+------------------------------------------------------------
+TITLE: Writing a Data Management and Sharing Plan [14]
+SOURCE: SERPAPI Google Search
+
+DOE-funded research and development awards and contracts must adhere to a DOE approved Data Management and Sharing Plan (DMSP) that outlines how data will be managed and shared. This policy applies to all relevant projects within the Department of Energy.
+------------------------------------------------------------
+TITLE: States Can Fight Federal Overreach by Protecting State Data [17]
+SOURCE: SERPAPI Google Search
+
+being selective about sharing information, and enforcing legal boundaries to prevent unauthorized access or misuse.
+------------------------------------------------------------
+TITLE: Treasury Open Data | U.S. Department of the ... [12]
+SOURCE: SERPAPI Google Search
+
+The open data policy will encompass all evaluation activities conducted within the Treasury Department, regardless of the specific office or bureau overseeing them.
+------------------------------------------------------------
+TITLE: Open Access Publishing [4]
+SOURCE: SERPAPI Google Search
+
+Open access policy promotes free online availability of research to facilitate societal improvements through idea dissemination.
+------------------------------------------------------------
+TITLE: NIH vs. NSF Data Management Plans: What Actually Differs [15]
+SOURCE: SERPAPI Google Search
+
+The text outlines the differences between the data management plan requirements of the National Institutes of Health (NIH) and the National Science Foundation (NSF), including variations in page limits, templates, and file uploads. It also discusses the role of the Research Data Alliance (RDA) Common Standard in making these plans machine-actionable.
+------------------------------------------------------------
+TITLE: Understanding NIH's new data management and sharing ... [8]
+SOURCE: SERPAPI Google Search
+
+The NIH has released a new data management and sharing plan (DMSP) template, effective as of May 25, 2026, to ensure compliance with their standards for data.
+------------------------------------------------------------
+TITLE: Open Science [10]
+SOURCE: SERPAPI Google Search
+
+The text discusses efforts to include arts and humanities research communities in policy discussions on the future of science and scholarship in Europe and at the national level.
+------------------------------------------------------------
+TITLE: Cureus publishing costs and fees for medical research ... [5]
+SOURCE: SERPAPI Google Search
+
+Publishing in open-access journals can cost between $1,500 to $6,000, but there are options available to publish without paying a fee.
+------------------------------------------------------------
+TITLE: University of Limpopo [6]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data or open science policy aims to strengthen public sector performance and accountability through research, innovation, and training.
+------------------------------------------------------------
+TITLE: German-Canadian International Research Training Group ... [11]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data or open science policy encourages collaboration in research through joint programs and international supervision of doctoral students.
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. Guest Post — From Charity to Intellectual Partnership: The Global Monograph Crisis, Artificial Intelligence, and the Future of Open Access Through the Lens of Ukraine — https://scholarlykitchen.sspnet.org/2026/08/26/guest-post-from-charity-to-intellectual-partnership-the-global-monograph-crisis-artificial-intelligence-and-the-future-of-open-access-through-the-lens-of-ukraine/
+2. Guest Post — Beyond Messaging: The Structural Case for Rebranding Scholarly Publishing — https://scholarlykitchen.sspnet.org/2026/08/24/guest-post-beyond-messaging-the-structural-case-for-rebranding-scholarly-publishing/
+3. Guest Post — Not the Real Housewives of Scholarly Publishing — https://scholarlykitchen.sspnet.org/2026/08/25/guest-post-not-the-real-housewives-of-scholarly-publishing/
+4. Open Access Publishing — https://guides.lib.ua.edu/open
+5. Cureus publishing costs and fees for medical research ... — https://www.facebook.com/CureusMedical/posts/publishing-costs-can-be-an-important-consideration-for-researchers-deciding-wher/1546479087517811/
+6. University of Limpopo — https://www.facebook.com/ULvarsity/posts/%F0%9D%90%85%F0%9D%90%9A%F0%9D%90%9C%F0%9D%90%AE%F0%9D%90%A5%F0%9D%90%AD%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%8C%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9A%F0%9D%90%A0%F0%9D%90%9E%F0%9D%90%A6%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9D-%F0%9D%90%8B%F0%9D%90%9A%F0%9D%90%B0-%F0%9D%9F%8F%F0%9D%9F%8F%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AE%F0%9D%90%9A%F0%9D%90%A5-%F0%9D%90%91%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%9C%F0%9D%90%A1-%F0%9D%90%83%F0%9D%90%9A%F0%9D%90%B2day-3semono-tb-a-master-of/1524326906392493/
+7. AI Use in The Scholarly Kitchen — https://scholarlykitchen.sspnet.org/2026/08/27/ai-use-in-the-scholarly-kitchen/
+8. Understanding NIH's new data management and sharing ... — https://www.facebook.com/EdwardGMinerLibrary/posts/the-nih-has-released-a-new-data-management-and-sharing-plan-dmsp-template-which-/1543349997828314/
+9. DOE Requirements and Guidance for Digital Research ... — https://www.energy.gov/datamanagement/doe-requirements-and-guidance-digital-research-data-management
+10. Open Science — https://www.dariah.eu/activities/open-science/
+11. German-Canadian International Research Training Group ... — https://sshrc-crsh.canada.ca/en/funding/opportunities/joint-initiatives/german-canadian-international-research-training-group-joint-initiative.aspx
+12. Treasury Open Data | U.S. Department of the ... — https://home.treasury.gov/data/treasury-open-data
+13. Draft NIH Policy on Sharing Summary Level Study Results ... — https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-113.html
+14. Writing a Data Management and Sharing Plan — https://www.energy.gov/datamanagement/writing-data-management-and-sharing-plan
+15. NIH vs. NSF Data Management Plans: What Actually Differs — https://casrai.org/guides/nih-vs-nsf-data-management-plans
+16. Presidential Actions — https://www.whitehouse.gov/presidential-actions/
+17. States Can Fight Federal Overreach by Protecting State Data — https://www.justsecurity.org/149225/states-fight-federal-overreach-protect-state-data/
+
+============================================================
+RUNTIME: 76.86 s
+ESTIMATED TOKENS: 1920
+ESTIMATED COST (USD): $0.0261
+============================================================
