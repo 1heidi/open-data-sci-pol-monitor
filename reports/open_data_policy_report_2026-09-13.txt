@@ -1,0 +1,130 @@
+OPEN DATA / SCIENCE POLICY MONITOR REPORT
+Generated on September 13, 2026
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. Confronting groupthink in the scholarly community is essential for innovation in open data and open science policy. [1] [2] [3] [4] [5] [6]
+
+2. The U.S. Department of Justice supports AI companies in copyright litigation, favoring LLM training as fair use. [7] [8] [2] [5] [9]
+
+3. Scholarly publishing must adapt to new AI-driven methods to remain relevant in the AI era. [10] [11] [1] [7] [12] [13]
+
+4. The Trump Administration's NIH funding cuts impact health research and censorship. [12] [14] [15] [6] [3] [16]
+
+5. Effective crisis response in times of crisis depends on prompt access to and utilization of data. [13] [15] [9] [5] [4] [8]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: Guest Post — A Groupthink We Don’t Talk Much About [1]
+SOURCE: The Scholarly Kitchen
+
+The text discusses the need to confront groupthink in the scholarly community concerning incentive structures that hinder adaptation and innovation in open data or open science policy.
+------------------------------------------------------------
+TITLE: Ask the Chefs: AI and Copyright Licensing [7]
+SOURCE: The Scholarly Kitchen
+
+The US Department of Justice supported the AI companies in a copyright infringement litigation involving The New York Times, favoring LLM training as fair use. This position was highlighted in a discussion with experts on AI and copyright licensing.
+------------------------------------------------------------
+TITLE: Guest Post — The Unbundling of Scholarly Publishing: A Trilemma for the AI Era [10]
+SOURCE: The Scholarly Kitchen
+
+making traditional journal portfolios and memberships insufficient for organizations. Adaptation to new AI-driven discovery and consumption methods is necessary for scholarly publishing in the AI era.
+------------------------------------------------------------
+TITLE: Up Close and Personal with the Trump Administration’s NIH Funding Cuts: An Interview with Sylvia Chou and Alexa Romberg [12]
+SOURCE: The Scholarly Kitchen
+
+Former NIH employees Sylvia Chou and Alexa Romberg discussed censorship and its impact on health research in light of the Trump Administration's funding cuts to the agency.
+------------------------------------------------------------
+TITLE: From Checklists to Crisis Response: CODATA and UNESCO Present the First Global Survey on Data Policies for Times of Crisis [13]
+SOURCE: CODATA Blog
+
+Effective crisis response depends on organizations being able to quickly access and share the necessary data. These organizations must find, trust, and utilize data promptly in order to respond successfully to crises like floods, epidemics, earthquakes, and displacement events that occur without warning.
+------------------------------------------------------------
+TITLE: Accelerating Access To Veterans' Benefits And ... [5]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data or open science policy aims to accelerate access to benefits and employment opportunities for veterans through better healthcare coverage, benefits processing and payment, education opportunities, and job training and placement.
+------------------------------------------------------------
+TITLE: Trump Dividend: America Is Winning — and Americans ... [6]
+SOURCE: SERPAPI Google Search
+
+which involves giving $5000 cash payments to every adult American citizen as part of the Science and Technology Policy Council's open data and open science policy initiatives.
+------------------------------------------------------------
+TITLE: NIMH Data Repository Requirements | Grants & Funding [15]
+SOURCE: SERPAPI Google Search
+
+The NIMH has created the NIMH Data Archive (NDA) to facilitate the sharing and utilization of data collected from human research participants. NDA operates as a cloud-based platform for researchers to store, access, and analyze this data.
+------------------------------------------------------------
+TITLE: Science Information Policy [3]
+SOURCE: SERPAPI Google Search
+
+Research data and software are required to be shared either at the time of publication or at the end of the funding award period. Mission data must be released promptly to the public.
+------------------------------------------------------------
+TITLE: Scholarly Publishing: Open access and funder mandates [11]
+SOURCE: SERPAPI Google Search
+
+Grant funders in the U.S. have open access policies that mandate funded research outputs to be accessible either upon publication or within 12 months.
+------------------------------------------------------------
+TITLE: Green OA - Open Access - Library Guides - Penn State [4]
+SOURCE: SERPAPI Google Search
+
+U.S. open data or open science policy requires that manuscripts be publicly available without embargo on the official publication date, even if they are not published as open access.
+------------------------------------------------------------
+TITLE: NIH Data Management & Sharing Plan - Research Guides [16]
+SOURCE: SERPAPI Google Search
+
+NIH expects researchers and institutions to follow data management and sharing practices outlined in their approved Plan to ensure compliance.
+------------------------------------------------------------
+TITLE: Standardizing University Data Access for Efficient Research [9]
+SOURCE: SERPAPI Google Search
+
+The FAIR principles focus on maximizing the value of scientific data through Findability, Accessibility, Interoperability, and Reusability.
+------------------------------------------------------------
+TITLE: FAIR Data Principles for Working Labs [8]
+SOURCE: SERPAPI Google Search
+
+The FAIR data principles allow for data to be access-controlled while remaining accessible as long as the conditions and retrieval protocol are well-defined.
+------------------------------------------------------------
+TITLE: Open Science Meet-Up: The FAIR Principles [2]
+SOURCE: SERPAPI Google Search
+
+The FAIR principles in open science policy aim to make research data findable, accessible, interoperable, and reusable. These objectives are essential for effective research data management.
+------------------------------------------------------------
+TITLE: Mapping the Impact of Research Infrastructure [14]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data or open science policy ensures that no fee is charged for publicly-available research results, but charges may apply for proprietary research to cover facility costs.
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. Guest Post — A Groupthink We Don’t Talk Much About — https://scholarlykitchen.sspnet.org/2026/09/11/guest-post-a-groupthink-we-dont-talk-much-about/
+2. Open Science Meet-Up: The FAIR Principles — https://www.euniwell.eu/news-events/events/detail/open-science-meet-up-the-fair-principles
+3. Science Information Policy — https://science.nasa.gov/researchers/science-information-policy/
+4. Green OA - Open Access - Library Guides - Penn State — https://guides.libraries.psu.edu/open-access/green
+5. Accelerating Access To Veterans' Benefits And ... — https://www.whitehouse.gov/presidential-actions/2026/09/accelerating-access-to-veterans-benefits-and-employment-opportunities/
+6. Trump Dividend: America Is Winning — and Americans ... — https://www.whitehouse.gov/releases/2026/09/trump-dividend-america-is-winning-and-americans-should-win-with-it/
+7. Ask the Chefs: AI and Copyright Licensing — https://scholarlykitchen.sspnet.org/2026/09/10/ask-the-chefs-ai-and-copyright-licensing/
+8. FAIR Data Principles for Working Labs — https://www.labmanager.com/fair-data-principles-in-the-working-laboratory-35932
+9. Standardizing University Data Access for Efficient Research — https://www.facebook.com/upovpdx/posts/does-getting-a-dataset-from-your-university-feel-like-half-the-research-workload/122256178742103003/
+10. Guest Post — The Unbundling of Scholarly Publishing: A Trilemma for the AI Era — https://scholarlykitchen.sspnet.org/2026/09/09/guest-post-the-unbundling-of-scholarly-publishing-a-trilemma-for-the-ai-era/
+11. Scholarly Publishing: Open access and funder mandates — https://unimelb.libguides.com/Scholarly_publishing/openaccess
+12. Up Close and Personal with the Trump Administration’s NIH Funding Cuts: An Interview with Sylvia Chou and Alexa Romberg — https://scholarlykitchen.sspnet.org/2026/09/08/up-close-and-personal-with-the-trump-administrations-nih-funding-cuts-an-interview-with-sylvia-chou-and-alexa-romberg/
+13. From Checklists to Crisis Response: CODATA and UNESCO Present the First Global Survey on Data Policies for Times of Crisis — https://codata.org/blog/2026/09/08/from-checklists-to-crisis-response-codata-and-unesco-present-the-first-global-survey-on-data-policies-for-times-of-crisis/
+14. Mapping the Impact of Research Infrastructure — https://www.energy.gov/science/articles/mapping-impact-research-infrastructure
+15. NIMH Data Repository Requirements | Grants & Funding — https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies/data-repository-requirements/nimh
+16. NIH Data Management & Sharing Plan - Research Guides — https://guides.lib.umich.edu/datamanagement/nihpolicy
+
+============================================================
+RUNTIME: 64.61 s
+ESTIMATED TOKENS: 1884
+ESTIMATED COST (USD): $0.0253
+============================================================
