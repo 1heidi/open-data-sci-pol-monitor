@@ -1,0 +1,142 @@
+OPEN DATA / SCIENCE POLICY MONITOR REPORT
+Generated on October 04, 2026
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. Reflecting on past decisions is crucial for optimizing open access and open science strategies. [1] [2] [3] [4] [5] [5]
+
+2. STM has issued voluntary recommendations to aid medical and health science researchers in navigating data sharing policies. [6] [7] [8] [9] [1] [2]
+
+3. Library leaders need to develop strategies for the second digital transformation of distinctive collections. [10] [6] [11] [1] [12] [13]
+
+4. Fostering a supportive environment is essential for addressing mental health issues in the community. [12] [6] [14] [15] [16] [17]
+
+5. Measuring snow in the Himalayas is vital for disaster risk reduction following the August 2026 glacial flood in Nepal. [13] [7] [18]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: Ask the Chefs: What Would You Have Done Differently About Open Access/Open Science if You Predicted the World as it Exists Today? Part 2 [1]
+SOURCE: The Scholarly Kitchen
+
+The text discusses a conversation about what changes would be made to open access and open science strategies with the benefit of hindsight. It suggests reflecting on past decisions in light of current circumstances.
+------------------------------------------------------------
+TITLE: Ask the Chefs: What Would You Have Done Differently About Open Access/Open Science if You Predicted the World as it Exists Today? Part 1 [2]
+SOURCE: The Scholarly Kitchen
+
+The text discusses a hypothetical scenario in which experts are asked how they would change their open access strategy knowing the current landscape of open science.
+------------------------------------------------------------
+TITLE: Guest Post — Medical and Health Data Sharing Policies Need Specific Guidance: New STM Recommendations Aim to Help [6]
+SOURCE: The Scholarly Kitchen
+
+STM has issued voluntary recommendations aimed at assisting medical and health science researchers in navigating data sharing policies that are challenging due to privacy, regulation, and ethics concerns specific to this field.
+------------------------------------------------------------
+TITLE: Are Libraries Prepared for the Second Digital Transformation of Distinctive Collections? [10]
+SOURCE: The Scholarly Kitchen
+
+Libraries and organizations hold valuable rare materials that are crucial for cultural and historical records, with a focus on humanistic fields. There is a need for library leaders to develop strategies for the second digital transformation of distinctive collections.
+------------------------------------------------------------
+TITLE: Mental Health Mondays: What We Haven’t Talked About [12]
+SOURCE: The Scholarly Kitchen
+
+The post discusses the significance of Suicide Prevention Month and stresses the need for supporting colleagues who may require assistance with mental health issues. It emphasizes the importance of fostering a supportive community environment for individuals in need.
+------------------------------------------------------------
+TITLE: September 2026: Publications in the Data Science Journal [7]
+SOURCE: CODATA Blog
+
+including guidelines for versioning data and a standardized framework for benthic mapping data in Florida. The authors of these publications are listed as Jens Klump, Lesley Wyborn, Mingfang Wu, Dorothea Strecker, Heinz Pampel, Laura Rothfritz, Anna E. Braswell, Vincent Lecours, Xiaohui Qiao, and Ana Carolina Peralta Brichtova.
+------------------------------------------------------------
+TITLE: Disaster Risk Reduction and Open Data Newsletter: September 2026 Edition [13]
+SOURCE: CODATA Blog
+
+The August 2026 glacial flood in Nepal that resulted in over 1,000 deaths highlighted the need to better understand the water resources in the Himalayas to help prevent future disasters. Scientists are still uncertain about the exact water storage and flow rates in the region, emphasizing the importance of measuring snow in the Himalayas for disaster risk reduction.
+------------------------------------------------------------
+TITLE: UNESCO PRESS Agenda - UNESCO highlights from October to December 2026 [18]
+SOURCE: JCU Sci Policy
+
+UNESCO's agenda highlights a special focus on Africa as a priority in the field of sciences, with events scheduled for October to December 2026. The final day of the Social Transformation Week will center on Africa, showcasing its importance in UNESCO's global initiatives.
+------------------------------------------------------------
+TITLE: City of Santa Barbara [16]
+SOURCE: SERPAPI Google Search
+
+The Santa Barbara City government provides online services and information for community members, businesses, and visitors on its official website.
+------------------------------------------------------------
+TITLE: National Data Strategy [8]
+SOURCE: SERPAPI Google Search
+
+The U.S. federal government released its first Federal Data Strategy in 2019, which provided guidance for agencies on managing and utilizing data. This strategy highlighted the importance of open data and open science policies in promoting transparency and innovation.
+------------------------------------------------------------
+TITLE: De Gruyter S2O - Open access publishing agreements [4]
+SOURCE: SERPAPI Google Search
+
+Subscribe to Open (S20) journals, and gold journals in English. Additionally, articles that are made open access...
+------------------------------------------------------------
+TITLE: De Gruyter Brill Will Add Journals to Open Access Program [3]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data or open science policy aims to promote open access in academic disciplines with limited traditional research grant funding. This program provides a strategic pathway to encourage the accessibility of research resources.
+------------------------------------------------------------
+TITLE: Institute of Physics Publishing (IOPP) - Library Subject guides [11]
+SOURCE: SERPAPI Google Search
+
+journals that transition from hybrid to fully open status will continue to be available for open access publishing throughout the agreement period.
+------------------------------------------------------------
+TITLE: Data-Driven Decision Making Certificate at University of Utah [9]
+SOURCE: SERPAPI Google Search
+
+Skill-based training courses related to open data and open science policy are being offered, such as "Foundations: Data, Data, Everywhere" and "Ask Questions to Make Data-Driven Decisions". These courses aim to go beyond basic data sharing and reporting practices.
+------------------------------------------------------------
+TITLE: Google Public Policy (@googlepubpolicy) ... [17]
+SOURCE: SERPAPI Google Search
+
+The United States has a high demand for skilled tradespeople to support the infrastructure projects. This workforce is essential for driving the country's future development.
+------------------------------------------------------------
+TITLE: ️ Improved the open research environment - EIFL's policy ... [14]
+SOURCE: SERPAPI Google Search
+
+EIFL has helped to implement 11 national open access policies and contributed to the development of open public infrastructures.
+------------------------------------------------------------
+TITLE: Insurers say AI could add billions in health costs. Billing ... [15]
+SOURCE: SERPAPI Google Search
+
+Insurers argue that AI-assisted coding tools are contributing to higher healthcare costs for patients, despite vendors claiming that these tools can address years of under-documentation.
+------------------------------------------------------------
+TITLE: What Is Open Access Publishing [5]
+SOURCE: SERPAPI Google Search
+
+Open access publishing allows for unrestricted online access to scholarly research, with various types of open access models available for authors to choose from, including options for how authors finance it.
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. Ask the Chefs: What Would You Have Done Differently About Open Access/Open Science if You Predicted the World as it Exists Today? Part 2 — https://scholarlykitchen.sspnet.org/2026/10/02/ask-the-chefs-what-would-you-have-done-differently-about-open-access-open-science-if-you-predicted-the-world-as-it-exists-today-part-2/
+2. Ask the Chefs: What Would You Have Done Differently About Open Access/Open Science if You Predicted the World as it Exists Today? Part 1 — https://scholarlykitchen.sspnet.org/2026/10/01/ask-the-chefs-what-would-you-have-done-differently-about-open-access-open-science-if-you-predicted-the-world-as-it-exists-today/
+3. De Gruyter Brill Will Add Journals to Open Access Program — https://wisevoter.com/world/2026/09/29/de-gruyter-brill-open-access-journals
+4. De Gruyter S2O - Open access publishing agreements — https://subjectguides.library.unsw.edu.au/oapublishing-agreements/degruyter
+5. What Is Open Access Publishing — https://www.facebook.com/fb-answers/what-is-open-access-publishing/?locale=nl_NL
+6. Guest Post — Medical and Health Data Sharing Policies Need Specific Guidance: New STM Recommendations Aim to Help — https://scholarlykitchen.sspnet.org/2026/09/30/guest-post-medical-and-health-data-sharing-policies-need-specific-guidance-new-stm-recommendations-aim-to-help/
+7. September 2026: Publications in the Data Science Journal — https://codata.org/blog/2026/10/01/september-2026-publications-in-the-data-science-journal/
+8. National Data Strategy — https://datafoundation.org/pages/national-data-strategy
+9. Data-Driven Decision Making Certificate at University of Utah — https://www.facebook.com/UofUProEd/posts/in-10-weeks-youll-go-beyond-pulling-reports-and-sharing-data-youll-practice-turn/1069100376177534/
+10. Are Libraries Prepared for the Second Digital Transformation of Distinctive Collections? — https://scholarlykitchen.sspnet.org/2026/09/29/are-libraries-prepared-second-digital-transformation-distinctive-collections/
+11. Institute of Physics Publishing (IOPP) - Library Subject guides — https://subjectguides.library.unsw.edu.au/oapublishing-agreements/iopp
+12. Mental Health Mondays: What We Haven’t Talked About — https://scholarlykitchen.sspnet.org/2026/09/28/mental-health-mondays-what-we-havent-talked-about/
+13. Disaster Risk Reduction and Open Data Newsletter: September 2026 Edition — https://codata.org/blog/2026/10/01/disaster-risk-reduction-and-open-data-newsletter-september-2026-edition/
+14. ️ Improved the open research environment - EIFL's policy ... — https://www.facebook.com/eIFL.net/posts/eifl-support-for-research-teaching-and-learning-highlights-from-eiflga2026-eifl-/1514921337343093/
+15. Insurers say AI could add billions in health costs. Billing ... — https://www.healthcaredive.com/news/insurers-say-ai-could-add-billions-in-health-costs-billing-companies-disag/831497/
+16. City of Santa Barbara — https://santabarbaraca.gov/
+17. Google Public Policy (@googlepubpolicy) ... — https://x.com/googlepubpolicy/all?lang=bg
+18. UNESCO PRESS Agenda - UNESCO highlights from October to December 2026 — http://cssp-jnu.blogspot.com/2026/10/unesco-press-agenda-unesco-highlights.html
+
+============================================================
+RUNTIME: 63.71 s
+ESTIMATED TOKENS: 2340
+ESTIMATED COST (USD): $0.0301
+============================================================
