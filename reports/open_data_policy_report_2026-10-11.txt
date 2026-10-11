@@ -1,0 +1,154 @@
+OPEN DATA / SCIENCE POLICY MONITOR REPORT
+Generated on October 11, 2026
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. Word Wipe demonstrates a world without US government banned words. [1] [2] [3] [4] [5]
+
+2. Duke University Press celebrates 100 years highlighting university presses' significance. [6] [7] [8] [9] [10] [11]
+
+3. The TRACE Project aims to advance AI interoperability and usage tracking. [12] [13] [3] [14] [15] [16]
+
+4. Research Integrity in Scholarly Communications focuses on addressing challenges. [17] [18] [15] [8] [19] [1]
+
+5. The U.S. open data policy emphasizes transparency and collaboration for scientific knowledge and innovation. [3] [18] [15] [15] [20] [14]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: #DefendResearch and PEN America Present... Word Wipe! [1]
+SOURCE: The Scholarly Kitchen
+
+Word Wipe is an anti-censorship tool that demonstrates a world without words banned by the US government, presented by #DefendResearch and PEN America.
+------------------------------------------------------------
+TITLE: Guest Post – Do Not Go Gentle: Duke University Press Turns 100 [6]
+SOURCE: The Scholarly Kitchen
+
+highlighting the significance of university presses in academic publishing.
+------------------------------------------------------------
+TITLE: TRACE Project Launches to Advance AI interoperability [12]
+SOURCE: The Scholarly Kitchen
+
+and usage tracking for generative AI systems through a collaborative community effort.
+------------------------------------------------------------
+TITLE: Research Integrity in Scholarly Communications — SSP Pulse Check Report [17]
+SOURCE: The Scholarly Kitchen
+
+focusing on the challenges related to research integrity in scholarly communications. It highlights how the community is addressing interconnected issues in this area.
+------------------------------------------------------------
+TITLE: Press briefing - Mapping marine life in a warming ocean: UNESCO briefing on eDNA Expeditions ahead of COP17 [7]
+SOURCE: JCU Sci Policy
+
+UNESCO will be briefing journalists on the global rollout of its eDNA Expeditions, a marine biodiversity program that tracks ocean species movements through water samples to study the effects of climate change ahead of the UN Biodiversity Conference.
+------------------------------------------------------------
+TITLE: Science Diplomacy July-Sept 2026 issue online [3]
+SOURCE: JCU Sci Policy
+
+The U.S. open data or open science policy aims to provide access to government-funded research data to the public. The policy encourages transparency and collaboration among researchers and policymakers to enhance scientific knowledge and innovation.
+------------------------------------------------------------
+TITLE: 2026 Usage Policy update [13]
+SOURCE: SERPAPI Google Search
+
+Anthropic revises its Usage Policy based on advancements in its models and customer feedback.
+------------------------------------------------------------
+TITLE: Data Sharing Policy | Science Insights [18]
+SOURCE: SERPAPI Google Search
+
+Science Insights advocates for responsible research data sharing to enhance transparency, reproducibility, and trust in scholarly research.
+------------------------------------------------------------
+TITLE: Data Sharing Policy | AI & Society Review [20]
+SOURCE: SERPAPI Google Search
+
+taking into consideration ethical, legal, institutional, and privacy constraints.
+------------------------------------------------------------
+TITLE: Surface Transportation Board delivers improved data ... [14]
+SOURCE: SERPAPI Google Search
+
+The Surface Transportation Board has launched a new Open Data Portal to enhance accessibility and transparency of its datasets for users. This initiative aims to provide understandable and trustworthy data to make it easier for stakeholders to access and utilize the information.
+------------------------------------------------------------
+TITLE: Open Access Policies for Universities [9]
+SOURCE: SERPAPI Google Search
+
+Universities are implementing open access policies to ensure research is freely accessible online. For example, the University of California now has a policy that encompasses all research outputs.
+------------------------------------------------------------
+TITLE: Open access mandate | Academic Libraries Glossary [4]
+SOURCE: SERPAPI Google Search
+
+A open access mandate requires research outputs to be freely accessible to the public without subscription barriers, either by institutions or funders.
+------------------------------------------------------------
+TITLE: THE FAIR GUIDING PRINCIPLES FOR SCIENTIFIC DATA ... [15]
+SOURCE: SERPAPI Google Search
+
+The fair guiding principles for scientific data management and stewardship aim to improve the usability and accessibility of scientific data. These guidelines focus on enhancing data quality, interoperability, and reproducibility to facilitate open data policies and open science practices.
+------------------------------------------------------------
+TITLE: Invest in Open Infrastructure Press Releases [8]
+SOURCE: SERPAPI Google Search
+
+IOI's analysis of over $663 million in grant funding highlights the dangers of concentration in research funding and emphasizes the importance of open infrastructure in maintaining research integrity, particularly in the field of generative AI.
+------------------------------------------------------------
+TITLE: CoST – Infrastructure Transparency Initiative | Better lives from ... [5]
+SOURCE: SERPAPI Google Search
+
+Since 2020, there have been 100,244 projects published using CoST IDS or OC4IDS, involving participation from 15,260 government, civil society, private sector, and media entities.
+------------------------------------------------------------
+TITLE: Hundreds of doctors demand World Medical Association ... [2]
+SOURCE: SERPAPI Google Search
+
+Doctors are calling for the World Medical Association to suspend the Israeli Medical Association due to accusations of silence in the face of the systematic destruction of Palestinian healthcare.
+------------------------------------------------------------
+TITLE: Asian American Journalists Association - Asian American ... [10]
+SOURCE: SERPAPI Google Search
+
+AAJA has been advocating for over 45 years to increase representation and inclusion of AAPIs in newsrooms.
+------------------------------------------------------------
+TITLE: Examples of indirect costs for federal grants [11]
+SOURCE: SERPAPI Google Search
+
+The text discusses the importance of understanding and recouping indirect costs associated with federal grant funding, specifically highlighting SCC indirect costs for ESG and CoC grants.
+------------------------------------------------------------
+TITLE: OpenAI | Research & Deployment [19]
+SOURCE: SERPAPI Google Search
+
+The text discusses the goal of achieving artificial general intelligence through research in the field.
+------------------------------------------------------------
+TITLE: Open Letter - NFA Guidance [16]
+SOURCE: SERPAPI Google Search
+
+Tobacco, Firearms, and Explosives (ATF) to federal firearm licensees (FFLs) and the public. It aims to inform FFLs and the public about policy updates related to firearms.
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. #DefendResearch and PEN America Present... Word Wipe! — https://scholarlykitchen.sspnet.org/2026/10/09/defendresearch-and-pen-america-present-word-wipe/
+2. Hundreds of doctors demand World Medical Association ... — https://www.aljazeera.com/news/2026/10/10/hundreds-of-doctors-demand-world-medical-association-suspend-israel
+3. Science Diplomacy July-Sept 2026 issue online — http://cssp-jnu.blogspot.com/2026/10/science-diplomacy-july-sept-2026-issue.html
+4. Open access mandate | Academic Libraries Glossary — https://editingtests.com/industries/academic-libraries/glossary/open-access-mandate
+5. CoST – Infrastructure Transparency Initiative | Better lives from ... — https://infrastructuretransparency.org/
+6. Guest Post – Do Not Go Gentle: Duke University Press Turns 100 — https://scholarlykitchen.sspnet.org/2026/10/08/guest-post-do-not-go-gentle-duke-university-press-turns-100/
+7. Press briefing - Mapping marine life in a warming ocean: UNESCO briefing on eDNA Expeditions ahead of COP17 — http://cssp-jnu.blogspot.com/2026/10/press-briefing-mapping-marine-life-in.html
+8. Invest in Open Infrastructure Press Releases — https://www.einpresswire.com/sources/u707725
+9. Open Access Policies for Universities — https://www.facebook.com/fb-answers/open-access-policies-for-universities/?locale=nb_NO
+10. Asian American Journalists Association - Asian American ... — https://www.aaja.org/
+11. Examples of indirect costs for federal grants — https://evjwudqfqcfq.world/ulrtnwgfdbevxjyvdvhjgxeiwofpfbusy
+12. TRACE Project Launches to Advance AI interoperability — https://scholarlykitchen.sspnet.org/2026/10/07/trace-project-launches-to-advance-ai-interoperability/
+13. 2026 Usage Policy update — https://www.anthropic.com/news/2026-usage-policy-update
+14. Surface Transportation Board delivers improved data ... — https://www.desmoinesregister.com/press-release/story/136140/surface-transportation-board-delivers-improved-data-access-with-huwise/
+15. THE FAIR GUIDING PRINCIPLES FOR SCIENTIFIC DATA ... — https://ftp.aopr.net/article/dywPaF6FE124/The_Fair_Guiding_Principles_For_Scientific_Data_Management_And_Stewardship
+16. Open Letter - NFA Guidance — https://www.atf.gov/media/30961/download
+17. Research Integrity in Scholarly Communications — SSP Pulse Check Report — https://scholarlykitchen.sspnet.org/2026/10/06/research-integrity-in-scholarly-communications-ssp-pulse-check-report/
+18. Data Sharing Policy | Science Insights — https://sciinsights.org/policies/data-sharing/
+19. OpenAI | Research & Deployment — https://openai.com/
+20. Data Sharing Policy | AI & Society Review — https://www.harrisonacademicpress.com/index.php/AISR/DataSharingPolicy
+
+============================================================
+RUNTIME: 65.44 s
+ESTIMATED TOKENS: 1907
+ESTIMATED COST (USD): $0.0251
+============================================================
