@@ -1,0 +1,148 @@
+OPEN DATA / SCIENCE POLICY MONITOR REPORT
+Generated on October 18, 2026
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. Agentic engagement with AI is shifting scholarly research behaviors from discovery to consumption. [1] [2] [3] [4] [5] [6]
+
+2. The FAIR principles aim to optimize research data for accessibility and usability by both humans and machines. [7] [5] [8] [4] [1] [9]
+
+3. The U.S. government is mandating that all federally funded research be made Open Access by 2025. [10] [11] [10] [9] [6] [12]
+
+4. Federal cuts to science agencies hinder economic growth and transfer costs to communities. [13] [14] [11] [15] [9] [16]
+
+5. The FedRAMP Marketplace provides information on cloud services certified for handling sensitive government data. [17] [18] [19] [4] [9] [16]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: Guest Post — From an Accidental Title List to a Connected Supply Chain: My Years with KBART [2]
+SOURCE: The Scholarly Kitchen
+
+The text discusses how the implementation of multilingual discovery and cross-industry collaboration transformed a metadata file into a comprehensive map of the scholarly information supply chain, highlighting the evolution of open data and open science policy in the U.S.
+------------------------------------------------------------
+TITLE: Guest Post – The Evolution of Eras: Agentic Discovery Makes Way for Agentic Consumption [1]
+SOURCE: The Scholarly Kitchen
+
+Researchers are transitioning from agentic discovery to agentic consumption when engaging with AI and scholarly research. This shift reflects a new way of interacting with information and data in the field.
+------------------------------------------------------------
+TITLE: Guest Post – Artificial Intelligence in Scholarly Publishing: Are We Moving Faster Than the Evidence? [3]
+SOURCE: The Scholarly Kitchen
+
+and human judgment in the next phase of AI adoption in scholarly publishing. It reflects on whether the field is progressing faster in implementing AI than the evidence supporting its efficacy.
+------------------------------------------------------------
+TITLE: Data sharing policy in research [4]
+SOURCE: SERPAPI Google Search
+
+The text discusses the 2023 NIH Data Management and Sharing Policy, aimed at providing researchers with key information about data sharing in research.
+------------------------------------------------------------
+TITLE: Op-Ed: The Fed's 35-year open data bet is a model for ... [9]
+SOURCE: SERPAPI Google Search
+
+The FRED platform by the Federal Reserve Bank of St. Louis is a leading example of open government data, providing access to over 850,000 economic data series.
+------------------------------------------------------------
+TITLE: Inside the effort to track disappearing federal data [16]
+SOURCE: SERPAPI Google Search
+
+Data policy experts are increasingly focused on documenting changes to federal data sets and the resulting loss of information due to removal or alterations.
+------------------------------------------------------------
+TITLE: FedRAMP | FedRAMP.gov [17]
+SOURCE: SERPAPI Google Search
+
+The FedRAMP Marketplace is a database that provides information on FedRAMP certified cloud services, authorizing agencies, and recognized assessors. Users can search and access this information to learn more about the security of these services.
+------------------------------------------------------------
+TITLE: Dynatrace plans FedRAMP Class D (High) [19]
+SOURCE: SERPAPI Google Search
+
+The text explains that FedRAMP Class D is the certification standard for cloud services that manage the U.S. government's highly sensitive, unclassified data.
+------------------------------------------------------------
+TITLE: FedRAMP Certified Cloud Providers for Government [18]
+SOURCE: SERPAPI Google Search
+
+Government agencies need FedRAMP approved solutions to ensure they meet security and compliance standards. Carahsoft offers a list of FedRAMP certified cloud technologies to address this need.
+------------------------------------------------------------
+TITLE: The FAIR principles: making rare disease data work better [8]
+SOURCE: SERPAPI Google Search
+
+The FAIR principles are guidelines for managing and reusing scientific data to ensure its usability beyond its initial purpose. The principles focus on making data Findable, Accessible, Interoperable, and Reusable.
+------------------------------------------------------------
+TITLE: FAIR Principles [7]
+SOURCE: SERPAPI Google Search
+
+The FAIR Data Principles focus on ensuring that research data is easily accessible and usable by both people and machines. This involves optimizing data preparation for various uses in research.
+------------------------------------------------------------
+TITLE: Fair and care principles for research data management [5]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data and open science policy emphasizes making research data Findable, Accessible, Interoperable, and Reusable (FAIR) and promoting data practices that are Collectively Beneficial (CARE).
+------------------------------------------------------------
+TITLE: Open Access Policies and Mandates Around the World [10]
+SOURCE: SERPAPI Google Search
+
+The USA government has mandated that all US-funded research must be made Open Access by the end of 2025, leading to a significant increase in open data or open science policy implementation.
+------------------------------------------------------------
+TITLE: Access to research infrastructure services to enable R&I ... [6]
+SOURCE: SERPAPI Google Search
+
+The focus of this policy is to offer access to research infrastructure services, either on-site or remotely, to support research and meet industry needs. This includes providing integrated and personalized services to facilitate innovation and collaboration.
+------------------------------------------------------------
+TITLE: New Science's Report on the NSF [11]
+SOURCE: SERPAPI Google Search
+
+In 2022, the Biden administration issued the Nelson Memo instructing research agencies to lift embargoes on federally funded research papers, promoting open access to scientific information.
+------------------------------------------------------------
+TITLE: The Cost of Cutting Funding to US Scientific Research [13]
+SOURCE: SERPAPI Google Search
+
+Cuts to federal science agencies do not result in cost savings. Instead, these cuts lead to reduced economic growth and transfer costs to communities and families.
+------------------------------------------------------------
+TITLE: Indirect cost allocation for federal government contractors [14]
+SOURCE: SERPAPI Google Search
+
+Indirect costs in U.S. open data or open science policy are expenses that support multiple contracts or business activities, such as accounting staff, office expenses, employee benefits, and managers overseeing operations.
+------------------------------------------------------------
+TITLE: Indirect Rates Made Simple for Government Contractors [12]
+SOURCE: SERPAPI Google Search
+
+Indirect rates are utilized to allocate shared business costs across contracts through standardized allocation methods, with common categories including.
+------------------------------------------------------------
+TITLE: How to Calculate Your Indirect Cost Rate for Federal Grants [15]
+SOURCE: SERPAPI Google Search
+
+Federal indirect costs can be calculated using the up-to-15% de minimis rate (10% on NIH awards), negotiated rates, MTDC exclusions, and award caps.
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. Guest Post – The Evolution of Eras: Agentic Discovery Makes Way for Agentic Consumption — https://scholarlykitchen.sspnet.org/2026/10/15/guest-post-the-evolution-of-eras-agentic-discovery-makes-way-for-agentic-consumption/
+2. Guest Post — From an Accidental Title List to a Connected Supply Chain: My Years with KBART — https://scholarlykitchen.sspnet.org/2026/10/16/guest-post-from-an-accidental-title-list-to-a-connected-supply-chain-my-years-with-kbart/
+3. Guest Post – Artificial Intelligence in Scholarly Publishing: Are We Moving Faster Than the Evidence? — https://scholarlykitchen.sspnet.org/2026/10/14/guest-post-artificial-intelligence-in-scholarly-publishing-are-we-moving-faster-than-the-evidence/
+4. Data sharing policy in research — https://wzcyw.jemnlxwecerp.monster/bi2qv/wyp5bj9t1y7zkvqtrlob4v8k/mz2oh-0t7
+5. Fair and care principles for research data management — https://www.facebook.com/iiumlibrary/posts/1544518364390625/
+6. Access to research infrastructure services to enable R&I ... — https://errin.eu/calls/access-research-infrastructure-services-enable-ri-addressing-industry-needs-priority-areas
+7. FAIR Principles — https://www.uibk.ac.at/en/zid/research-data-management/rdm/fair/
+8. The FAIR principles: making rare disease data work better — https://erdera.org/article/the-fair-principles/
+9. Op-Ed: The Fed's 35-year open data bet is a model for ... — https://datafoundation.org/news/blogs/933/933-Op-Ed-The-Feds-35-year-open-data-bet-is-a-model-for-the-AI-era
+10. Open Access Policies and Mandates Around the World — https://mdpiblog.wordpress.sciforum.net/2026/10/15/open-access-policies/
+11. New Science's Report on the NSF — https://newscience.org/nsf/
+12. Indirect Rates Made Simple for Government Contractors — https://www.grfcpa.com/resource/insights-indirect-rates-made-simple/
+13. The Cost of Cutting Funding to US Scientific Research — https://www.mountain-news.com/online_features/community_cares/the-cost-of-cutting-funding-to-us-scientific-research/article_bfb92df3-83e4-551f-b24a-bb9fd230aeb5.html
+14. Indirect cost allocation for federal government contractors — https://condley.cpa/indirect-cost-allocation-for-federal-government-contractors-building-rates-you-can-explain-and-support/
+15. How to Calculate Your Indirect Cost Rate for Federal Grants — https://grantsights.com/blog/how-to-calculate-indirect-cost-rate
+16. Inside the effort to track disappearing federal data — https://www.youtube.com/shorts/8ynaZWKa21o
+17. FedRAMP | FedRAMP.gov — https://www.fedramp.gov/
+18. FedRAMP Certified Cloud Providers for Government — https://www.carahsoft.com/solve/fedramp-technologies
+19. Dynatrace plans FedRAMP Class D (High) — https://www.dynatrace.com/news/blog/dynatrace-plans-fedramp-class-d-high/
+
+============================================================
+RUNTIME: 72.09 s
+ESTIMATED TOKENS: 1990
+ESTIMATED COST (USD): $0.0264
+============================================================
