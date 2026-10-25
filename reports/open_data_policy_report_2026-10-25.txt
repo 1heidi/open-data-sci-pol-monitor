@@ -1,0 +1,124 @@
+OPEN DATA / SCIENCE POLICY MONITOR REPORT
+Generated on October 25, 2026
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. Frequent theme: offline [1] [2] [3] [4] [5] [6]
+
+2. Frequent theme: serpapi [1] [2] [7] [8] [9] [10]
+
+3. Frequent theme: google [1] [2] [7] [8] [9] [10]
+
+4. Frequent theme: search [1] [2] [7] [8] [9] [10]
+
+5. Frequent theme: open [2] [11] [12] [13] [14] [15]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: Guest Post — Improving OpenAlex Data: Why Publishers Should Help Authors Improve the Scholarly Record [3]
+SOURCE: The Scholarly Kitchen
+
+[OFFLINE] The Scholarly Kitchen: <p>Today's guest post is a call to action in support of OpenAlex and its role in author disambiguation.</p> <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/10/23/guest-post-improving-openalex-data-why-publishers-should-help-authors-improve-the-scholarly-record/">Gue...
+------------------------------------------------------------
+TITLE: Guest Post — All this AI Signal and Noise: What Deserves Action Now [4]
+SOURCE: The Scholarly Kitchen
+
+[OFFLINE] The Scholarly Kitchen: <p>Amidst the onslaught of industry and global changes, opportunities, and advancements, which signals deserve action now, which are context, and which are weather?</p> <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/10/22/guest-post-all-this-ai-signal-and-noise-wha...
+------------------------------------------------------------
+TITLE: Guest Post — Defining Our Future: Reassessing What, How, and Why We Publish [1]
+SOURCE: The Scholarly Kitchen
+
+[OFFLINE] The Scholarly Kitchen: <p>Today, the co-chairs of the 2027 SSP Annual Meeting discuss the theme and the importance of gathering to discuss what, how, and why we publish.</p> <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/10/21/guest-post-defining-our-future-reassessing-what-how-and-why-w...
+------------------------------------------------------------
+TITLE: From Content to Trusted Knowledge: Reflections on Frankfurt Book Fair 2026 [5]
+SOURCE: The Scholarly Kitchen
+
+[OFFLINE] The Scholarly Kitchen: <p>Thoughts on the Frankfurt Book Fair 2026: how do we turn trusted content into useful knowledge — and help people act on it?</p> <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/10/20/from-content-to-trusted-knowledge-reflections-on-frankfurt-book-fair-2026/">From ...
+------------------------------------------------------------
+TITLE: Guest Post — Whose Knowledge, Whose Terms? Governing Open Research in MENA, One Year On [2]
+SOURCE: The Scholarly Kitchen
+
+[OFFLINE] The Scholarly Kitchen: <p>On October 19 and 20, 2026, the Forum for Open Research in MENA (Middle East and North Africa; FORM) will hold its 5th Annual Forum entirely online. This year's theme of resilience reflects the operating conditions facing many member organizations.</p> <p>The post <a href="htt...
+------------------------------------------------------------
+TITLE: Payment Done [6]
+SOURCE: JCU Sci Policy
+
+[OFFLINE] JCU Sci Policy: <table cellpadding="0" cellspacing="0" style="background: #f4f6f8; font-family: Arial, sans-serif; width: 100%;" width="100%"> <tbody> <tr> <td align="center" style="padding: 25px 10px; width: 100%;"> <table cellpadding="0" cellspacing="0" style="background: #fff; border: 1px sol...
+------------------------------------------------------------
+TITLE: Advancing Women's Health to Improve Outcomes in All ... [7]
+SOURCE: SERPAPI Google Search
+
+[OFFLINE] SERPAPI Google Search: Therefore, it is the policy of the United States to prioritize translating research into improved clinical care that benefits women and girls through a ......
+------------------------------------------------------------
+TITLE: Presidential Actions [8]
+SOURCE: SERPAPI Google Search
+
+[OFFLINE] SERPAPI Google Search: President Office of Management and Budget Office of Science and Technology Policy Council of Economic Advisors. Briefings & Statements...
+------------------------------------------------------------
+TITLE: White House Appoints 2026-2027 Class of ... [9]
+SOURCE: SERPAPI Google Search
+
+[OFFLINE] SERPAPI Google Search: Today, the President's Commission on White House Fellows announced the appointment of 11 exceptional Americans who will serve as White House Fellows for a ......
+------------------------------------------------------------
+TITLE: Op-Ed: Washington had a Federal Data Strategy. America ... [10]
+SOURCE: SERPAPI Google Search
+
+[OFFLINE] SERPAPI Google Search: When government makes high-quality data digitally accessible, that data can power the economy, protect public health, drive scientific discovery and hold ......
+------------------------------------------------------------
+TITLE: Open Data & Transparency: Latest News [11]
+SOURCE: SERPAPI Google Search
+
+[OFFLINE] SERPAPI Google Search: How can federal agencies provide the public with better data? Check out our latest stories on Federal News Radio....
+------------------------------------------------------------
+TITLE: Open Access Publishing and Resources: NIH and ... - Guides [12]
+SOURCE: SERPAPI Google Search
+
+[OFFLINE] SERPAPI Google Search: By 2026, all federally funded research will be required to be open access immediately. Government agencies are currently updating their open access and data ......
+------------------------------------------------------------
+TITLE: Open access refers to posting or publishing research so ... [13]
+SOURCE: SERPAPI Google Search
+
+[OFFLINE] SERPAPI Google Search: Governments and funding agencies are increasingly supporting open access mandates, requiring publicly funded research to be freely available....
+------------------------------------------------------------
+TITLE: Publishing Open Access & Public Access - Research Guides [14]
+SOURCE: SERPAPI Google Search
+
+[OFFLINE] SERPAPI Google Search: Beginning January 2025, all federal grants require immediate public access to the resulting research. For a scholarly work to be publicly available, it need ......
+------------------------------------------------------------
+TITLE: Open Science Meet-Up: The FAIR Principles 2026 [15]
+SOURCE: SERPAPI Google Search
+
+[OFFLINE] SERPAPI Google Search: FAIR Principles: Findable, Accessible, Interoperable and Reusable, which have become a cornerstone of responsible and sustainable research data management....
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. Guest Post — Defining Our Future: Reassessing What, How, and Why We Publish — https://scholarlykitchen.sspnet.org/2026/10/21/guest-post-defining-our-future-reassessing-what-how-and-why-we-publish/
+2. Guest Post — Whose Knowledge, Whose Terms? Governing Open Research in MENA, One Year On — https://scholarlykitchen.sspnet.org/2026/10/19/guest-post-whose-knowledge-whose-terms-governing-open-research-in-mena-one-year-on/
+3. Guest Post — Improving OpenAlex Data: Why Publishers Should Help Authors Improve the Scholarly Record — https://scholarlykitchen.sspnet.org/2026/10/23/guest-post-improving-openalex-data-why-publishers-should-help-authors-improve-the-scholarly-record/
+4. Guest Post — All this AI Signal and Noise: What Deserves Action Now — https://scholarlykitchen.sspnet.org/2026/10/22/guest-post-all-this-ai-signal-and-noise-what-deserves-action-now/
+5. From Content to Trusted Knowledge: Reflections on Frankfurt Book Fair 2026 — https://scholarlykitchen.sspnet.org/2026/10/20/from-content-to-trusted-knowledge-reflections-on-frankfurt-book-fair-2026/
+6. Payment Done — http://cssp-jnu.blogspot.com/2026/10/payment-done.html
+7. Advancing Women's Health to Improve Outcomes in All ... — https://www.whitehouse.gov/presidential-actions/2026/10/advancing-womens-health-to-improve-outcomes-in-all-phases-of-life/
+8. Presidential Actions — https://www.whitehouse.gov/presidential-actions/
+9. White House Appoints 2026-2027 Class of ... — https://www.whitehouse.gov/releases/2026/10/white-house-press-release-white-house-appoints-2026-2027-class-of-white-house-fellows/
+10. Op-Ed: Washington had a Federal Data Strategy. America ... — https://datafoundation.org/news/blogs/935/935-Op-Ed-Washington-had-a-Federal-Data-Strategy-America-Needs-a-National-One
+11. Open Data & Transparency: Latest News — https://federalnewsnetwork.com/category/technology-main/open-datatransparency/
+12. Open Access Publishing and Resources: NIH and ... - Guides — https://guides.dml.georgetown.edu/openaccess/NIHOpenAccess
+13. Open access refers to posting or publishing research so ... — https://www.facebook.com/PennLibraries/posts/open-access-refers-to-posting-or-publishing-research-so-that-it-is-publicly-acce/1102843679057929/
+14. Publishing Open Access & Public Access - Research Guides — https://guides.library.msstate.edu/open_and_public_access_publishing
+15. Open Science Meet-Up: The FAIR Principles 2026 — https://www.facebook.com/EUniWell/posts/join-us-for-the-next-euniwell-open-science-meet-up-the-fair-principles-this-year/1136754695541666/
+
+============================================================
+RUNTIME: 3.54 s
+ESTIMATED TOKENS: 2188
+ESTIMATED COST (USD): $0.0264
+============================================================
