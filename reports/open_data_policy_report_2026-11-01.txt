@@ -1,0 +1,130 @@
+OPEN DATA / SCIENCE POLICY MONITOR REPORT
+Generated on November 01, 2026
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. Frequent theme: offline [1] [2] [3] [4] [5] [6]
+
+2. Frequent theme: search [7] [8] [9] [10] [11] [12]
+
+3. Frequent theme: serpapi [7] [8] [9] [10] [11] [12]
+
+4. Frequent theme: google [7] [8] [9] [10] [11] [12]
+
+5. Frequent theme: data [6] [13] [14] [15] [10] [16]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: Guest Post — Freed from Thinking: Protecting Scholarly Publishing from the Slow Erosion of Human Judgment [1]
+SOURCE: The Scholarly Kitchen
+
+[OFFLINE] The Scholarly Kitchen: <p>Today's guest blogger argues that if we want scholarly publishing to be worth anything in a generation, we must acknowledge the risks we run by relying on intelligent automation.</p> <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/10/30/guest-post-freed-from-thin...
+------------------------------------------------------------
+TITLE: Ask the SSP Advocacy Committee: What one change would you most like to see in terms of U.S. federal support for research following the midterms? [2]
+SOURCE: The Scholarly Kitchen
+
+[OFFLINE] The Scholarly Kitchen: <p>Today we hear from some of SSP's Advocacy Committee members about what changes they'd like to see to US federal support for research.</p> <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/10/29/ask-the-ssp-advocacy-committee-what-one-change-would-you-most-like-to-s...
+------------------------------------------------------------
+TITLE: From Anecdote to Evidence: How US Government Censorship is Impacting Public Health [3]
+SOURCE: The Scholarly Kitchen
+
+[OFFLINE] The Scholarly Kitchen: <p>With the midterms approaching, read about this timely report on US government censorship of research on public health -- the first to analyze the aggregated impact </p> <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/10/28/from-anecdote-to-evidence-how-us-governm...
+------------------------------------------------------------
+TITLE: Who Keeps the Catalog of Connectors? The Coming MCP Discovery Problem [4]
+SOURCE: The Scholarly Kitchen
+
+[OFFLINE] The Scholarly Kitchen: <p>Libraries and their vendor partners can build registries and metadata feeds that make MCP connectors for scholarly content findable, accessible, and usable.</p> <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/10/27/mcp-discovery/">Who Keeps the Catalog of Connect...
+------------------------------------------------------------
+TITLE: Guest Post — When Research Integrity Fails, the Entire System Follows [5]
+SOURCE: The Scholarly Kitchen
+
+[OFFLINE] The Scholarly Kitchen: <p>Leadership in academia, publishing, funding, and across the supply chain must coordinate efforts to address research integrity. It is this collective responsibility that will restore and protect the credibility of research.</p> <p>The post <a href="https://scholarlykitchen.ssp...
+------------------------------------------------------------
+TITLE: Disaster Risk Reduction and Open Data Newsletter: October 2026 Edition [6]
+SOURCE: CODATA Blog
+
+[OFFLINE] CODATA Blog: From local resilience to systemic risk governance Households can prepare for floods, but they cannot decide where development happens upstream, how regional power networks are protected, or whether capital keeps flowing into hazard-prone land. Writing for International Day for Di...
+------------------------------------------------------------
+TITLE: Enforcement Discretion Policy Regarding 503A ... [7]
+SOURCE: SERPAPI Google Search
+
+[OFFLINE] SERPAPI Google Search: This document describes the HHS Secretary's enforcement policy regarding the use of certain peptide bulk drug substances in compounding pursuant to section 503A...
+------------------------------------------------------------
+TITLE: Monetary policy decisions - European Central Bank [8]
+SOURCE: SERPAPI Google Search
+
+[OFFLINE] SERPAPI Google Search: The Governing Council is committed to setting monetary policy to ensure that inflation stabilises at its 2% target in the medium term....
+------------------------------------------------------------
+TITLE: POLICY Definition & Meaning [9]
+SOURCE: SERPAPI Google Search
+
+[OFFLINE] SERPAPI Google Search: The meaning of POLICY is prudence or wisdom in the management of affairs. management or procedure based primarily on material...
+------------------------------------------------------------
+TITLE: Elizabeth City, NC [10]
+SOURCE: SERPAPI Google Search
+
+[OFFLINE] SERPAPI Google Search: Official Website of Elizabeth City, NC. Data Processing Purchase/Warehouse. Box 347 Elizabeth City, NC 27907-0347 Phone: 252-338-3981...
+------------------------------------------------------------
+TITLE: Iowa Department of Agriculture and Land Stewardship [11]
+SOURCE: SERPAPI Google Search
+
+[OFFLINE] SERPAPI Google Search: The Iowa Department of Agriculture and Land Stewardship advocates for Iowa's farmers and protects consumers, animals, our food supply and our shared soil and ......
+------------------------------------------------------------
+TITLE: Congresswoman Lisa McClain [12]
+SOURCE: SERPAPI Google Search
+
+[OFFLINE] SERPAPI Google Search: I am committed to ensuring our service members have access to the quality healthcare they deserve after dedicating their lives to protecting our country....
+------------------------------------------------------------
+TITLE: USAFacts Data MCP [13]
+SOURCE: SERPAPI Google Search
+
+[OFFLINE] SERPAPI Google Search: Access multiple government datasets across federal agencies in one convenient AI-ready location via the USAFacts Data MCP, now in beta....
+------------------------------------------------------------
+TITLE: We all need quality public data to make the big decisions ... [14]
+SOURCE: SERPAPI Google Search
+
+[OFFLINE] SERPAPI Google Search: The Obama administration gave open data a major boost with Data.gov (a catalog of open federal government data) and other initiatives, including The...
+------------------------------------------------------------
+TITLE: Open Data at SSA [15]
+SOURCE: SERPAPI Google Search
+
+[OFFLINE] SERPAPI Google Search: The SSA Open Data Portal is the place to browse or search for SSA data assets and freely download public data for your own analysis. Much of the data managed by ......
+------------------------------------------------------------
+TITLE: Indirect Prompt Injection Plugin [16]
+SOURCE: SERPAPI Google Search
+
+[OFFLINE] SERPAPI Google Search: Indirect Prompt Injection Plugin. Tests whether untrusted data (RAG context, emails, user profiles) can hijack your model when placed into the prompt....
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. Guest Post — Freed from Thinking: Protecting Scholarly Publishing from the Slow Erosion of Human Judgment — https://scholarlykitchen.sspnet.org/2026/10/30/guest-post-freed-from-thinking-protecting-scholarly-publishing-from-the-slow-erosion-of-human-judgment/
+2. Ask the SSP Advocacy Committee: What one change would you most like to see in terms of U.S. federal support for research following the midterms? — https://scholarlykitchen.sspnet.org/2026/10/29/ask-the-ssp-advocacy-committee-what-one-change-would-you-most-like-to-see-in-terms-of-u-s-federal-support-for-research-following-the-midterms/
+3. From Anecdote to Evidence: How US Government Censorship is Impacting Public Health — https://scholarlykitchen.sspnet.org/2026/10/28/from-anecdote-to-evidence-how-us-government-censorship-is-impacting-public-health/
+4. Who Keeps the Catalog of Connectors? The Coming MCP Discovery Problem — https://scholarlykitchen.sspnet.org/2026/10/27/mcp-discovery/
+5. Guest Post — When Research Integrity Fails, the Entire System Follows — https://scholarlykitchen.sspnet.org/2026/10/26/guest-post-when-research-integrity-fails-the-entire-system-follows/
+6. Disaster Risk Reduction and Open Data Newsletter: October 2026 Edition — https://codata.org/blog/2026/10/30/disaster-risk-reduction-and-open-data-newsletter-october-2026-edition/
+7. Enforcement Discretion Policy Regarding 503A ... — https://public-inspection.federalregister.gov/2026-22192.pdf
+8. Monetary policy decisions - European Central Bank — https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html
+9. POLICY Definition & Meaning — https://www.merriam-webster.com/dictionary/policy
+10. Elizabeth City, NC — https://elizabethcitync.gov/
+11. Iowa Department of Agriculture and Land Stewardship — https://iowaagriculture.gov/
+12. Congresswoman Lisa McClain — https://mcclain.house.gov/
+13. USAFacts Data MCP — https://usafacts.org/mcp/
+14. We all need quality public data to make the big decisions ... — https://www.facebook.com/USAFacts/posts/we-all-need-quality-public-data-to-make-the-big-decisions-facing-our-country-sig/1561667679325812/
+15. Open Data at SSA — https://www.ssa.gov/data/
+16. Indirect Prompt Injection Plugin — https://www.promptfoo.dev/docs/red-team/plugins/indirect-prompt-injection/
+
+============================================================
+RUNTIME: 1.75 s
+ESTIMATED TOKENS: 1690
+ESTIMATED COST (USD): $0.0214
+============================================================
