@@ -1,5 +1,8 @@
 # Open Data / Science Policy Monitor — U.S. Academic & Government Updates
 
+## ** edited yml file to stop Nov 2 2026 - returns degraded to useless **
+## ** rewrite notebook and reinitiate yml to revive ** 
+
 ### Overview
 This project automatically searches for, summarizes, and reports on recent (past 7 days) developments in **U.S. open data and science policy**, focusing on academic and federal agency activity.
 
